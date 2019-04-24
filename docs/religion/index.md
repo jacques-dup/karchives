@@ -1,3 +1,10 @@
+---
+title: Gods & Religion
+summary: A summary of the beliefs, religions and cults of Aklatorio
+authors:
+    - Jacques du Plessis
+date: 2019-04-24
+---
 # Gods & Religion
 ##### Gods, Churches, Sects & Secrets
 > Beliefs have always played a great role in culture and the formation of societies.  In a realm where unknown magic dominates the cosmos, it is only fitting that religion plays a key role in the ordering of society.
@@ -40,7 +47,7 @@ Aklatoria is predominantly Polytheistic, potentially having hundreds of differen
 |Lilith	                    |CN| Goddess of Beauty, Seduction and Passion||
 |Lord Aster	                |LG| God of the Sun, Protection and Positive Energies||
 |Madis	                    |LN| God of Wealth, Cities, Trade and Industry||
-|Maia	                    |TN| Goddess of Magic, Grimoirs, Arcana and Spells||
+|[Maia](/religion/deities/maia)     |TN| Goddess of Magic, Grimoirs, Arcana and Spells||
 |Martivir                   |LN| God of Justice and Law||
 |Naásh Feramil	            |LG| Goddess of Family, Hearth and Culture||
 |Nahua	                    |NE| God of Famine Pestilence and Natural Disaster||

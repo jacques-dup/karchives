@@ -4,7 +4,6 @@ Using mkdocs to make some wiki magic.  This project is a collection pages that d
 ## Requirements
 - python & python pip
 - mkdocs package
-
 > See installation instructions at [https://www.mkdocs.org/#installation](https://www.mkdocs.org/#installation)
 
 ## Startup
