@@ -1,4 +1,4 @@
-# KArchives Git Readme
+# KArchives Readme
 Using mkdocs to make some wiki magic.  This project is a collection pages that describe Aklatoria, named the **Kobold Archives**.
 
 ## Requirements
