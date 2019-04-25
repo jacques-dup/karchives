@@ -32,7 +32,7 @@ Aklatoria is predominantly Polytheistic, potentially having hundreds of differen
 |Callad	                    |CN| Goddess of Thieves and Treachery               | |
 |Duswyn	                    |CG| God of Song, Wine and Revelry                  | |
 |Elmara	                    |LG| Goddess of Diplomacy, Royalty and Nobility     | |
-|Erigrim (Dwarf Ancestors)  |n/a| Various portfolios concerning Dwarves         | |
+|[Erigrim](/religion/deities/erigrim) (Dwarf Ancestors)  |n/a| Various portfolios concerning Dwarves         | |
 |Erthan	                    |NG| God of Farming, Lifecycles, Crops and Weather  | |
 |Firna                      |CE| Goddess of Murder, Assassination and Shadows   | |
 |Garkash                    |CE| God of Orcs and Dominion                       | |
