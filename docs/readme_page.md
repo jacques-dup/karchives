@@ -1,10 +1,21 @@
-# KArchives Readme
+# KArchives Git Readme
 Using mkdocs to make some wiki magic.  This project is a collection pages that describe Aklatoria, named the **Kobold Archives**.
 
-## Requirements
-- python & python pip
-- mkdocs package
-> See installation instructions at [https://www.mkdocs.org/#installation](https://www.mkdocs.org/#installation)
+## Installation
+
+- Download and install python3
+- Run pip installs:
+```
+pip install mkdocs
+pip install mkdocs-material
+pip install pymdown-extensions
+pip install markdown-blockdiag
+pip install markdown-include
+```
+
+> See installation instructions for MkDocs at [https://www.mkdocs.org/#installation](https://www.mkdocs.org/#installation)
+<br>
+> See cool examples at [https://alinex.gitlab.io/env/mkdocs](https://alinex.gitlab.io/env/mkdocs)
 
 ## Startup
 * Open project directory in terminal
@@ -22,5 +33,13 @@ Using mkdocs to make some wiki magic.  This project is a collection pages that d
 
 ## Useful Links and Resources
 * [MkDocs Documentation](https://www.mkdocs.org/)
+* [MkDocs Awesome Pages - Plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin)
 * [Markdown Documentation](https://daringfireball.net/projects/markdown/)
 * [Table Generator](https://www.tablesgenerator.com/markdown_tables)
+
+## Plugins Documentation 
+* [includes](https://pypi.org/project/markdown-include/)
+`pip install markdown-include`
+* [extentions](https://pypi.org/project/pymdown-extensions/)
+`pip install pymdown-extensions`
+

@@ -1,3 +1,57 @@
 site_name: Kobold Archives
 theme:
   name: material
+extra_css:
+  - /assets/css/overrides.css
+extra:
+    social:
+        - type: github
+          link: https://github.com/jacques-dup/karchives
+        - type: envelope
+          link: mailto:jdples@gmail.com
+theme:
+    name: material
+    logo:
+        icon: code
+    # favicon: assets/favicon.ico
+    language: en
+    # palette:
+    #     primary: blue
+    #     accent: orange
+    font:
+        text: Roboto
+        code: Roboto Mono
+    feature:
+        # tabs: true
+markdown_extensions:
+    - toc:
+          permalink: true
+    - pymdownx.caret
+    - pymdownx.tilde
+    # for suprescripts, us ^ and subscripts with ~
+    - pymdownx.magiclink
+    - pymdownx.smartsymbols
+    - pymdownx.details
+    # for dropout/accordion elements
+      # ??? optional-class "Summary"
+      # Here's some content.
+    - pymdownx.escapeall
+    # enable escaping with \
+    - pymdownx.extra
+    # BetterEm pymdownx.betterem
+    # SuperFences	pymdownx.superfences
+    # Footnotes	markdown.extensions.footnotes
+    # Attribute Lists	markdown.extensions.attr_list
+    # Definition Lists	markdown.extensions.def_list
+    # Tables	markdown.extensions.tables
+    # Abbreviations	markdown.extensions.abbr
+    # ExtraRawHTML	pymdownx.extrarawhtml
+    - pymdownx.mark:
+        smart_mark: true
+    # for highlights with == ==
+    - pymdownx.betterem:
+        smart_enable: all
+    - markdown_blockdiag:
+          format: svg
+    - markdown_include.include
+    - admonition
