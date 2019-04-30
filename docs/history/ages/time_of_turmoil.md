@@ -17,7 +17,7 @@ The friction manifested though many proxy wars between the new peoples of Aklato
 This _Time of Turmoil_ lasted for a few thousand years. It kept the races of Aklatoria in a Dark age, unable to progress and grow.
 
 ## The Dwarven Salvation
-Near the end of the _Time of Turmoil_, the Dwarven race discovered the Rnestone Tablet.  They had rejected their old gods and were at the time in an all out war against them.  The Runestone enabled a group of them to ascend to divinity themselves.  They are known as the [Erigrim](/religion/deities/erigrim).
+Near the end of the _Time of Turmoil_, the Dwarven race discovered the Runestone Tablet.  They had rejected their old gods and were at the time in an all out war against them.  The Runestone enabled a group of them to ascend to divinity themselves.  They are known as the [Erigrim](/religion/deities/erigrim).
 
 The Runestone gave the Dwarves unparalleled power as a nation, and soon they expanded their empire across all the realms of Aklatoria.  With an unyielding demeanor they grew, liberating those who accepted their dominion and crushing those who stood in their way.  It was the dawn of the [Age of Stone](/history/ages/age_of_stone).
 
