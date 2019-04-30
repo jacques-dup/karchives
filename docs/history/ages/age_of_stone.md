@@ -24,9 +24,9 @@ Their new found strength also had them expand.  They started winning battles aga
 With their conquest they brought commerce, culture and technology, uplifting primitives and crushing competition.
 
 ## Unbreakable Elves
-As the Empire approached the unending forests of the North, they were met with the Elven barbarians, a foe who possessed a battle prowess they have never before seen, and powerful magic to rival their runes.
+As the Empire approached the unending forests of the North, they were met with the Elvin barbarians, a foe who possessed a battle prowess they have never before seen, and powerful magic to rival their runes.
 
-The Elves were ruthless in battle and the Dwarven expansion halted.  Soon the Elves rallied in numbers and pushed back the Dwarven lines.  They formed an unbreakable barrier, no matter the flood of troops the Empire was sending to enforce the lines.  The battle became a war, and the war soon escalated into a power struggle between _Runes_ and _Elven Blood Magic_.
+The Elves were ruthless in battle and the Dwarven expansion halted.  Soon the Elves rallied in numbers and pushed back the Dwarven lines.  They formed an unbreakable barrier, no matter the flood of troops the Empire was sending to enforce the lines.  The battle became a war, and the war soon escalated into a power struggle between _Runes_ and _Elvin Blood Magic_.
 
 ## The Fall of the Empire
 Records speak of the day when Nox eclipsed Aegis, and the realms were thrown into chaos.  The cosmological event was foreseen by the Elves, attuned to the Myst-realm.  They planned for the day to come, and when it was upon them they threw all their might at the center of the Dwarven power: the _Tree of Bonaduic_.  The ancient tree was said to be the primary root of the Runestone's power in Aklatoria.
@@ -34,3 +34,11 @@ Records speak of the day when Nox eclipsed Aegis, and the realms were thrown int
 The Elves destroyed the Tree, and the Dwarven Runes failed.  Their lines were broken and the Empire started to crumble.
 
 The war against the Elves proved too much for the Empire to sustain.  Their kingdom was too large and their warriors spread too far.  Most of the armies retreated to Kalibora, and the realms was ripe for the taking.
+
+## List of Historic Ages
+1. [Age of Seeding](/history/ages/age_of_seeding)
+2. [The Time of Turmoil](/history/ages/time_of_turmoil)
+3. Age of Stone
+4. [Age of the Stars](/history/ages/age_of_the_stars)
+5. [The Long Winter](/history/ages/long_winter)
+6. [Age of the Sun](/history/ages/age_of_the_sun)

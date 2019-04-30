@@ -1,3 +1,10 @@
+---
+title: History - Before History
+summary: A summary of the myths of what is known from before the Age of Seeding.
+authors:
+    - Jacques du Plessis
+date: 2019-04-30
+---
 # The Ages before History
 
 ## Ancient beings
@@ -24,3 +31,11 @@ The different tribes of the Neliavth united in this time, calling themselves the
 
 ## The Vanishing
 Never is it recorded that any side had won.  Writings speak of defeat and victories on both sides.  The last Vestathi works speak of a search for the Ethdarin – possibly an ancient artefact to unlock the meaning of life - before their civilization vanished completely and unexpectedly.
+
+## List of the Historic Ages of Record
+1. [Age of Seeding](/history/ages/age_of_seeding)
+2. [The Time of Turmoil](/history/ages/time_of_turmoil)
+3. [Age of Stone](/history/ages/age_of_stone)
+4. [Age of the Stars](/history/ages/age_of_the_stars)
+5. [The Long Winter](/history/ages/long_winter)
+6. [Age of the Sun](/history/ages/age_of_the_sun)
