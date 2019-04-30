@@ -31,9 +31,9 @@ The Elves were ruthless in battle and the Dwarven expansion halted.  Soon the El
 ## The Fall of the Empire
 Records speak of the day when Nox eclipsed Aegis, and the realms were thrown into chaos.  The cosmological event was foreseen by the Elves, attuned to the Myst-realm.  They planned for the day to come, and when it was upon them they threw all their might at the center of the Dwarven power: the _Tree of Bonaduic_.  The ancient tree was said to be the primary root of the Runestone's power in Aklatoria.
 
-The Elves destroyed the Tree, and the Dwarven Runes failed.  Their lines were broken and the Empire started to crumble.
+The Elves destroyed the Tree, and what followed was utter destruction.  The cosmic balance had been upset and creation shook the earth and heavens.  Stars fell from the sky and the land where the Tree had stood turned barren and dry.
 
-The war against the Elves proved too much for the Empire to sustain.  Their kingdom was too large and their warriors spread too far.  Most of the armies retreated to Kalibora, and the realms was ripe for the taking.
+The war against the Elves proved too much for the Empire to sustain.  The earth was revolting against their conquest and they fled back to their homeland.  Most of the Dwarven armies returned to Kalibora, and the realms were ripe for the taking.
 
 ## List of Historic Ages
 1. [Age of Seeding](/history/ages/age_of_seeding)
