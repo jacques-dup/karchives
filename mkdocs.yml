@@ -1,6 +1,7 @@
 site_name: Kobold Archives
 theme:
   name: material
+
 extra_css:
   - /assets/css/overrides.css
 extra:
@@ -9,20 +10,25 @@ extra:
           link: https://github.com/jacques-dup/karchives
         - type: envelope
           link: mailto:jdples@gmail.com
+
+repo_name: 'jacques-dup/karchives'
+repo_url: 'https://github.com/jacques-dup/karchives'
+
 theme:
     name: material
     logo:
-        icon: code
-    # favicon: assets/favicon.ico
+        icon: library_books
+    favicon: assets/favicon.png
     language: en
-    # palette:
-    #     primary: blue
-    #     accent: orange
+    palette:
+        primary: deep-purple
+        accent: amber
     font:
-        text: Roboto
-        code: Roboto Mono
+        text: Ubuntu
+        code: Ubuntu Mono
     feature:
         # tabs: true
+
 markdown_extensions:
     - toc:
           permalink: true
@@ -53,5 +59,6 @@ markdown_extensions:
         smart_enable: all
     - markdown_blockdiag:
           format: svg
+    # Use this for timeline and event maps
     - markdown_include.include
     - admonition
