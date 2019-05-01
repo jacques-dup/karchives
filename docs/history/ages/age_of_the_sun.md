@@ -6,7 +6,7 @@ authors:
 date: 2019-04-30
 ---
 # The Age of the Sun
-## The Spring of Humanity
+## The Spring of Humanity {: .subtitle }
 
 ## The Melting
 

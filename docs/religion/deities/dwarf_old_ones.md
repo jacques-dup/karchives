@@ -6,7 +6,7 @@ authors:
 date: 2019-04-25
 ---
 # Bellan, the Old Ones
-##### The Forgotten Titans of Dwarven History
+## The Forgotten Titans of Dwarven History {: .subtitle }
 
 * **Type:** Collective Demi-gods
 * **Domains:** None

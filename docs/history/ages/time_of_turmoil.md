@@ -6,7 +6,7 @@ authors:
 date: 2019-04-28
 ---
 # The Time of Turmoil
-##### The Dark Ages
+## The Dark Ages {: .subtitle }
 Some time after the [Seeding](/history/ages/age_of_seeding) the new races of Aklatoria spread to the corners of the known world.  Kin of the Seeds flocked together, wary of each other.  Differences divided the world.
 
 In their infantile understanding of the universe, the races were easily influenced by the new gods.  Patrons were chosen, and the new gods, in their inexperience as deities, granted favour as power without thought.  It fueled the greed of the young races.  Soon all kinship was lost, as the power of the gods were tied to the worship given to them.

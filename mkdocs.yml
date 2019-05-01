@@ -31,7 +31,7 @@ theme:
 
 markdown_extensions:
     - toc:
-          permalink: true
+          permalink: false
     - pymdownx.caret
     - pymdownx.tilde
     # for suprescripts, us ^ and subscripts with ~
@@ -62,3 +62,14 @@ markdown_extensions:
     # Use this for timeline and event maps
     - markdown_include.include
     - admonition
+
+# nav:
+#   - index.md
+#   - Help:
+#     - readme_page.md
+#   - Life:
+#     - people/index.md
+#   - Cosmos:
+#     - cosmology/index.md
+#   - History:
+#     - history/index.md

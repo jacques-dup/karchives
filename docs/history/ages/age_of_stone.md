@@ -6,7 +6,7 @@ authors:
 date: 2019-04-30
 ---
 # The Age of Stone
-##### The Rise of the Dwarves
+## The Rise of the Dwarves {: .subtitle }
 Near the end of the _Time of Turmoil_, the Dwarven race discovered the Runestone Tablet.  They had rejected their old gods and were at the time in an all out war against them.  The Runestone enabled a group of them to ascend to divinity themselves.  They are known as the [Erigrim](/religion/deities/erigrim).
 
 ## The Discovery of the Runestone

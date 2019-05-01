@@ -6,7 +6,7 @@ authors:
 date: 
 ---
 # Deity Name
-##### Deity Portfolio
+## Deity Portfolio {: .subtitle }
 
 * **Type:** Major/Minor Deity
 * **Domains:** 

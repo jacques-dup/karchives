@@ -6,8 +6,7 @@ authors:
 date: 2019-04-30
 ---
 # The Ages before History
-
-## Ancient beings
+## Ancient beings {: .subtitle }
 It is recorded that at the beginning of time only two truly intelligent races resided on Aklatoria.  These were the _Neliavth_ and the _Dragons_. Both possessed inherent magic and were naturally bound to the Myst, wielding power unlike anything in the modern world.
 
 ### Dragons

@@ -6,7 +6,7 @@ authors:
 date: 2019-04-24
 ---
 # Gods & Religion
-##### Gods, Churches, Sects & Secrets
+## Gods, Churches, Sects & Secrets {: .subtitle }
 > Beliefs have always played a great role in culture and the formation of societies.  In a realm where unknown magic dominates the cosmos, it is only fitting that religion plays a key role in the ordering of society.
 
 Aklatoria is predominantly Polytheistic, potentially having hundreds of different gods and even more sect and churches.  At its most common, inhabitants believe in all the listed major deities, whereas in other places, you might find the influence of only some.  The god-lore of the realm is best described in a layered approach, where each layer represents a philosophical ethos surrounding gods and religion.

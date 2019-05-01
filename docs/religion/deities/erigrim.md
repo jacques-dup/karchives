@@ -6,7 +6,7 @@ authors:
 date: 2019-04-25
 ---
 # The Erigrim
-##### Divine Dwarf Ancestors
+## Divine Dwarf Ancestors {: .subtitle }
 
 * **Type:** Minor Pantheon
 * **Domains:** Various (see individual listings)

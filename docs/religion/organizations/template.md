@@ -6,7 +6,7 @@ authors:
 date: 
 ---
 # Church of ...
-##### The Church ...
+## The Church ... {: .subtitle }
 
 * **Type:** Polytheistic; Monotheistic, etc.
 * **Patron Deity:** 

@@ -6,7 +6,7 @@ authors:
 date: 2019-04-24
 ---
 # The Following of Divine Arcana
-##### The Church of Maia, Goddess of Magic
+## The Church of Maia, Goddess of Magic {: .subtitle }
 
 * **Type:** Polytheistic
 * **Patron Deity:** Maia, Goddess of Magic, Grimoires, Arcana and Spells

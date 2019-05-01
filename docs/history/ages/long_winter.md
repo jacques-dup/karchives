@@ -6,7 +6,7 @@ authors:
 date: 2019-04-30
 ---
 # The Long Winter
-#### The Black Seeding
+## The Black Seeding {: .subtitle }
 Following the destruction of the _Tree of Bonaduic_ the land itself revolted, bringing a cataclysm in its wake. The earth shifted and burst, seasons changed and realms became barren.  Aklatoria grew colder and colder, until everything was covered in ice for thousands of years.
 
 ## Dal M'sharn

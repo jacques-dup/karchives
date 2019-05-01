@@ -6,7 +6,7 @@ authors:
 date: 2019-04-25
 ---
 # Dwarven Religious Ancestry
-##### The Beliefs of the Dwarven Pantheon
+## The Beliefs of the Dwarven Pantheon {: .subtitle }
 
 * **Type:** Polytheistic
 * **Patron Deity:** The Erigrim

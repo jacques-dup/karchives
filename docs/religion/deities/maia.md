@@ -6,7 +6,7 @@ authors:
 date: 2019-04-24
 ---
 # Maia
-##### Goddess of Magic, Grimoirs, Arcana and Spells
+## Goddess of Magic, Grimoirs, Arcana and Spells {: .subtitle }
 
 * **Type:** Major Deity (Lesser Deity)
 * **Domains:** Arcana, Knowledge

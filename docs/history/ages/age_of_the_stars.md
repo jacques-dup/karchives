@@ -6,7 +6,7 @@ authors:
 date: 2019-04-30
 ---
 # The Age of the Stars
-##### Elvin Dominion
+## Elvin Dominion {: .subtitle }
 The Elves of old were as fierce as they were intelligent and the marching tide of Dwarves from the south united them in battle.  Since the Age of Seeding they were blessed with a natural link to the Myst, and the god wars had trained them in its use for destruction.  Their sorcerers faced off against the Dwarven Rune Lords and the world shook in its wake.
 
 ## The Destruction of the Tree
