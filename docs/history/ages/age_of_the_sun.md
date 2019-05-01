@@ -20,7 +20,7 @@ Aklatoria had less than a generation when the snows finally melted before the _B
 
 Humanity had to stand together to face the onslaught, and soon declared it an outright war. Four Elvin Lords, The Dwarf King joined by seventy War Chiefs, and the twelve Human Lords joined forces in an alliance against the _Tainted_.
 
-With the combined might of the Alliance, the hold of the Tainted was broken.  Using the knowledge the Elves had gained after their study of the World Trees, the Alliance was able to sever the mystic link that bound the Tainted to their god's blood lust.  With the bond broken, many of the enemy forces broke rank.  Their minds one their own again, but the Taint in their blood still filled them with rage and darkness.
+With the combined might of the Alliance, the hold of the Tainted was broken.  Using the knowledge the Elves had gained after their study of the [World Trees](/geography/places_of_power/world_trees), the Alliance was able to sever the mystic link that bound the Tainted to their god's blood lust.  With the bond broken, many of the enemy forces broke rank.  Their minds one their own again, but the Taint in their blood still filled them with rage and darkness.
 
 The Alliance marched their armies across the realms rooting out whatever remnants of the enemy remained.
 

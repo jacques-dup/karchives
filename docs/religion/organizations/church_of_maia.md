@@ -29,7 +29,7 @@ Clergy of Maia are seekers of truth and knowledge, specifically that of an arcan
 
 To the clergy, their goddess is not a mere entity or patron overseeing the magic of the world.  To them, she is the embodiment of magic and the primary conduit of all magic.  By becoming The Conduit, she gained absolute power and the clergy believes she is probably the most powerful of all known deities.
 
-Maia is strongly tied to the World Trees.  These sites are the anchors that tie the Ever-realms to the world and the primary channel of magical energy into the material plain.  The clergy believes that at each of these sites, a physical embodiment of Maia can be found, where she is chained to its magic by unbreakable chains of parchment.
+Maia is strongly tied to the [World Trees](/geography/places_of_power/world_trees).  These sites are the anchors that tie the Ever-realms to the world and the primary channel of magical energy into the material plain.  The clergy believes that at each of these sites, a physical embodiment of Maia can be found, where she is chained to its magic by unbreakable chains of parchment.
 
 ## Clerical Ranks
 1. **Uninitiated.** The church believes all who acknowledge Maia has a place in her church, but not all are chosen to have her secrets revealed.

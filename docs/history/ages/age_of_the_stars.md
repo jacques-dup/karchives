@@ -7,14 +7,14 @@ date: 2019-04-30
 ---
 # The Age of the Stars
 ## Elvin Dominion {: .subtitle }
-The Elves of old were as fierce as they were intelligent and the marching tide of Dwarves from the south united them in battle.  Since the Age of Seeding they were blessed with a natural link to the Myst, and the god wars had trained them in its use for destruction.  Their sorcerers faced off against the Dwarven Rune Lords and the world shook in its wake.
+The Elves of old were as fierce as they were intelligent and the marching tide of Dwarves from the south united them in battle.  Since the [Age of Seeding](/history/ages/age_of_seeding) they were blessed with a natural link to the Myst, and the god wars had trained them in its use for destruction.  Their sorcerers faced off against the Dwarven Rune Lords and the world shook in its wake.
 
 ## The Destruction of the Tree
-The Elves pushed back the Dwarven advance using their superior knowledge of magic, taking up key locations around the World Trees in order to strengthen their power.  But the Dwarves knew the secrets of the mountains below, and the two races faced off to a stalemate.
+The Elves pushed back the Dwarven advance using their superior knowledge of magic, taking up key locations around the [World Trees](/geography/places_of_power/world_trees) in order to strengthen their power.  But the Dwarves knew the secrets of the mountains below, and the two races faced off to a stalemate.
 
 By the influence of Nox the Elves decided to break the Dwarven power by destroying the World Tree which produced the Seed of the Mountain.  Its destruction would break the power of their runes.  Little did they know that the Rune Stone was not created by the Dwarves, and the destruction would bring them nothing but pain.
 
-With the destruction of the _Tree of Bonaduic_, the Elves were able to break the lines of the Dwarven expansionists.  It was a drastic measure, long since regretted by the race, even though what followed was the blossoming of Elvin civilization.
+With the destruction of the [Tree of Bonaduic](/geography/places_of_power/world_trees#tree-of-bonaduic), the Elves were able to break the lines of the Dwarven expansionists.  It was a drastic measure, long since regretted by the race, even though what followed was the blossoming of Elvin civilization.
 
 ## Quest for Healing
 As the World Tree burned the earth revolted.  Stars fell from the sky as the earth shook and flooded its oceans.  The land around the tree grew barren and erupted in fire and ash.

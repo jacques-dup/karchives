@@ -6,7 +6,7 @@ authors:
 date: 2019-04-30
 ---
 # People of Narrenfell
-The Narr are honorable, traditionalist people, with deep roots in their historic ideals and naturalist philosophy.  During the [Age of Stone](/history/ages/age_of_stone), they were heavily influenced by the Dwarven settlers, embracing the progress they brought and feeling kinship with their moral ethos.
+The [Narr](/geography/realms/narrenfell) are honorable, traditionalist people, with deep roots in their historic ideals and naturalist philosophy.  During the [Age of Stone](/history/ages/age_of_stone), they were heavily influenced by the Dwarven settlers, embracing the progress they brought and feeling kinship with their moral ethos.
 
 New settlements form rarely in this land, where most regard nature before riches and many villages stay small.
 

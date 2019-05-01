@@ -7,7 +7,7 @@ date: 2019-04-30
 ---
 # The Long Winter
 ## The Black Seeding {: .subtitle }
-Following the destruction of the _Tree of Bonaduic_ the land itself revolted, bringing a cataclysm in its wake. The earth shifted and burst, seasons changed and realms became barren.  Aklatoria grew colder and colder, until everything was covered in ice for thousands of years.
+Following the destruction of the [Tree of Bonaduic](/geography/places_of_power/world_trees#tree-of-bonaduic) the land itself revolted, bringing a cataclysm in its wake. The earth shifted and burst, seasons changed and realms became barren.  Aklatoria grew colder and colder, until everything was covered in ice for thousands of years.
 
 ## Dal M'sharn
 It is not known why the comet of Dal M'sharn came, or how.  Scholars now believe the comet itself was actually the [Seed of the Deep](/history/myths/seeds_of_life#the-seed-of-the-deep), falling to the earth after being lost in the void for eons as its effect on the world was the same.

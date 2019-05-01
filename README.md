@@ -24,7 +24,7 @@ pip install markdown-include
 
 ## Making pages
 * Pages are stored in nested folders inside the `docs` folder
-* Page resources are saved as markdow (.md) files
+* Page resources are saved as markdown (.md) files
 
 ### Page Design Guide
 * Use nested pages where possible
