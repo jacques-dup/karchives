@@ -18,4 +18,4 @@ But the purpose of the seed was not to merely cause destruction.  It was to give
 
 The [Seed of the Deep](/history/myths/seeds_of_life#the-seed-of-the-deep), fermenting in the Chaos Void for untold eons, contained in it the power to taint what it touched.  The Dark Lord used it on the races of Aklatoria and birthed the_ Black Blood_ races, the _Tainted Ones_. Orcs, Goblins, Trolls, Vampires. All creatures hated by man was born from his _Black Seed_.  
 
-And with his new army, the god of war marched against the world.
+The god's Blood Lust filled their hearts and he was able to command them at will. With his new army, the god of war marched against the world.
