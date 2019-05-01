@@ -25,7 +25,7 @@ Most of the major settlements are quite modernized and civilized, especially tho
 Small villages are scattered across the wilderness, where the land shows why it was historically known as the _Barbarian Kingdom_.
 
 ## Leadership & Nobility
-Stemming from historical traditions, the Narrenfell is _**guided**_ (rather than ruled) by a Triad of leaders from the major cities in the region.  They are known as _Sebi_ ^chiefs^, who reside in the three capitals of the region: **Sceptre’s Hall** in the West, **Port Mere** in the South, and Eskold in the North.  These leaders meet annually to discuss trade and management of the realm, each with their own counsellors.
+Stemming from historical traditions, the Narrenfell is _**guided**_ (rather than ruled) by a Triad of leaders from the major cities in the region.  They are known as _Sebi_ ^chiefs^, who reside in the three capitals of the region: **Sceptre's Hall** in the West, **Port Mere** in the South, and Eskold in the North.  These leaders meet annually to discuss trade and management of the realm, each with their own counsellors.
 
 The _Sebis'_ authority are recognized by all and generally considered absolute, but no single settlement (apart from the capital cities) owe any direct allegiance to them.  For the most part, settlements govern themselves in a state-like fashion, and entertain a pseudo-federal-like relationship to the Triad states.
 

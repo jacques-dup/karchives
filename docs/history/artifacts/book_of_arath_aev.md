@@ -1,20 +1,20 @@
 # The Book of Arath Aev
 
-Long before any texts were to be found, the world was created.  According to the Kobold Archives the oldest myth of creation is recorded in _**The Book of Arath Aev**_.  It is believed to bave been a holy book of the _Nelivth_ people, the oldest civilization of Aklatoria, now a mere memory manifesting in scattered ruins across the world.
+Long before any texts were to be found, the world was created.  According to the Kobold Archives the oldest myth of creation is recorded in _**The Book of Arath Aev**_.  It is believed to have been a holy book of the _Neliavth_ people, the oldest civilization of Aklatoria, now a mere memory manifesting in scattered ruins across the world.
 
 The Book, actually consists of five texts, each describing a different time period.  It is written in poetic edda and steeped in religious dogma.  The following extracts could be reconstructed from various sources and translated.  No full copy has ever been found.
 
 ### Book 1 - Genesis: 
 > In the beginning Aevum created the universe.  There was no plan or purpose.  It merely was, as the most divine of wills cannot be without existing.  It was an empty shell; a void of potential.  Within it incubated the spirit of all things that can be, and will be and ever has been.  For time is no master to the creation of Aevum.  The shell was a vessel for all things to be made true.
 >
-> The spirit grew vast and lit up the void with a burst of unfathomable energy.  For the briefest of moments the stasis was no more than a thought.  The structure broke apart and ripped across the void to bring forth many stars and uncountable worlds.  Each of these was the true reflection of Aevum’s potential, yet each of these was unique as Aevum is all possible things and none of them at once.
+> The spirit grew vast and lit up the void with a burst of unfathomable energy.  For the briefest of moments the stasis was no more than a thought.  The structure broke apart and ripped across the void to bring forth many stars and uncountable worlds.  Each of these was the true reflection of Aevum's potential, yet each of these was unique as Aevum is all possible things and none of them at once.
 >
 > In some of these Aevum was made into being.  His spirit became substance and his name became known.  In this world The People was made.  And in this world it is written down.
 
 ### Book two - The Old ones: 
 > Aevum-of-two-faces gave birth to his first daughter and called her Gaia.  She was half stasis and half entropy, but none of these at all.  The stern face of the father loved her laws and blessed his child with eternity and substance.  The mad face of the father loved her chaos and blessed his child with tempest storms from core to sky.
 > 
-> He made for her a companion, Jarla the Great, a titan of the skies.  But Jarla was dim-witted as he had not been born from Aevum’s essence, but from his magic.  He wandered amongst the stars in fascination to their brilliance.
+> He made for her a companion, Jarla the Great, a titan of the skies.  But Jarla was dim-witted as he had not been born from Aevum's essence, but from his magic.  He wandered amongst the stars in fascination to their brilliance.
 >
 > So Aevum gave birth to the twins Aegis and Nox, each the opposite of the other.  One stern and one mad, like the two faces of the father himself.  He looked upon them and loved them both, but felt them incomplete without the other.
 >

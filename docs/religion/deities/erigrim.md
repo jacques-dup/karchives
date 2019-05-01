@@ -14,7 +14,7 @@ date: 2019-04-25
 * **Followers:** Dwarves
 * **Manifestation:** The Erigrim changed little in appearance since their ascension.  They are each identified by their personal rune that they wear on their clothing and by the saintly halo on their heads.  They appear individually or in groups to their followers.
 
-**Erigrim** (Elders, Eternal Ones).  The first Dwarf to make himself a god was the Allfather Agamor.  Soon to follow was his Battlemaster Gort and the Runekeeper Toreval.  All the Ancestors were once mortals, who found power and divinity as they battled the [Old Ones](/religion/deities/dwarf_old_ones).
+**Erigrim** (Elders, Eternal Ones).  The first Dwarf to make himself a god was the Allfather Agamor.  Soon to follow was his Battle Master Gort and the Rune Keeper Toreval.  All the Ancestors were once mortals, who found power and divinity as they battled the [Old Ones](/religion/deities/dwarf_old_ones).
 
 ## Pantheon Members
 |Deity|Align|Rune|Portfolio|Domain|
@@ -61,7 +61,7 @@ From the mountain summit Agamor watched his people.  His party explored the ruin
 
 And so the war between the Dwarves and the Old Ones started, yet it was a battle doomed from the start.  **Fallarn**, the embodiment of Dwarven bravery called the clans together and convinced them to fight.  **Noragall** strengthened their bond of unity, making them remember their honour and pride.  All the clans gathered to fight against the immortals.  Their fiercest general, **Gort** came forward to lead the assault.
 
-The Dwarves used the Runestone every time they went into battle, striking it to weaken the Old Ones.  Many died still and the Dwarves were losing the war.  **Toreval** was first to suggest that the markings on the Runestone was more than decorations.  He thought it was a text, written in the language of the Old Ones and that it gave the stone its power.  This is when _**Agamor’s study**_ began.
+The Dwarves used the Runestone every time they went into battle, striking it to weaken the Old Ones.  Many died still and the Dwarves were losing the war.  **Toreval** was first to suggest that the markings on the Runestone was more than decorations.  He thought it was a text, written in the language of the Old Ones and that it gave the stone its power.  This is when _**Agamor's study**_ began.
 
 The Dwarves were losing so many warriors, they started to fragment.  Out of the stone and rock they carved sanctuaries to hide from the wrath of the Old Ones.  Sanctuaries turned to fortresses and the dwarves found that they could hold out and survive underground.  New heroes were born and old ones died.  **Urir** the Assassin, **Bazardin** the Smith.  Still **Agamor** studied the Runestone and still more were lost to the war.  The stone kept those close to it alive and it kept **Agamor** and his allies from aging.  It was in the 400th year since the stone was found that the Erigrim became more than the leaders of the war.  The clans saw them as living paragons of their unity, respecting and even fearing them as demigods.
 

@@ -20,7 +20,7 @@ According to Dwarven custom, they may take any patron.  They see servitude to a 
 
 Some schools of thought say that because the Erigrim were once only mortals, that they aren’t true gods, yet still revere them as demigods.  Others believe that the Erigrim are the chosen gods of all Dwarves.
 
-Still all believe that the Erigrim must be regarded with the utmost respect and love, for they are all that Dwarfkind strives to be.
+Still all believe that the Erigrim must be regarded with the utmost respect and love, for they are all that Dwarf-kind strives to be.
 
 ## Beliefs and Dogma of the Clergy: 
 

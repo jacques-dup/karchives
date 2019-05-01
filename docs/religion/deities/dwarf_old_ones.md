@@ -10,8 +10,8 @@ date: 2019-04-25
 
 * **Type:** Collective Demi-gods
 * **Domains:** None
-* **Symbol:** None
-* **Followers:** ᚾ : _"Naudiz" (need/distress)_
+* **Symbol:** ᚾ : _"Naudiz" (need/distress)_
+* **Followers:** Unknown
 * **Manifestation:** Unknown
 
 Bellan (First ones, The Forgotten, The Titans).

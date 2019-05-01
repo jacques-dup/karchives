@@ -24,7 +24,7 @@ pip install markdown-include
 
 ## Making pages
 * Pages are stored in nested folders inside the `docs` folder
-* Page resources are saved as markdow (.md) files
+* Page resources are saved as markdown (.md) files
 
 ### Page Design Guide
 * Use nested pages where possible
@@ -39,7 +39,5 @@ pip install markdown-include
 
 ## Plugins Documentation 
 * [includes](https://pypi.org/project/markdown-include/)
-`pip install markdown-include`
-* [extentions](https://pypi.org/project/pymdown-extensions/)
-`pip install pymdown-extensions`
+* [extensions](https://pypi.org/project/pymdown-extensions/)
 

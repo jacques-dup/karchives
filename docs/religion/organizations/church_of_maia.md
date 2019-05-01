@@ -9,7 +9,7 @@ date: 2019-04-24
 ## The Church of Maia, Goddess of Magic {: .subtitle }
 
 * **Type:** Polytheistic
-* **Patron Deity:** Maia, Goddess of Magic, Grimoires, Arcana and Spells
+* **Patron Deity:** Maia, Goddess of Magic, Grimoirs, Arcana and Spells
 
 ## Common Worship and General Knowledge:
 Maia, as a one of the major deities of Aklatoria, has followers in all major centers and across cultures and embracing the polytheistic ethos of this realm.  Anyone can choose Maia as their patron and even those not claimed to her faith are known to pray at her shrines on occasion, especially when a problem of magical nature is faced by the devout.
