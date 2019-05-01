@@ -35,7 +35,7 @@ Aklatoria is predominantly Polytheistic, potentially having hundreds of differen
 |[Erigrim](/religion/deities/erigrim) (Dwarf Ancestors)  |n/a| Various portfolios concerning Dwarves         | |
 |Erthan	                    |NG| God of Farming, Lifecycles, Crops and Weather  | |
 |Firna                      |CE| Goddess of Murder, Assassination and Shadows   | |
-|Garkash                    |CE| God of Orcs and Dominion                       | |
+|[Garkash](/religion/deities/garkash)|CE| God of Orcs and Dominion                       | |
 |Heron	                    |LG| Goddess of Valour, Nobility, Poetic Justice and Retribution||
 |Hhoru	                    |NE| God of Blood, Sacrifice and Spiritism||
 |Irthor and Kidan	        |TN| Gods of Knowledge, History and Myth, Invention and Clockwork||
