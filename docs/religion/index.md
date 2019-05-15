@@ -48,7 +48,7 @@ Aklatoria is predominantly Polytheistic, potentially having hundreds of differen
 |Lord Aster	                |LG| God of the Sun, Protection and Positive Energies||
 |Madis	                    |LN| God of Wealth, Cities, Trade and Industry||
 |[Maia](/religion/deities/maia)     |TN| Goddess of Magic, Grimoirs, Arcana and Spells||
-|Martivir                   |LN| God of Justice and Law||
+|[Martivir](/religion/deities/martivir)                   |LN| God of Justice and Law||
 |Naásh Feramil	            |LG| Goddess of Family, Hearth and Culture||
 |Nahua	                    |NE| God of Famine Pestilence and Natural Disaster||
 |Nimwind	                |TN| Goddess of Stars, Dreams, Wisdom and Divination||
