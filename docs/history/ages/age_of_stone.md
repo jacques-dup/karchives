@@ -29,7 +29,7 @@ As the Empire approached the unending forests of the North, they were met with t
 The Elves were ruthless in battle and the Dwarven expansion halted.  Soon the Elves rallied in numbers and pushed back the Dwarven lines.  They formed an unbreakable barrier, no matter the flood of troops the Empire was sending to enforce the lines.  The battle became a war, and the war soon escalated into a power struggle between _Runes_ and _Elvin Blood Magic_.
 
 ## The Fall of the Empire
-Records speak of the day when Nox eclipsed Aegis, and the realms were thrown into chaos.  The cosmological event was foreseen by the Elves, attuned to the Myst-realm.  They planned for the day to come, and when it was upon them they threw all their might at the center of the Dwarven power: the [Tree of Bonaduic](/geography/places_of_power/world_trees#tree-of-bonaduic).  The ancient tree was said to be the primary root of the Runestone's power in Aklatoria.
+Records speak of the day when Nox eclipsed Aegis, and the realms were thrown into chaos.  The cosmological event was foreseen by the Elves, attuned to the Myst-realm.  They planned for the day to come, and when it was upon them they threw all their might at the center of the Dwarven power: the [Tree of Bonaduic](/cosmology/magic/places_of_power/world_trees#tree-of-bonaduic).  The ancient tree was said to be the primary root of the Runestone's power in Aklatoria.
 
 The Elves destroyed the Tree, and what followed was utter destruction.  The cosmic balance had been upset and creation shook the earth and heavens.  Stars fell from the sky and the land where the Tree had stood turned barren and dry.
 

@@ -1,6 +1,7 @@
 # Realms Template
 
-## Sub-pages
-- Cities
-- Locations
-- Organizations
+## Settlements
+
+## Notable Locations
+
+## Organizations

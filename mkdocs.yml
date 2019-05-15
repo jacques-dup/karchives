@@ -3,7 +3,7 @@ theme:
   name: material
 
 extra_css:
-  - /assets/css/overrides.css
+  - /assets/css/custom.css
 extra:
     social:
         - type: github

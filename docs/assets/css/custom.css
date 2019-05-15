@@ -1,0 +1,38 @@
+/* Custom styles go here */
+
+.full-width {
+    width: 100%
+}
+.half-width {
+    width: 49.5%;
+}
+.quarter-width {
+    width: 25%;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+
+.footnote {
+    font-size: 0.2rem;
+}
+
+/* Overrides */
+
+.md-typeset h1 {
+    margin: 0;
+}
+.md-typeset h2.subtitle {
+    display: block;
+    margin: 0;
+    padding-left: 0.3em;
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1rem;
+    text-transform: uppercase;
+    letter-spacing: -.01em;
+    color: rgba(0,0,0,.54);
+}
