@@ -16,7 +16,7 @@ date: 2019-04-24
 
 ## Associated Religious Organizations:
 * [The Following of Divine Arcana](/religion/organizations/church_of_maia) (The Following, The Church of Maia, The Church of Magic)
-* The Circle of Arcana (Loose pantheon associate)
+* [The Circle of Arcana](/religion/organizations/circle_of_arcana) (Loose pantheon associate)
 
 ## Myths & Dogma
 ### Genesis
