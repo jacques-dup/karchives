@@ -27,42 +27,42 @@ Aklatoria is predominantly Polytheistic, potentially having hundreds of differen
 ## Common Deities
 |Name|Align.|Portfolio|Organizations|
 |-|:-:|---|---|
-|Armara, _of the Sky_       |NG| Goddess of Air, Instauration (Revival and Life)| |
-|Assador                    |LE| God of the Fallen, Suffering and Loss          | |
-|Callad	                    |CN| Goddess of Thieves and Treachery               | |
-|Duswyn	                    |CG| God of Song, Wine and Revelry                  | |
-|Elmara	                    |LG| Goddess of Diplomacy, Royalty and Nobility     | |
-|[Erigrim](/religion/deities/erigrim) (Dwarf Ancestors)  |n/a| Various portfolios concerning Dwarves         | |
-|Erthan	                    |NG| God of Farming, Lifecycles, Crops and Weather  | |
-|Firna                      |CE| Goddess of Murder, Assassination and Shadows   | |
-|[Garkash](/religion/deities/garkash)|CE| God of Orcs and Dominion                       | |
-|Heron	                    |LG| Goddess of Valour, Nobility, Poetic Justice and Retribution||
-|Hhoru	                    |NE| God of Blood, Sacrifice and Spiritism||
-|Irthor and Kidan	        |TN| Gods of Knowledge, History and Myth, Invention and Clockwork||
-|Kaerlun Kreepmaster	    |TN| God of Taming Beasts and Magical Creatures||
-|Lafarn	                    |NG| God of Travel, New Horizons and New Beginnings||
-|Lenkinfail	                |LN| Judge of the Life Lived||
-|Leonne	                    |CN| Goddess of Beasts, Animals, the Hunt and Nature's Wrath||
-|Lex Fireheart	            |CG| God of Bravery, Fighters and Strength||
-|Lilith	                    |CN| Goddess of Beauty, Seduction and Passion||
-|Lord Aster	                |LG| God of the Sun, Protection and Positive Energies||
-|Madis	                    |LN| God of Wealth, Cities, Trade and Industry||
-|[Maia](/religion/deities/maia)     |TN| Goddess of Magic, Grimoirs, Arcana and Spells||
-|[Martivir](/religion/deities/martivir)                   |LN| God of Justice and Law||
-|Naásh Feramil	            |LG| Goddess of Family, Hearth and Culture||
-|Nahua	                    |NE| God of Famine Pestilence and Natural Disaster||
-|Nimwind	                |TN| Goddess of Stars, Dreams, Wisdom and Divination||
-|Nod	                    |NE| God of Phantasm, Madness and Nightmares||
-|Odian	                    |NG| God of Strength, War, Strategy and War-stories||
-|Opus, _of the Trees_       |LN| God of Forests and Mountains||
-|Ornim	                    |TN| God of Tombstones||
-|Rumara Caelan              |CG| Goddess of Adventure, Good Fortune, Humour and Dancing||
-|Seth	                    |CE| Goddess of Chaos, Hatred and Jealousy||
-|Shaleon, _of the Seas_	    |CN| God of the Seas, Water, Ships and Waves||
-|Stryder                    |CG| God of Mischief, Illusion, Intelligence and Luck||
-|Throden	                |LN| Lord of Dragons, Dragon kind and Draconic Lore||
-|Tooloo	                    |NE| God of the Survival||
-|Tor Stormcaller	        |CN| God of Storms, Chaotic Weather and Natural Destruction||
-|Ura of the Deep	        |CN| God of Fire and Destructive Force||
-|Vonryl Kethalon	        |LE| Goddess of the Eternal Winter||
-|Zarach	                    |LE| God of Death and Lost Souls||
+|[Armara, _of the Sky_ ](/religion/deities/armara)          |NG| Goddess of Air, Instauration (Revival and Life)                    | |
+|[Assador](/religion/deities/assador)                       |LE| God of the Fallen, Suffering and Loss                              | |
+|[Callad](/religion/deities/callad)	                        |CN| Goddess of Thieves and Treachery                                   | |
+|[Duswyn](/religion/deities/duswyn)	                        |CG| God of Song, Wine and Revelry                                      | |
+|[Elmara](/religion/deities/elmara)	                        |LG| Goddess of Diplomacy, Royalty and Nobility                         | |
+|[Erigrim](/religion/deities/erigrim) (Dwarf Ancestors)     |n/a| Various portfolios concerning Dwarves                             | |
+|[Erthan](/religion/deities/erthan)	                        |NG| God of Farming, Life-cycles, Crops and Weather                     | |
+|[Firna](/religion/deities/firna)                           |CE| Goddess of Murder, Assassination and Shadows                       | |
+|[Garkash](/religion/deities/garkash)                       |CE| God of Orcs and Dominion                                           | |
+|[Heron](/religion/deities/heron)	                        |LG| Goddess of Valour, Nobility, Poetic Justice and Retribution        | |
+|[Hhoru](/religion/deities/hhoru) (hoo-roo)	                |NE| God of Blood, Sacrifice and Spiritism                              | |
+|[Irthor and Kidan](/religion/deities/irthor_&_kidan)	    |TN| Gods of Knowledge, History and Myth, Invention and Clockwork       | |
+|[Kaerlun Kreepmaster](/religion/deities/kaerlun)	        |TN| God of Taming Beasts and Magical Creatures                         ||
+|[Lafarn](/religion/deities/lafarn)	                        |NG| God of Travel, New Horizons and New Beginnings                     ||
+|[Lenkinfail](/religion/deities/lenkinfail)	                |LN| Judge of the Life Lived                                            ||
+|[Leonne](/religion/deities/leonne)                         |CN| Goddess of Beasts, Animals, the Hunt and Nature's Wrath            ||
+|[Lex Fireheart](/religion/deities/lex_fireheart)	        |CG| God of Bravery, Fighters and Strength                              ||
+|[Lilith](/religion/deities/lilith)	                        |CN| Goddess of Beauty, Seduction and Passion                           ||
+|[Lord Aster](/religion/deities/lord_aster)	                |LG| God of the Sun, Protection and Positive Energies                   ||
+|[Madis](/religion/deities/madis)                           |LN| God of Wealth, Cities, Trade and Industry                          ||
+|[Maia](/religion/deities/maia)                             |TN| Goddess of Magic, Grimoirs, Arcana and Spells                      ||
+|[Martivir](/religion/deities/martivir)                     |LN| God of Justice and Law                                             ||
+|[Naásh Feramil](/religion/deities/naash_feramil)           |LG| Goddess of Family, Hearth and Culture                              ||
+|[Nahua](/religion/deities/nahua) (na-Hu)	                |NE| God of Famine Pestilence and Natural Disaster                      ||
+|[Nimwind](/religion/deities/nimwind)	                    |TN| Goddess of Stars, Dreams, Wisdom and Divination                    ||
+|[Nod](/religion/deities/nod)	                            |NE| God of Phantasm, Madness and Nightmares                            ||
+|[Odian](/religion/deities/odian)	                        |NG| God of Strength, War, Strategy and War-stories                     ||
+|[Opus, _of the Trees_](/religion/deities/opus)             |LN| God of Forests and Mountains                                       ||
+|[Ornim](/religion/deities/ornim)	                        |TN| God of Tombstones                                                  ||
+|[Rumara Caelan](/religion/deities/rumara_caelan)           |CG| Goddess of Adventure, Good Fortune, Humour and Dancing             ||
+|[Seth](/religion/deities/seth)	                            |CE| Goddess of Chaos, Hatred and Jealousy                              ||
+|[Shaleon, _of the Seas_](/religion/deities/shaeleon)	    |CN| God of the Seas, Water, Ships and Waves                            ||
+|[Stryder](/religion/deities/stryder)                       |CG| God of Mischief, Illusion, Intelligence and Luck                   ||
+|[Throden](/religion/deities/throden)	                    |LN| Lord of Dragons, Dragon kind and Draconic Lore                     ||
+|[Tooloo](/religion/deities/tooloo)	                        |NE| God of the Survival                                                ||
+|[Tor Stormcaller](/religion/deities/tor)	                |CN| God of Storms, Chaotic Weather and Natural Destruction             ||
+|[Ura of the Deep](/religion/deities/ura)	                |CN| God of Fire and Destructive Force                                  ||
+|[Vonryl Kethalon](/religion/deities/vonryl_kethalon)	    |LE| Goddess of the Eternal Winter                                      ||
+|[Zarach](/religion/deities/zarach)	                        |LE| God of Death and Lost Souls                                        ||

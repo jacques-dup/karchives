@@ -8,7 +8,7 @@ date: 2019-04-25
 # Dwarven Religious Ancestry
 ## The Beliefs of the Dwarven Pantheon {: .subtitle }
 
-* **Type:** Polytheistic
+* **Type:** Verdant Ethos: Polytheistic, Animism
 * **Patron Deity:** The Erigrim
 
 ## Common Worship and General Knowledge:

@@ -8,7 +8,7 @@ date: 2020-03-16
 # The Circle of Arcana
 ## A pantheon of the Arcane Arts {: .subtitle }
 
-* **Type:** Polytheistic
+* **Type:** Scientific Ethos: Polytheistic, Truth Seekers
 * **Patrons:** [Maia](/religion/dieties/maia), [Irthor & Kidan](/religion/deities/irthor_&_kidan), [Nimwind](/religion/deities/nimwind), [Kearlun Kreepmaster](/religion/deities/kaerlun), [Ura](/religion/deities/ura)
 
 ## Common Worship and General Knowledge:

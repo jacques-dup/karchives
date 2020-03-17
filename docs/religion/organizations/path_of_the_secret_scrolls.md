@@ -8,7 +8,7 @@ date: 2020-03-16
 # The Path of the Secret Scrolls
 ## The Order of Artifice {: .subtitle }
 
-* **Type:** Polytheistic
+* **Type:** Scientific Ethos: Polytheistic, Truth Seekers
 * **Patron Deity:** [Irthor & Kidan](/religion/deities/irthor_&_kidan)
 
 ## Common Worship and General Knowledge:

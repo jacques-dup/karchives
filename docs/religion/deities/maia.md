@@ -9,7 +9,8 @@ date: 2019-04-24
 ## Goddess of Magic, Grimoirs, Arcana and Spells {: .subtitle }
 
 * **Type:** Major Deity (Lesser Deity)
-* **Domains:** Arcana, Knowledge
+* **Alignment:** Neutral
+* **Domains:** Arcana, Knowledge, Solidarity
 * **Symbol:** A star eclipsing the two moons
 * **Followers:** Mages, Sorcerers, Fey, seekers of knowledge, artifacts and ancient wisdom.
 * **Manifestation:**  Maia chooses to reveal herself in the image of a young beatify woman or nymph, often depicted in a frail and delicate position.  Her hair is flowing in long, golden strands with eyes of fiery amber.  When clothed, her dress is simple and revealing, with depictions of stars and moons laced into the fabric

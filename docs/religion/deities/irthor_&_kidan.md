@@ -9,6 +9,7 @@ date: 2020-03-14
 ## Twin gods of of Knowledge, History and Myth, Invention and Clockwork {: .subtitle }
 
 * **Type:** Major Deity (Lesser Deity)
+* **Alignment:** Neutral
 * **Domains:** Artifice, Knowledge, Magic
 * **Symbol:** An intricate clockwork orb with a scroll ribbon adorning its base.
 * **Followers:** Artificers, historians, inventors, and all those who pursue the endless gaining of knowledge may be followers of Irthor & Kidan. They are also the patrons of all Warforged.
