@@ -9,7 +9,7 @@ date: 2020-03-16
 ## A pantheon of the Arcane Arts {: .subtitle }
 
 * **Type:** Scientific Ethos: Polytheistic, Truth Seekers
-* **Patrons:** [Maia](/religion/dieties/maia), [Irthor & Kidan](/religion/deities/irthor_&_kidan), [Nimwind](/religion/deities/nimwind), [Kearlun Kreepmaster](/religion/deities/kaerlun), [Ura](/religion/deities/ura)
+* **Patrons:** [Maia](/religion/deities/maia), [Irthor & Kidan](/religion/deities/irthor_&_kidan), [Nimwind](/religion/deities/nimwind), [Kearlun Kreepmaster](/religion/deities/kaerlun), [Ura](/religion/deities/ura)
 
 ## Common Worship and General Knowledge:
 The Circle of Arcana is a Pantheon grouping of all deities associated with magic in some way.  Its followers are typically scholars of the Arcane or at least practitioners of magic.

@@ -6,7 +6,7 @@ authors:
 date: 2020-03-17
 ---
 # Heron
-## Goddess of Valor, Nobility, Poetic Justice and Retributions {: .subtitle }
+## Goddess of Valor, Nobility, Poetic Justice and Retribution {: .subtitle }
 
 * **Type:** Major Deity (Lesser Deity)
 * **Alignment:** Lawful Good

@@ -17,7 +17,7 @@ date: 2020-03-24
 
 ## Associated Religious Organizations:
 * [Sky-seekers](/religion/organizations/sky_seekers) (Primary Church of Armara)
-* [The Circle of the One](/religion/organizations/circle_of_the_one) (Pantheon of Life)
+* [The Circle of Vitalis](/religion/organizations/circle_of_vitalis) (Pantheon of Life)
 * [The Elemental Courts](/religion/organizations/elemental_courts) (Pantheon of Elementals)
 
 ## Myths & Dogma
