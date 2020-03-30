@@ -20,6 +20,11 @@ date: 2020-03-24
 * [The Circle of Vitalis](/religion/organizations/circle_of_vitalis) (Pantheon of Life)
 * [The Elemental Courts](/religion/organizations/elemental_courts) (Pantheon of Elementals)
 
+## Other Names:
+* "Aiwiinor" (Elvin: One of the Winds)
+* "Aria" (Casavano and Caenar)
+* "Lurrden-Mörr" (Dwarven: Mother of the Sky)
+
 ## Myths & Dogma
 ### Genesis
 Armara is eternal as the skies above all creation.  From when the first of the lower creatures claimed the skies, before the ages of record, the spirit of Armara was there.  Her keen eye guiding the cycles of life and renewal from within her perch in the clouds.
