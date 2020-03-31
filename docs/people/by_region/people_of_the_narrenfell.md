@@ -38,10 +38,10 @@ However there is an unusual duality in their morality, being true to the law of 
 
 To the people, life has purpose, and in that, a purposeful death is one of honour.  They believe that what you leave behind is more important than what you achieve in life for yourself. 
 
-##Cultural Images:
+## Cultural Images:
 Animals play an important role in society -  as spirits of guidance and examples of wisdom.  Even those who have fully embraced a secular living, still revere the old folklore and keep totems as important moral reminders.  Fables are used to teach their children the importance of honour and honesty.
 
-##Sayings:
+## Sayings:
 > “When you show respect for living things, they will show respect for you.”
 
 >“A man can be a wolf or a bear in his mind, and then let his body follow”
