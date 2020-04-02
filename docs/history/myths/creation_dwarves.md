@@ -13,7 +13,9 @@ He had friends amongst the spirits of the earth and often made gifts for them, b
 
 But Ärun was stubborn and rose up to the challenge.  For many years he worked the forge, mixing stone and steel.  He formed a hundred thousand figurines, reflections of his own strength and prowess.  It was not enough to impress the spirits, so he continued working.  When he returned the figurines could move and speak, but they were still lifeless.  Though some applauded, not all were convinced, so he went back to his forge and continued working.
 
-This time Ärun took the Seed of the Life which fell beneath his mountain, and started giving his figurines true consciousness. He called them _Kazundverder_, the Dwarves.  And when he returned with the living beings, the spirits rejoiced and praised him.  Exhausted from his work, Ärun went to sleep.  He made two of the spirits promise him that they will watch over his creation.  _Sultím_, the day spirit, would give them warmth and teach them to make fire.  _Tungletím_, the night spirit, would grant them pleasant dreams.
+This time Ärun took the Seed of the Life which fell beneath his mountain, and workid it on its anvil amoung the stone and steel.  It started giving his figurines true consciousness. He called them _Kazundverder_, the Dwarves.
+
+When he returned with the living beings, the spirits rejoiced and praised him.  Exhausted from his work, Ärun went to sleep.  He made two of the spirits promise him that they will watch over his creation.  _Sultím_, the day spirit, would give them warmth and teach them to make fire.  _Tungletím_, the night spirit, would grant them pleasant dreams.
 
 But as he slept the other spirits made plans to enslave the new Dwarves.  They sent an agent to the sleeping giant, who poisoned him as he dreamed.  The poison was meant to make him forget his creation, so that the Dwarves could serve the spirits instead.
 
