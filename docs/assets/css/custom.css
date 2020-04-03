@@ -20,6 +20,11 @@
     font-size: 0.2rem;
 }
 
+.vestii-symbol {
+    width: 30px;
+    height: 30px;
+}
+
 /* Overrides */
 
 .md-typeset h1 {
