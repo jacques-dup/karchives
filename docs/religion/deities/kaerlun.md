@@ -15,9 +15,11 @@ date: 2020-03-29
 * **Followers:** Randers, Druids, Tamers, Hunters, Summoners, Experimenters and Breeders of natural and magical beasts.
 * **Manifestation:** Kearlun often takes the form of any large apex predator native to the region.  When choosing a humanoid form he is seen as a Gnome druid, calm and reserved, yet eerily threatening, as his form is much more than what it seems.  He can transform into any beast or monstrosity at will.
 
-## Associated Religious Organizations:
+## Associated Religious Organizations
 * 
 * [The Circle of Arcana](/religion/organizations/circle_of_arcana) (Loose pantheon associate)
+
+## Common Worship
 
 ## Myths & Dogma
 ### Genesis

@@ -15,8 +15,9 @@ date: 2020-03-30
 * **Followers:** Monks, Fighters, Adventurers, Dwarves and all those who revel in martial prowess.
 * **Manifestation:** Lex Fireheart manifests in different forms, taking on the shape of animals or humanoids alike.  His most prominent form is that of a human monk with plain features and clothing, head shaved and carrying only a staff.  All of his manifestations share one common trait, that they are unchallenged in martial skill, which he presents with a natural, elegant and effortless ease.
 
-## Associated Religious Organizations:
-* 
+## Associated Religious Organizations
+
+## Common Worship
 
 ## Myths & Dogma
 ### Genesis

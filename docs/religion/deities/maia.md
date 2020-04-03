@@ -19,6 +19,12 @@ date: 2019-04-24
 * [The Following of Divine Arcana](/religion/organizations/church_of_maia) (The Following, The Church of Maia, The Church of Magic)
 * [The Circle of Arcana](/religion/organizations/circle_of_arcana) (Loose pantheon associate)
 
+## Other Names:
+*
+
+## Common Worship
+
+
 ## Myths & Dogma
 ### Genesis
 Even among the uninitiated, it is known that Maia was not born into divinity, but ascended from a once mortal form.  She began life in a time before records, one of an ancient, primitive, now long-extinct race.  Nothing is known of this race other than they were not able to tame the Myst and wield magic.  Maia sought knowledge, believing that there was more to the cosmos than what was known.  She found the single source of power, a gateway to the Myst-realm and ventured forth into the unknown.  The Myst consumed her form and she was lost for generations.  Then, almost out of nowhere, she resurfaced, now imbued with the power of the Myst and with the ability to draw power from the Ever-realms.

@@ -23,23 +23,23 @@ The church expects all its priests to follow the Tenants of Heron, regardless of
 
 Paladins initiated in the church will follow the tenants of their society as well.  Depending on the society's overall goals and assigned purpose, these oaths are made in addition to Heron's law.  Paladin societies most commonly reflect the oaths of Conquest, Heroism or Vengeance.
 
-## Beliefs and Dogma: 
+### Beliefs and Dogma: 
 
-### Tenants of Heron
+#### Tenants of Heron
 * **Protect those who cannot protect themselves**
 * **There is no place in the world for evil**
 * **Above all else, conform to the law of righteousness**
 * **In Valor one is true to oneself and also to the Goddess**
 
-### Tactical Philosophies
+#### Tactical Philosophies
 * No soldier is considered superior to another. 
 * Suicidal recklessness, berserkery, and rage were prohibited in the order, as these behaviors endanger the Society. 
 * Recklessness usually leads to dishonor.
 * Those who fight, while still wishing to live, is more valorous than those who don't care if they die.
 * A warrior must not fight with raging anger, but with calmed determination.
 
-## Clerical Ranks
-1. **.Hoplite.** Once initiated, all in the priesthood are considered equals and gain the rank of Hoplite.  They are expected to live and train with their society for five years, after which they are free to spread the tenants of Heron according to their own purposes.
+### Clerical Ranks
+1. **Hoplite.** Once initiated, all in the priesthood are considered equals and gain the rank of Hoplite.  They are expected to live and train with their society for five years, after which they are free to spread the tenants of Heron according to their own purposes.
 2. **Soma.** Wherever a Society is large enough to break up into smaller Scabbards (bands), they elect one to become Soma.  These are knights who have proven their valor consistently and show good leadership skills.  As a Soma, one is groomed for leading a Scabbard, and stand as the second tactical officer of the group.
 3. **Matiarch.** The leader of a Scabbard (band) is known as a _Matiarch_. The are the primary tactician for the band and can only be promoted from within the band itself.  Their interpretation of the tenants or Heron stands and are required to guide the rest of the Scabbard in assessing situations according to the laws they adhere to.
 4. **Strato.** The leader of a Society is known as a _Strategist_ or _Strato_.  They are regarded as commanders on the battlefield and paragons of nobility and valor.  The are assigned from the ranks of Matiarchs by the Triumvirate.

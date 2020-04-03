@@ -15,9 +15,11 @@ date: 2020-03-14
 * **Followers:** Artificers, historians, inventors, and all those who pursue the endless gaining of knowledge may be followers of Irthor & Kidan. They are also the patrons of all Warforged.
 * **Manifestation:** The twins often show themselves in the visage of two humanoids resembling Dwarves.  Irthor is said to be short and stout, though taller than most actual Dwarves, with a clean shaven head and a short sleeved, yellow robe.  Kidan is said to be taller than most humans, slender, wearing a long sleeved, red robe, and with long grey hair braided into a single coil.  Both have long grey beards, tucked into their belts.  Often they are seen carrying coffers or drawing carts filled with strange, clockwork objects.
 
-## Associated Religious Organizations:
+## Associated Religious Organizations
 * [Path of the Secret Scrolls](/religion/organizations/path_of_the_secret_scrolls) (The Church of Invention, The Order of Artifice)
 * [The Circle of Arcana](/religion/organizations/circle_of_arcana) (Loose pantheon associate)
+
+## Common Worship
 
 ## Myths & Dogma
 ### Genesis

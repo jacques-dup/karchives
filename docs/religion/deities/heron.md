@@ -20,6 +20,13 @@ date: 2020-03-17
 * [The Ordos Valorium](/religion/organizations/ordos_valorium) (Pantheon of Honour and Valor)
 * [The Circle of Justice](/religion/organizations/circle_of_justice) (Pantheon of Law and Justice)
 
+## Common Worship
+Those unaffiliated with any of the major organizations associated with Heron look to her for guidance whenever they are being oppressed of feel fearful of their current surroundings or situations.  She stands as paragon of honour and pinnacle of valor for all, regardless of their affiliation.
+
+Being of a good alignment, her worship is encouraged by most of the humanoid societies across Aklatoria, as even in retribution, Heron and her followers abide by goodly virtues such as fairness and honour.  WHerever a situation calls for the application of these virtues, Heron is often called upon to deliver divine guidance.
+
+In most cases, Heron is regarded whenever retribution or fair, poetic, vengeance needs to be called forth.  Her name is often spoken in curses against oppressors and tyrants, bandits and thieves alike.
+
 ## Myths & Dogma
 ### Genesis
 Heron was born in the early days of the [Time of Turmoil](/history/ages/time_of_turmoil), and rose to power in full during the God Wars of the age.  It is said that she was birthed from a union of the [Morning Lord](/religion/deities/lord_aster) and [Lady Elmara](/religion/deities/elmara) during this time.  As a child goddess, she played amongst the ruins of battle and learned to know the world as an unjust and cruel place.

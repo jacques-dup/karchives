@@ -15,7 +15,9 @@ date: 2020-03-29
 * **Followers:** Knights, Nobility, Diplomats and all who believe in the honour of keeping to a unified morality.
 * **Manifestation:** 
 
-## Associated Religious Organizations:
+## Associated Religious Organizations
+
+## Common Worship
 
 ## Myths & Dogma
 ### Genesis

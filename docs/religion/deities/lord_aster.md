@@ -19,6 +19,8 @@ date: 2020-03-30
 * [The House of Dawn](/religion/organizations/house_of_dawn) (Primary church of Lord Aster)
 * [The Circle of Vitalis](/religion/organizations/circle_of_vitalis) (Pantheon of Life)
 
+## Common Worship
+
 ## Myths & Dogma
 ### Genesis
 The origin of the Morning Lord lies far before the ages of myth, an infant god spawned from the interactions of the ancient great beings.  Coined from an excerpt of the [Book of Arath Aev](/history/artifacts/book_of_arath_aev/#book-three-the-birth-of-arath), the great orb of fire that was cut from the serpent came about to light the heavens.  As its rays stretched across the realms, with it came the potential for the life of mortals.

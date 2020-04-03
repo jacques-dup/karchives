@@ -15,7 +15,9 @@ date: 2020-03-29
 * **Followers:** Farmers, Traders and all who make a living off the soil, who are dependent on the Father of Rain to grant them his blessing.
 * **Manifestation:** Erthan manifests as gentle rains, glistening sun and a subtle breeze of fresh air on a hot day.  Sometimes, his persona takes on the form of a weathered old man, still strong from his working the fields.  He is carrying a scythe and a gentle expression.
 
-## Associated Religious Organizations:
+## Associated Religious Organizations
+
+## Common Worship
 
 ## Myths & Dogma
 ### Genesis

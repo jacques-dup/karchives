@@ -15,8 +15,9 @@ date: 2020-03-30
 * **Followers:** 
 * **Manifestation:**  
 
-## Associated Religious Organizations:
-* 
+## Associated Religious Organizations
+
+## Common Worship
 
 ## Myths & Dogma
 ### Genesis

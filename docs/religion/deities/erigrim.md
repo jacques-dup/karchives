@@ -43,11 +43,13 @@ date: 2019-04-25
 #### Durathor
 
 
-## Associated Religious Organizations:
+## Associated Religious Organizations
 * [Dwarf Ancestry](/religion/organizations/dwarf_ancestry)
 * The Paragons of Faith
 * The Patrons of the Elder
 * The Corrupted of Durathor
+
+## Common Worship
 
 ## Myths & Dogma
 ### Genesis

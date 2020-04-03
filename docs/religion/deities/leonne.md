@@ -15,8 +15,9 @@ date: 2020-03-30
 * **Followers:** Rangers, Druids, Hunters, those who live in tune with their animalistic instincts.
 * **Manifestation:** Leonne's form is that of the Great White Tigress.  Her avatar is called Swiftwind.  She can sometimes see hunting in the furthest reaches of the wilderness.
 
-## Associated Religious Organizations:
-* 
+## Associated Religious Organizations
+
+## Common Worship
 
 ## Myths & Dogma
 ### Genesis

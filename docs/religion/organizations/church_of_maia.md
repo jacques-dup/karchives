@@ -11,12 +11,12 @@ date: 2019-04-24
 * **Type:** Common Ethos: Polytheistic
 * **Patron Deity:** Maia, Goddess of Magic, Grimoirs, Arcana and Spells
 
-## Common Worship and General Knowledge:
+## Worshippers
 Maia, as a one of the major deities of Aklatoria, has followers in all major centers and across cultures and embracing the polytheistic ethos of this realm.  Anyone can choose Maia as their patron and even those not claimed to her faith are known to pray at her shrines on occasion, especially when a problem of magical nature is faced by the devout.
 
 Even among the uninitiated, it is known that Maia was once a mere mortal, of an ancient, long-extinct race that lived before mortals were able to tame the Myst and wield magic as a tool.  As a seeker of knowledge, she gained divinity by binding herself to the Myst realm and being a conduit for mortals to channel its power to the material realm.
 
-## Beliefs and Dogma of the Clergy: 
+## Priesthood
 Clergy of Maia are seekers of truth and knowledge, specifically that of an arcane nature.  As part of the initiation, followers are to complete a grueling trial of the mind called the Rite of Myst.  The trial reveals which branch of the clergy the follower is initiated to.
 
 **There are three branches of the church:**
@@ -31,7 +31,10 @@ To the clergy, their goddess is not a mere entity or patron overseeing the magic
 
 Maia is strongly tied to the [World Trees](/cosmology/magic/places_of_power/world_trees).  These sites are the anchors that tie the Ever-realms to the world and the primary channel of magical energy into the material plain.  The clergy believes that at each of these sites, a physical embodiment of Maia can be found, where she is chained to its magic by unbreakable chains of parchment.
 
-## Clerical Ranks
+### Beliefs and Dogma
+
+
+### Clerical Ranks
 1. **Uninitiated.** The church believes all who acknowledge Maia has a place in her church, but not all are chosen to have her secrets revealed.
 2. **Wand-lings.** Once initiated, a cleric gains the rank of a “Wandling”.  So named for their first duties include crafting wand shafts for the order’s listed enchanters.
 3. **Spell-marked.** Once an initiate’s worth is proven, she gains a magical mark on her skin.  Its form cannot be chosen and is made by undergoing a secret ritual. Clerics wear these with pride.  Although denied by the church, it is said that the more elaborate the mark, the more favor the cleric will enjoy from the goddess.

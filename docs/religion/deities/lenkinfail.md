@@ -15,8 +15,9 @@ date: 2020-03-30
 * **Followers:** Judges, Anyone with concerns about the afterlife, Dragonborn, the Righteous.
 * **Manifestation:**  Lenkinfail manifests in his own form, the dragon he used to before before ascending to divinity, an ancient Copper serpent.  When space determines that he should, he sometimes transforms into a copper skinned Elf with white hair and a long, flowing, white toga.
 
-## Associated Religious Organizations:
-* 
+## Associated Religious Organizations
+
+## Common Worship
 
 ## Myths & Dogma
 ### Genesis

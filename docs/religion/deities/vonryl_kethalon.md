@@ -18,6 +18,8 @@ date: 2020-03-17
 ## Associated Religious Organizations:
 * [The Winter-Touched](/religion/organizations/winter_touched)
 
+## Common Worship
+
 ## Myths & Dogma
 ### Genesis
 The goddess of Eternal Winter was once regarded not as an entity of wrath and crude justice, but of one protection and community. During the early times, before the modern ages recorded in myth, Vonryl Kethalon was cast out into the isolation of [Tundrum Arctis](/cosmology/planes/tundrum_arctis), the elemental plane of Ice.  

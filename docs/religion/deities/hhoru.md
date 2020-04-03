@@ -15,8 +15,9 @@ date: 2020-03-29
 * **Followers:** Shaman, Barbarians, Cannibals, Death worshippers, Evil Fey, Evil Elves.
 * **Manifestation:** Hhoru prefers taking the form of a Drider-like creature, or sometimes as a dark skinned Elf-like being clad in shadows. Those who manage to get close enough to his manifestation wither in agonizing fear at his presence.
 
-## Associated Religious Organizations:
-* 
+## Associated Religious Organizations
+
+## Common Worship
 
 ## Myths & Dogma
 ### Genesis

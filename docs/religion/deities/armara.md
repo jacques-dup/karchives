@@ -25,6 +25,11 @@ date: 2020-03-24
 * "Aria" (Casavano and Caenar)
 * "Lurrden-Mörr" (Dwarven: Mother of the Sky)
 
+## Common Worship
+Armara is looked upon as an entity of Instauration by most of the common races, but this is not necessarily true for all places and cultures.  Armara is, in her first instance, the goddess of the skies.  Therefore there are some, albeit verdant societies, who revere her primarily as an entity of nature and the bringer of clouds and rains.
+
+More commonly, however, Armara is revered as a caring, mother-figure, and worshipped as one who restores and and heals.  Her followers include divine healers, such as Druids and Clerics, who often possess great skill in medicine as well as magical healing.  Therefore, wherever aid is required, Armara will receive prayers.
+
 ## Myths & Dogma
 ### Genesis
 Armara is eternal as the skies above all creation.  From when the first of the lower creatures claimed the skies, before the ages of record, the spirit of Armara was there.  Her keen eye guiding the cycles of life and renewal from within her perch in the clouds.

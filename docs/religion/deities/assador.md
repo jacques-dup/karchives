@@ -19,6 +19,11 @@ date: 2020-03-24
 * [Church of Night](/religion/organizations/church_of_night) (Primary church of Assador)
 * [Keepers of Penance](/religion/organizations/keepers_of_penance) (Pantheon of Sufferers)
 
+## Common Worship
+The followers of Assador are often looked on in disdain, as doomsayers and martyrs.  But even though the clergy may be disliked in general, the Dark Lord is often still regarded as a powerful entity and vessel for the suffering.
+
+Wherever loss is experienced, Assador is called on to acknowledge the sufferer's sacrifice.  Whether to exert some form of accreditation or acknowledgement in return for future luck or avoidance of suffering, Assador receives many prayers from those in mourning.
+
 ## Myths & Dogma
 ### Genesis
 Assador was once, long before a time of history, a divine lord of justice and paragon of truth.  Not much is know of these early days, nor the nature of the divine, but his image was that of a noble knight and righteous warrior.  His even-handed judgement was renowned and true.  But during the [Times of Turmoil](/history/ages/time_of_turmoil#the-god-wars), his account of what-should-be and what-was-not was challenged to the extent that he took it upon himself to become the judicator of those who suffered most.  Upon himself, he took the mantle of the suffering and embodied that of a vindicator.  He stepped out of his domain to challenge the order of the age, and was met with conflict.  
