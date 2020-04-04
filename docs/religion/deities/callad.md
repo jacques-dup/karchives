@@ -29,3 +29,7 @@ She is also often associated to, and revered by worshippers of her sister, [Firn
 At the dawn of time, as far back as the oldest races can remember, the world was caught in an age of darkness un unknowing.  It was in this dark times where two daughters were born of Nox, the eternal realm of Chaos.  One child had ebony skin and embodied the darkness that follows when Chaos is let loose.  The other had skin of gold and a tongue of silver, embodying the essence of Chaos as seen in the realm of Law.
 
 The latter child, the Golden Princess, was Callad.  Together with her sister, they ascended to rule the shadowy underbelly of the divine, and their influence soon extended to the realm of mortals.
+
+Callad was born with a much lighter heart than that of her sibling.  She did not crave the same destruction.  Rather her Chaos manifested in the opposite, favouring life over death.  Her purpose was set on the shifting perceptions of the living and the ability to abuse that which is said to be the truth and that which is law. She  spent her divine childhood stalking the halls of the divine and even the mortal realms in a constant search to topple stability.
+
+It was not until she happened upon the lair of of [Assador](/religion/deities/assador), where she was caught stealing.  The Dark lord's wrath fell upon her as he lashed out with claw and whip.  It is said that her face was scarred so through his punishment, that she took on the mask of the Palled Oath there.

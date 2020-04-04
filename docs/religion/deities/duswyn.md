@@ -6,7 +6,7 @@ authors:
 date: 2020-03-29
 ---
 # Duswyn
-## The  god of Song, Wine and Revelry {: .subtitle }
+## The god of Song, Wine and Revelry {: .subtitle }
 
 * **Type:** Major Deity (Lesser Deity)
 * **Alignment:** Chaotic Good

@@ -19,18 +19,15 @@ date: 2019-04-25
 ## Pantheon Members
 |Deity|Align|Rune|Portfolio|Domain|
 |:--|:-:|:-:|:-:|--:|
-|Agamor     |LG| ᚨ : _"Ansuz" (divine)_     |Healing & Leadership   |Life|
-|Toreval    |TN| ᛉ : _"Algiz" (elk)_       |Magic, Runes & Secrets  |Arcana|
-|Fallarn    |CG| ᛗ : _"Mannaz" (man)_       |Strength & Courage     |Strength|
-|Noragall   |NG| ᛟ : _"Othala" (heritage)_  |Family, Clan & Honour  |Protection|
-|Oriess     |LE| ᚠ : _"Fehu" (wealth)_      |Wealth & Greed         |Trickery|
-|Gort       |CN| ᛒ : _"Berkanan" (birch)_   |War & Victory          |War|
-|Urir       |CN| ᚱ : _"Raidō" (journey)_    |The Afterlife          |Grave|
-|Bazardin   |CG| ᛊᛋ : _"Sōwilō" (sun/light)_|Industry & Craft       |Forge|
-|Durathor   |CE| ᚦ : _"Thurisaz" (giant)_   |Punishment & Suffering |Destruction|
-
-> Runes are based on Norse (proto-germanic) letters.
-> More info at [wikipedia](https://en.wikipedia.org/wiki/Runes)
+|Agamor, Allfather  |LG| ᚨ : _"Ansuz" (divine)_     |Healing & Leadership   |Life       |
+|Toreval            |TN| ᛉ : _"Algiz" (elk)_        |Magic, Runes & Secrets |Arcana     |
+|Fallarn            |CG| ᛗ : _"Mannaz" (man)_       |Strength & Courage     |Strength   |
+|Noragall           |NG| ᛟ : _"Othala" (heritage)_  |Family, Clan & Honour  |Protection |
+|Oriess             |LE| ᚠ : _"Fehu" (wealth)_      |Wealth & Greed         |Trickery   |
+|Gort               |CN| ᛒ : _"Berkanan" (birch)_   |War & Victory          |War        |
+|Urir               |CN| ᚱ : _"Raidō" (journey)_    |The Afterlife          |Grave      |
+|Bazardin           |CG| ᛊᛋ : _"Sōwilō" (sun/light)_|Industry & Craft       |Forge      |
+|Durathor           |CE| ᚦ : _"Thurisaz" (giant)_   |Punishment & Suffering |Destruction|
 
 #### Agamor, Allfather
 #### Toreval
@@ -50,6 +47,11 @@ date: 2019-04-25
 * The Corrupted of Durathor
 
 ## Common Worship
+Dwarves have a very strong sense of heritage and racial community.  As such they all tend to revere the Erigrim as divine ancestors regardless of their other religious beliefs.
+
+The pantheon is considered a union, as all Dwarves are kin no matter from which clan or country they originate. It is therefore common for Dwarves to consider all of them equally, even when choosing a single Kazmukzakäl (god-elder) as their clan Paragon.
+
+As for Durathor, it is rare for a Dwarf to consider him a direct patron, as his worship is generally considered in contrast to the Dwarven morality.  Reverence of him is reserved for the denizens of the _Reilagg_ - Ash-skinned Gray Dwarves and their Corrupted kin.  He is however regarded as one of the Kazmukzakällen (god-elders) and respect is given to his name.  It is particularly useful to his name to scare would be troublemakers, including naughty children as a warning of what is to come of those who disregard their honour and duty.
 
 ## Myths & Dogma
 ### Genesis

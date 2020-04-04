@@ -17,7 +17,7 @@ The early races were not at all what they are today.  The were tribal, pre-histo
 
 The newly born gods took it upon them to lead them to greatness and revealed themselves to the scattered tribes.  Progress came, slowly at first, but soon the imbalances in power, knowledge and wealth became a strong divide between the denizens of the earth.
 
-To follow was the [Time of Turmoil](/history/ages/time_of_turmoil), aslo known as the God Wars.
+To follow was the [Time of Turmoil](/history/ages/time_of_turmoil), also known as the God Wars.
 
 ## List of Historic Ages
 1. Age of Seeding
