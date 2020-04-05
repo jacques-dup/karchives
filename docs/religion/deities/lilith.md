@@ -11,7 +11,7 @@ date: 2020-03-30
 * **Type:** Major Deity (Lesser Deity)
 * **Alignment:** Chaotic Neutral
 * **Domains:** Beauty, Love, Trickery
-* **Symbol:** 
+* **Symbol:** An Eight pointed star inside a circle
 * **Followers:** The Lovelorn, Enticed, Passionate, Hedonists, Prostitutes and all who value power that beauty brings.
 * **Manifestation:**  Lilith manifests in female form, naked and breathtakingly beautiful.  Her presence casts an aura of charm and influence around her, bringing all mortals under her control. Once a mortal leaves her influence they only remember bliss, and the effect of her immense beauty, but not her features nor her instructions. The body feels the effect of her, but the mind is obfuscated.
 
@@ -41,4 +41,13 @@ Lilith saw that Elmara had many followers among the mortals already, and saw tha
 
 Elmara was not convinced, however, so Lilith challenged her to cover her face in a mask for the next generation of mortals, to see if she still held the same sway over them.  Elmara accepted the challenge and enlisted the services of a mad giant [Ärun](/history/myths/creation_dwarves) to create the mask. The creature was driven mad when he created the Dwarven race, overextending his powers.  Through some fluke, however, the Giant was able to create for Elmara a powerful emerald mask that magically enhanced her beauty even more.
 
-Lilith was shocked at the outcome and wished for Ärun to do the same for her, but the giant was back to his mindless self and could not comply. The rival goddesses decided that their competition was over.  Each application of their beauty had merits.  Elmara would use hers to entice change in the hearts of the mortals, and Lilith chose that hers would be used to enflame their passions..
+Lilith was shocked at the outcome and wished for Ärun to do the same for her, but the giant was back to his mindless self and could not comply. The rival goddesses decided that their competition was over.  Each application of their beauty had merits.  Elmara would use hers to entice change in the hearts of the mortals, and Lilith chose that hers would be used to enflame their passions.
+
+## The Birth of Manos Claye
+During the early ages in the time of the [God Wars](/history/ages/times_of_turmoil#the-god-ears), [Ura](/religion/deities/ura) proposed to Lilith that she bare him a son.  He wanted to teach his offspring to control the fires, in order to make the perfect smith and therefore the perfect aid against the onslaughts of the God Wars.
+
+Lilith agreed to the arrangement, but secretly approached the other gods for blessing of her own devising to be places upon the child.
+
+From [Lafarn](/religion/deities/lafarn) she asked a blessing of independence so that the child can follow his own path, away from his father. From [Naásh Feramil](/religion/deities/naash_feramil)  she asked for a blessing of compassion so that he will not only use his abilities for destruction.  And from [Opus](/religion/deities/opus) she asked that he bless her son with an understanding of the natural order and knowledge of minerals and stones so that his crafts can be more than mere tools, but works of art formed through an innate understanding of the source.
+
+And so son of Ura and Lilith was born.  She named him [Manos Claye](/religion/deities/manos_claye) and he became the Master of the Forge.

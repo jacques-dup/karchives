@@ -20,6 +20,11 @@ date: 2020-03-14
 * [The Circle of Arcana](/religion/organizations/circle_of_arcana) (Loose pantheon associate)
 
 ## Common Worship
+Irthor and Kidan does not get much common worship, as their profiles tend to call to specialists instead of the masses. Though, whenever strange and arcane contraptions are found or even whenever common household items should fail, their names are called for.
+
+Were folk have chosen to worship the Brother gods, they tend to do so in privacy rather than in the open.  They build personal libraries for their own use, and share this knowledge only with those who prove worthy in the light of the Di-being. In realms where knowledge and scientific advancement is sought above else, Irthor and Kidan will also receive more praise, and their blessings will be more prominent.
+
+Warforged, en mass, also revere Irthor and Kidan, for it is believed that their origin is due to the influence and inspiration from the D-being.
 
 ## Myths & Dogma
 ### Genesis

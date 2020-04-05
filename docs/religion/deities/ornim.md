@@ -16,6 +16,7 @@ date: 2020-03-30
 * **Manifestation:**  
 
 ## Associated Religious Organizations
+* [The Elemental Courts](/religion/organizations/elemental_courts) (Pantheon of Elementals)
 
 ## Common Worship
 

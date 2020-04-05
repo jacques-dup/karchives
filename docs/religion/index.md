@@ -1,6 +1,6 @@
 ---
 title: Gods & Religion
-summary: A summary of the beliefs, religions and cults of Aklatorio
+summary: A summary of the beliefs, religions and cults of Aklatoria
 authors:
     - Jacques du Plessis
 date: 2019-04-24
@@ -48,6 +48,7 @@ Aklatoria is predominantly Polytheistic, potentially having hundreds of differen
 |[Lord Aster](/religion/deities/lord_aster)	                |LG| God of the Sun, Protection and Positive Energies                   ||
 |[Madis](/religion/deities/madis)                           |LN| God of Wealth, Cities, Trade and Industry                          ||
 |[Maia](/religion/deities/maia)                             |TN| Goddess of Magic, Grimoirs, Arcana and Spells                      ||
+|[Manos Claye](/religion/deities/manos_claye)               |LN| God of the Forge                                                   ||
 |[Martivir](/religion/deities/martivir)                     |LN| God of Justice and Law                                             ||
 |[Naásh Feramil](/religion/deities/naash_feramil)           |LG| Goddess of Family, Hearth and Culture                              ||
 |[Nahua](/religion/deities/nahua) (na-Hu)	                |NE| God of Famine Pestilence and Natural Disaster                      ||
@@ -58,7 +59,7 @@ Aklatoria is predominantly Polytheistic, potentially having hundreds of differen
 |[Ornim](/religion/deities/ornim)	                        |TN| God of Tombstones                                                  ||
 |[Rumara Caelan](/religion/deities/rumara_caelan)           |CG| Goddess of Adventure, Good Fortune, Humour and Dancing             ||
 |[Seth](/religion/deities/seth)	                            |CE| Goddess of Chaos, Hatred and Jealousy                              ||
-|[Shaleon, _of the Seas_](/religion/deities/shaeleon)	    |CN| God of the Seas, Water, Ships and Waves                            ||
+|[Shaeleon, _of the Seas_](/religion/deities/shaeleon)	    |CN| God of the Seas, Water, Ships and Waves                            ||
 |[Stryder](/religion/deities/stryder)                       |CG| God of Mischief, Illusion, Intelligence and Luck                   ||
 |[Throden](/religion/deities/throden)	                    |LN| Lord of Dragons, Dragon kind and Draconic Lore                     ||
 |[Tooloo](/religion/deities/tooloo)	                        |NE| God of the Survival                                                ||
