@@ -18,7 +18,11 @@ date: 2020-04-05
 ## Associated Religious Organizations
 
 ## Common Worship
+The Smith Lord is ever present in the forge, no matter its size nor the skill of the creator.  He is the fire that smelts and the hammer that shapes.  Even an inexperienced worker can be blessed with the talent to craft, and even those who have years of knowledge can yet to be blessed with a true masterpiece.
 
+Those who work the metal, stone and gems often call to the Master of the Forge seeking inspiration and providence.  And those who benefit from the creations often give thanks to Madis alongside the forger.
+
+In a number of civilizations who revere the artistry and craft of forge working, will institutionalize the worship of Manos Claye withing their guilds, and usually the crafts of these guilds are most sought after.
 
 ## Myths & Dogma
 ### Genesis

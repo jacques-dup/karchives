@@ -12,7 +12,7 @@ date: 2019-04-24
 * **Patron Deity:** Maia, Goddess of Magic, Grimoirs, Arcana and Spells
 
 ## Worshippers
-Maia, as a one of the major deities of Aklatoria, has followers in all major centers and across cultures and embracing the polytheistic ethos of this realm.  Anyone can choose Maia as their patron and even those not claimed to her faith are known to pray at her shrines on occasion, especially when a problem of magical nature is faced by the devout.
+Maia, as a one of the major deities of Aklatoria, has followers in all major centers and across cultures and embracing the polytheistic ethos of this realm. Anyone can choose Maia as their patron and even those not claimed to her faith are known to pray at her shrines on occasion, especially when a problem of magical nature is faced by the devout.
 
 Even among the uninitiated, it is known that Maia was once a mere mortal, of an ancient, long-extinct race that lived before mortals were able to tame the Myst and wield magic as a tool.  As a seeker of knowledge, she gained divinity by binding herself to the Myst realm and being a conduit for mortals to channel its power to the material realm.
 

@@ -23,7 +23,9 @@ date: 2019-04-24
 *
 
 ## Common Worship
+The Arcane is a daunting and mysterious force that requires not only training, but often divine guidance as well.  Whenever matters of the Arcane impacts the life of mortals, there will be the presence of Maia, as her own essence is tied to that of the Myst.
 
+Especially when wild, unknown or strange magic is encountered, this is where the goddess is addressed most, as only she is able to tame that which is untameable and only she can subdue the unpredictable forces form the Mystrealm.
 
 ## Myths & Dogma
 ### Genesis
