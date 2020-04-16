@@ -1,3 +1,9 @@
+---
+title: Development Readme
+summary: Setup and instructions for development.
+authors:
+    - Jacques du Plessis
+---
 # KArchives Development Readme
 Using mkdocs to make some wiki magic.  This project is a collection pages that describe Aklatoria, named the **Kobold Archives**.
 

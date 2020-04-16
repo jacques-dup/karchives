@@ -1,5 +1,4 @@
-# KArchives Git Readme
-Using mkdocs to make some wiki magic.  This project is a collection pages that describe Aklatoria, named the **Kobold Archives**.
+# The Kobold Archives Project
 
 ## Installation
 
@@ -13,8 +12,7 @@ pip install markdown-blockdiag
 pip install markdown-include
 ```
 
-> See installation instructions for MkDocs at [https://www.mkdocs.org/#installation](https://www.mkdocs.org/#installation)
-+
+> See installation instructions for MkDocs at [https://www.mkdocs.org/#installation](https://www.mkdocs.org/#installation)\n
 > See cool examples at [https://alinex.gitlab.io/env/mkdocs](https://alinex.gitlab.io/env/mkdocs)
 
 ## Startup
