@@ -3,7 +3,6 @@ title: Deity - Leonne
 summary: A description of Leonne, goddess of Beasts, Animals, the Hunt and Nature's Wrath
 authors:
     - Jacques du Plessis
-date: 2020-03-30
 ---
 # Leonne
 ## The goddess of Beasts, Animals, the Hunt and Nature's Wrath {: .subtitle }

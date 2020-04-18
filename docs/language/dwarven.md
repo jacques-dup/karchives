@@ -3,7 +3,6 @@ title: Lexicon - Dwarven
 summary: A summary of the Dwarf language of Aklatoria
 authors:
     - Jacques du Plessis
-date: 2020-03-30
 ---
 # Dwarven
 The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to the popular Hebrew by that of Tolkien.

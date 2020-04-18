@@ -3,7 +3,6 @@ title: Deity - Ura
 summary: A description of Ura, god of Fire and Destructive Force.
 authors:
     - Jacques du Plessis
-date: 2020-04-05
 ---
 # Ura
 ## The god of Fire and Destructive Force {: .subtitle }

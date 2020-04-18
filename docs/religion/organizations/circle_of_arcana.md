@@ -3,7 +3,6 @@ title: Organization - The Circle of Arcana
 summary: A description of the loose pantheon of the arcane.
 authors:
     - Jacques du Plessis
-date: 2020-03-16
 ---
 # The Circle of Arcana
 ## A pantheon of the Arcane Arts {: .subtitle }

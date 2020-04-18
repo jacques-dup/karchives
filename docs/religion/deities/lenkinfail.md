@@ -3,7 +3,6 @@ title: Deity - Lenkinfail
 summary: A description of Lenkinfail, dragon-god and Judge of the Life Lived.
 authors:
     - Jacques du Plessis
-date: 2020-03-30
 ---
 # Lenkinfail
 ## Dragon-god and Judge of the Life Lived  {: .subtitle }

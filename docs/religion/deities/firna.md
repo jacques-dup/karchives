@@ -3,7 +3,6 @@ title: Deity - Firna
 summary: A description of Firna, goddess of Murder, Assassination and Shadows.
 authors:
     - Jacques du Plessis
-date: 2020-03-29
 ---
 # Firna
 ## The goddess of Murder, Assassination and Shadows {: .subtitle }

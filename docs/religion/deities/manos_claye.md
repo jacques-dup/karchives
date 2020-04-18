@@ -3,7 +3,6 @@ title: Deity - Manos Claye
 summary: A description of Manos Claye, god of the Forge.
 authors:
     - Jacques du Plessis
-date: 2020-04-05
 ---
 # Manos Claye
 ## God of the Forge {: .subtitle }

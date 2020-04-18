@@ -3,7 +3,6 @@ title: Deity - Vonryl Kethalon
 summary: A description of Vonryl Kethalon, the Elf god of eternal winter.
 authors:
     - Jacques du Plessis
-date: 2020-03-17
 ---
 # Vonryl Kethalon
 ## The goddess of Eternal Winter {: .subtitle }

@@ -3,7 +3,6 @@ title: History - Age of the Stars
 summary: A summary of the age of the stars.
 authors:
     - Jacques du Plessis
-date: 2019-04-30
 ---
 # The Age of the Stars
 ## Elvin Dominion {: .subtitle }

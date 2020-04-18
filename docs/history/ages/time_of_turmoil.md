@@ -3,7 +3,6 @@ title: History - The Time of Turmoil
 summary: A summary of the time of Turmoil, the god wars, and how the Dwarves came to dominate.
 authors:
     - Jacques du Plessis
-date: 2019-04-28
 ---
 # The Time of Turmoil
 ## The Dark Ages {: .subtitle }

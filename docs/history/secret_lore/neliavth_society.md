@@ -3,7 +3,6 @@ title: Secret - Neliavth Society
 summary: A description of the Ancient Neliavth culture and societies.
 authors:
     - Jacques du Plessis
-date: 2020-04-13
 ---
 # Neliavth
 ## The Ancients, ascended {: .subtitle }

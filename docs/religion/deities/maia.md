@@ -3,7 +3,6 @@ title: Deity - Maia
 summary: A description of Maia, goddess of magic.
 authors:
     - Jacques du Plessis
-date: 2019-04-24
 ---
 # Maia
 ## Goddess of Magic, Grimoirs, Arcana and Spells {: .subtitle }

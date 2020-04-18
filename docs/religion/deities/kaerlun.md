@@ -3,7 +3,6 @@ title: Deity - Kaerlun Kreepmaster
 summary: A description of Kaerlun Kreepmaster, god of Taming, Beasts and Magical Creatures.
 authors:
     - Jacques du Plessis
-date: 2020-03-29
 ---
 # Kaerlun Kreepmaster
 ## God of Taming, Beasts and Magical Creatures {: .subtitle }

@@ -3,7 +3,6 @@ title: Deity - Lilith
 summary: A description of Lilith, goddess of Beauty, Seduction and Passion.
 authors:
     - Jacques du Plessis
-date: 2020-03-30
 ---
 # Lilith
 ## The goddess of Beauty, Seduction and Passion {: .subtitle }

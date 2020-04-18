@@ -3,7 +3,6 @@ title: Deity - Callad
 summary: A description of Callad, goddess of Thieves and Treachery.
 authors:
     - Jacques du Plessis
-date: 2020-03-29
 ---
 # Callad
 ## The goddess of Thieves and Treachery {: .subtitle }

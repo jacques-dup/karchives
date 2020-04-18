@@ -3,7 +3,6 @@ title: Organization - The Elemental Courts
 summary: A description of the loose pantheon of the elemental energies and associated planes.
 authors:
     - Jacques du Plessis
-date: 2020-03-29
 ---
 # The Elemental Courts
 ## Church of the Planar Elements {: .subtitle }

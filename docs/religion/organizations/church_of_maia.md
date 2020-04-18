@@ -3,7 +3,6 @@ title: Organization - Church of Maia
 summary: A description of the primary church of Maia, goddess of magic.
 authors:
     - Jacques du Plessis
-date: 2019-04-24
 ---
 # The Following of Divine Arcana
 ## The Church of Maia, Goddess of Magic {: .subtitle }

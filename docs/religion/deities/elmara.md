@@ -3,7 +3,6 @@ title: Deity - Elmara
 summary: A description of Elmara, goddess of Diplomacy, Royalty and Nobility.
 authors:
     - Jacques du Plessis
-date: 2020-03-29
 ---
 # Elmara
 ## The goddess of Diplomacy, Royalty and Nobility {: .subtitle }

@@ -3,7 +3,6 @@ title: Myth - The Black seeding
 summary: A myth of how Garkash found the Seed of the Deep and used it to create an army of Black Bloods.
 authors:
     - Jacques du Plessis
-date: 2019-05-01
 ---
 # The Black Seeding
 It was in the time just before the Long Winter came, when _The Vengeful One_, [Garkash](/religion/deities/garkash) the merciless, came forth to rekindle the hate in the hearts of men. 

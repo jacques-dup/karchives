@@ -3,7 +3,6 @@ title: History - Before History
 summary: A summary of the myths of what is known from before the Age of Seeding.
 authors:
     - Jacques du Plessis
-date: 2019-04-30
 ---
 # The Ages before History
 ## Ancient beings {: .subtitle }

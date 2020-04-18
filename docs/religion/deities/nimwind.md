@@ -3,7 +3,6 @@ title: Deity - Nimwind
 summary: A description of Nimwind, god of Stars, Dreams, Wisdom and Divination.
 authors:
     - Jacques du Plessis
-date: 2020-03-30
 ---
 # Nimwind
 ## The god of Stars, Dreams, Wisdom and Divination {: .subtitle }

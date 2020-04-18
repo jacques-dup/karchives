@@ -3,7 +3,6 @@ title: Myth - The Birth of Ärun
 summary: A creation myth of the Dwarven race.
 authors:
     - Jacques du Plessis
-date: 2019-04-27
 ---
 # The Birth of Ärun and the Dwarves
 

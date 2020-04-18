@@ -3,7 +3,6 @@ title: Lexicon - Vestii
 summary: A summary of Vestii, an ancient forgotten language of the Neliavth races.
 authors:
     - Jacques du Plessis
-date: 2020-04-02
 ---
 # Vestii
 Vestii in the current age, is not a spoken language and mostly forgotten.  Scripts can be found in some ruins identified as Neliavth in origin, and it is believed that Vestii was the primary language of this ancient society.

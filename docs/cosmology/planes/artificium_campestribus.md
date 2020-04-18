@@ -3,7 +3,6 @@ title: Plane - Artificium Campestribus
 summary: A description Artificium Campestribus, the plane of Invention and Arcane Secrets
 authors:
     - Jacques du Plessis
-date: 2020-03-16
 ---
 # Artificium Campestribus
 

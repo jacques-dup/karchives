@@ -3,7 +3,6 @@ title: History - Age of the Sun
 summary: A summary of the age of the sun.
 authors:
     - Jacques du Plessis
-date: 2019-04-30
 ---
 # The Age of the Sun
 ## The Dawn of Man {: .subtitle }

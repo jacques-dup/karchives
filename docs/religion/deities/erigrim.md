@@ -3,7 +3,6 @@ title: Deity - The Erigrim
 summary: A description of the Dwarven pantheon.
 authors:
     - Jacques du Plessis
-date: 2019-04-25
 ---
 # The Erigrim
 ## Divine Dwarf Ancestors {: .subtitle }

@@ -3,7 +3,6 @@ title: Deity - Lex Fireheart
 summary: A description of Lex Fireheart, god of Bravery, Fighting and Strength.
 authors:
     - Jacques du Plessis
-date: 2020-03-30
 ---
 # Lex Fireheart
 ## The god of Bravery, Fighting and Strength {: .subtitle }

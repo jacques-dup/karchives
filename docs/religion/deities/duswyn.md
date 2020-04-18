@@ -3,7 +3,6 @@ title: Deity - Duswyn
 summary: A description of Duswyn, god of Song, Wine and Revelry.
 authors:
     - Jacques du Plessis
-date: 2020-03-29
 ---
 # Duswyn
 ## The god of Song, Wine and Revelry {: .subtitle }

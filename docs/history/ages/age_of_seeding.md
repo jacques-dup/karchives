@@ -3,7 +3,6 @@ title: History - Age of Seeding
 summary: A summary of the age of seeding.
 authors:
     - Jacques du Plessis
-date: 2019-04-27
 ---
 # The Age of Seeding
 

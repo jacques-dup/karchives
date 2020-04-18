@@ -3,7 +3,6 @@ title: Deity - Tooloo
 summary: A description of Tooloo, god of .
 authors:
     - Jacques du Plessis
-date: 2020-03-30
 ---
 # Tooloo
 ## The god of  {: .subtitle }

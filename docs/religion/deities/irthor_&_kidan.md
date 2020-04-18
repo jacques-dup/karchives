@@ -3,7 +3,6 @@ title: Deity - Irthor & Kidan
 summary: A description of Irthor & Kidan, twin gods of of Knowledge, History and Myth, Invention and Clockwork.
 authors:
     - Jacques du Plessis
-date: 2020-03-14
 ---
 # Irthor & Kidan
 ## Twin gods of of Knowledge, History and Myth, Invention and Clockwork {: .subtitle }

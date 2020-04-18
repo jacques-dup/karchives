@@ -3,7 +3,6 @@ title: Divine Force - Bellan
 summary: A description of the Dwarf Bellan, the Old Ones.
 authors:
     - Jacques du Plessis
-date: 2019-04-25
 ---
 # Bellan, the Old Ones
 ## The Forgotten Titans of Dwarven History {: .subtitle }

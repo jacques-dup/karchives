@@ -3,7 +3,6 @@ title: Plane - Reilagg
 summary: A description Reilagg, the Dwarven hell.
 authors:
     - Jacques du Plessis
-date: 2019-04-26
 ---
 # Reilagg
 

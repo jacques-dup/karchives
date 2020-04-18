@@ -3,7 +3,6 @@ title: Organization - Sect of the Winter-Touched
 summary: A description of the primary church of Maia, goddess of magic.
 authors:
     - Jacques du Plessis
-date: 2020-03-17
 ---
 # The Winter-Touched
 ## A Sect of Vonryl Kethalon, the goddess of Eternal Winter {: .subtitle }

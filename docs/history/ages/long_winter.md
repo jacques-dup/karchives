@@ -3,7 +3,6 @@ title: History - The Long Winter
 summary: A summary of the long winter, the dead age.
 authors:
     - Jacques du Plessis
-date: 2019-04-30
 ---
 # The Long Winter
 ## The Black Seeding {: .subtitle }

@@ -3,7 +3,6 @@ title: Plane - Ad Materia
 summary: A description the material plane of existence.
 authors:
     - Jacques du Plessis
-date: 2019-04-26
 ---
 # *ad Materia
 

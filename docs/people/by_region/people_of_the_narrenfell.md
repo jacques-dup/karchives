@@ -3,7 +3,6 @@ title: Peoples - The Narr
 summary: A cultural overview of the people of the Narrenfell.
 authors:
     - Jacques du Plessis
-date: 2019-04-30
 ---
 # People of Narrenfell
 The [Narr](/geography/realms/narrenfell) are honorable, traditionalist people, with deep roots in their historic ideals and naturalist philosophy.  During the [Age of Stone](/history/ages/age_of_stone), they were heavily influenced by the Dwarven settlers, embracing the progress they brought and feeling kinship with their moral ethos.

@@ -3,7 +3,6 @@ title: Gods & Religion
 summary: A summary of the beliefs, religions and cults of Aklatoria
 authors:
     - Jacques du Plessis
-date: 2019-04-24
 ---
 # Gods & Religion
 ## Gods, Churches, Sects & Secrets {: .subtitle }

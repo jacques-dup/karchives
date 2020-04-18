@@ -3,7 +3,6 @@ title:
 summary: 
 authors:
     - Jacques du Plessis
-date: 
 ---
 # Church of ...
 ## The Church ... {: .subtitle }

@@ -3,7 +3,6 @@ title: Deity - Lord Aster
 summary: A description of Lord Aster, god of the Sun, Protection and Positive Energies.
 authors:
     - Jacques du Plessis
-date: 2020-03-30
 ---
 # Lord Aster
 ## The god of the Sun, Protection and Positive Energies {: .subtitle }

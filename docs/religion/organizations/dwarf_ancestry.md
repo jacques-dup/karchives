@@ -3,7 +3,6 @@ title: Association - Dwarven Religious Ancestry
 summary: 
 authors:
     - Jacques du Plessis
-date: 2019-04-25
 ---
 # Dwarven Religious Ancestry
 ## The Beliefs of the Dwarven Pantheon {: .subtitle }

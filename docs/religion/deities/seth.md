@@ -3,7 +3,6 @@ title: Deity - Seth
 summary: A description of Seth, goddess of Chaos, Hatred and Jealousy.
 authors:
     - Jacques du Plessis
-date: 2020-04-15
 ---
 # Seth
 ## The goddess of Chaos, Hatred and Jealousy {: .subtitle }
@@ -28,4 +27,8 @@ In societies where there are none of these moral qualms, Seth drives individuali
 
 ## Myths & Dogma
 ### Genesis
-Seth was born in the early eons of Aklatoria, as a daughter of Nox, the eternal chaos.
+Seth was born in the early eons of Aklatoria, as a daughter of Nox, the eternal chaos. The Cosmic Chaos pulled forth a heavenly ball of flame from the depths of space, which came crashing down on the surface of Nox. Fire, Dust and Brimstone was flayed from her, coalescing into a great egg. Infused with the fires within, the egg circled its mother for a thousand years before it broke free of the pull and came hurtling toward the realms of Aklatoria.
+
+Crashing down in the depths of the Seas of Shadow, there the egg incubated in the dark ocean until from it was spawned the Daughter of Nox.  Seth stepped from the deep ocean and descended on to the lands, a vision of chaos and destruction, her form wrapped in a vail of flaming torrents. Those who laid eyes on the spectacle was filled with darkness and hate in their hearts.
+
+Her coming triggered a thousand years of turmoil on the lands as the minds of men were consumed by her influence.  It took the combined effort of many divine and their followers to pull her back to the realm of the divine. Timing and skill brought Seth to the edge of _Rot M'karrin_, what is now called _The Shadowlands_. She stood on a pinnacle rock, where the energies of the earth emanates to the Dark Realms. Aegis, in her cosmic track, moved before the light of Nox, imbuing the gods of Order with the power to remove Set from the lands of men and bring her back to the divine realms.

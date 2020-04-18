@@ -3,7 +3,6 @@ title: Deity - Nod
 summary: A description of Nod, god of Phantasm, Madness and Nightmares.
 authors:
     - Jacques du Plessis
-date: 2020-03-30
 ---
 # Nod
 ## The god of Phantasm, Madness and Nightmares {: .subtitle }

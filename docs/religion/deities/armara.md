@@ -3,7 +3,6 @@ title: Deity - Armara
 summary: A description of Armara, goddess of the Sky and Instauration.
 authors:
     - Jacques du Plessis
-date: 2020-03-24
 ---
 # Armara
 ## The goddess of the Sky {: .subtitle }

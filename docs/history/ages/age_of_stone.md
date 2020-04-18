@@ -3,7 +3,6 @@ title: History - Age of Stone
 summary: A summary of the age of stone.
 authors:
     - Jacques du Plessis
-date: 2019-04-30
 ---
 # The Age of Stone
 ## The Rise of the Dwarves {: .subtitle }

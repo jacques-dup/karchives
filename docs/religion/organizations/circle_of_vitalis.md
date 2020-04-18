@@ -3,7 +3,6 @@ title: Organization - Circle of Vitalis
 summary: A description of the Circle of Vitalis, pantheon of Life and Death.
 authors:
   - Jacques du Plessis
-date: 2020-03-29
 ---
 
 # Circle of Vitalis

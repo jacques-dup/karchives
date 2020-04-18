@@ -3,7 +3,6 @@ title: Deity - Nahua
 summary: A description of Nahua, god of Famine, Pestilence and Natural Disaster.
 authors:
     - Jacques du Plessis
-date: 2020-03-30
 ---
 # Nahua
 ## The god of Famine, Pestilence and Natural Disaster {: .subtitle }

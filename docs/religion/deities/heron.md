@@ -3,7 +3,6 @@ title: Deity - Heron
 summary: A description of Heron, goddess of Valor, Nobility, Poetic Justice and Retribution.
 authors:
     - Jacques du Plessis
-date: 2020-03-17
 ---
 # Heron
 ## Goddess of Valor, Poetic Justice and Retribution {: .subtitle }
