@@ -15,7 +15,7 @@ authors:
 * **Manifestation:**  Armara and her agents manifest as a bird of prey, often observing humanoids from a close perch.  When choosing to manifest in humanoid form she is said to take on the form of a white robed nymph, with wings formed from air, as if the clouds itself condense to bring her into motion.  Though never seen wielding arms, she is most often associated with an elegant longbow, decorated with feathers.
 
 ## Associated Religious Organizations:
-* [Sky-seekers](/religion/organizations/sky_seekers) (Primary Church of Armara)
+* [Order of Sentinel](/religion/organizations/order_of_sentinel) (Primary Church of Armara)
 * [The Circle of Vitalis](/religion/organizations/circle_of_vitalis) (Pantheon of Life)
 * [The Elemental Courts](/religion/organizations/elemental_courts) (Pantheon of Elementals)
 
