@@ -25,10 +25,10 @@ Paladins initiated in the church will follow the tenants of their society as wel
 ### Beliefs and Dogma: 
 
 #### Tenants of Heron
-* **Protect those who cannot protect themselves**
-* **There is no place in the world for evil**
-* **Above all else, conform to the law of righteousness**
-* **In Valor one is true to oneself and also to the Goddess**
+* Protect those who cannot protect themselves
+* There is no place in the world for evil
+* Above all else, conform to the law of righteousness
+* In Valor one is true to oneself and also to the Goddess
 
 #### Tactical Philosophies
 * No soldier is considered superior to another. 

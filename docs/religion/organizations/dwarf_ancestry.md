@@ -1,29 +1,21 @@
 ---
-title: Association - Dwarven Religious Ancestry
-summary: 
+title: Association - Dwarf Ancestry
+summary: A summary of the Dwarven Ancestral Beliefs.
 authors:
     - Jacques du Plessis
 ---
-# Dwarven Religious Ancestry
-## The Beliefs of the Dwarven Pantheon {: .subtitle }
+#  Dwarf Ancestry
+## The Ethos of Elder Worship {: .subtitle }
 
 * **Type:** Verdant Ethos: Polytheistic, Animism
-* **Patron Deity:** The Erigrim
+* **Patron Deity:** Various, and The [Erigrim](/religion/deities/erigrim)
 
-## Common Worship and General Knowledge:
-Dwarves, for most accounts, revere all their ancestors as the guardians of creation.  They believe that all who die, may become part of the fires that fuel the _Eternal Forge_, and all (Dwarven) souls, still have a part to play in the workings of the world even after they die.  But from their own legends and mythical history the Erigrim (Literally: the Elders who are eternal) stand at the forefront of religious following.
+## Worshippers:
+All Dwarves may choose any deity as a patron, but all of them revere their deified elders, the _Kazmukzakällen_, to some extent.
 
-These are ancient ancestors who reached divine status by banishing the primal [Old Gods](/religion/deities/dwarf_old_ones) from the **Azthin** (Literally: Rock and Earth, time of the Stones.  Refers to the Material Plane) and teaching the Dwarven race the power of Runes.  It was they who granted the clans the power to slay dragons and who enabled the Dwarves to flourish as the greatest empire the world had ever seen during the _Age of Stone_.
+Choosing to serve a deity is seen as one of the most honorable acts a Dwarf can take. The commitment and sacrifice to a greater order is applauded, as the Erigrim are but one divine order in the cosmos.
 
-According to Dwarven custom, they may take any patron.  They see servitude to a god as noble and a very personal act.  But many choose one of the Erigrim as their personal patron.  Others choose to serve all the Erigrim equally and there are even those who serve other deities completely, yet still revere the Erigrim in their own right.
+## Priesthood: 
+Those who choose to dedicate themselves to the Erigrim, form part of the [Order of Paragon](/religion/organizations/order_of_paragon) 
 
-Some schools of thought say that because the Erigrim were once only mortals, that they aren’t true gods, yet still revere them as demigods.  Others believe that the Erigrim are the chosen gods of all Dwarves.
-
-Still all believe that the Erigrim must be regarded with the utmost respect and love, for they are all that Dwarf-kind strives to be.
-
-## Beliefs and Dogma of the Clergy: 
-
-
-## Clerical Ranks
-1. Rank
-2. Rank
+Those who choose other patrons follow the tenants of that organization, with the added association of Dwarf Ancestry wherever possible. Their power, however come from their patron and the Erigrim play no role in their life other than an acknowledgement of heritage.

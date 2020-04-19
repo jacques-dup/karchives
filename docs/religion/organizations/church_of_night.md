@@ -8,7 +8,7 @@ authors:
 ## The Order of Assador {: .subtitle }
 
 * **Type:** Seclusion Ethos: Polytheistic
-* **Patron Deity:** Assador
+* **Patron Deity:** [Assador](/religion/deities/assador), the Dark Lord
 
 ## Worshippers
 The followers of the Church of Night are often looked on in disdain.  They are seen as doomsayers and ignorant to most uninitiated.  Where operating in the open, they are often shunned for their practical interpretation if the Laws of The Fallen One, as spreading suffering is interpreted pragmatically.

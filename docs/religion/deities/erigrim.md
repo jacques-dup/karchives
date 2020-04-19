@@ -38,12 +38,10 @@ authors:
 #### Bazardin 
 #### Durathor
 
-
 ## Associated Religious Organizations
-* [Dwarf Ancestry](/religion/organizations/dwarf_ancestry)
-* The Paragons of Faith
-* The Patrons of the Elder
-* The Corrupted of Durathor
+* [Ancestral Reverence](/religion/organizations/dwarf_ancestry) (General Ethos of Dwarf Religion)
+* [Order of Paragon](/religion/organizations/order_of_paragon) (Primary order of the Dwarven Pantheon)
+* The Corrupted of Durathor (Priesthood of the Duergar)
 
 ## Common Worship
 Dwarves have a very strong sense of heritage and racial community.  As such they all tend to revere the Erigrim as divine ancestors regardless of their other religious beliefs.

@@ -10,7 +10,7 @@ authors:
 ## Pantheon of Life and Death {: .subtitle }
 
 - **Type:** Common Ethos: Polytheistic
-- **Patrons:** [Armara](/religion/deities/armara), [Erthan](/religion/deities/erthan), [Lenkinfail](/religion/deities/lenkinfail), [Lord Aster](/religion/deities/lord_aster), [Lilith](/religion/deities/lilith), [Ornim](/religion/deities/ornim), [Zarach](/religion/deities/zarach)
+- **Patrons:** [Armara](/religion/deities/armara), [Erthan](/religion/deities/erthan), [Urir](/religion/deities/erigrim), [Lenkinfail](/religion/deities/lenkinfail), [Lord Aster](/religion/deities/lord_aster), [Lilith](/religion/deities/lilith), [Ornim](/religion/deities/ornim), [Zarach](/religion/deities/zarach)
 
 ## Common Worship and General Knowledge:
 The Circle of Vitalis knows life as it knows death, and hints to the mortal realms at what lies beyond both.  Primarily associated with healing, the clergy of the circle are well respected across the realms as bringers of hope and instauration.

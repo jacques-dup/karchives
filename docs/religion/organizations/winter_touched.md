@@ -8,7 +8,7 @@ authors:
 ## A Sect of Vonryl Kethalon, the goddess of Eternal Winter {: .subtitle }
 
 * **Type:** Common Ethos: Polytheistic
-* **Patron Deity:** Vonryl Kethalon, goddess of Eternal Winter
+* **Patron Deity:** [Vonryl Kethalon](/religion/deities/vonryl_kethalon), goddess of Eternal Winter
 
 ## Worshippers
 All Elves, even those who are goodly aligned, regard Vonryl Kethalon as influential and spiritually significant to their history and daily lives.  Vonryl Kethalon herself has chosen the Elves as her champions and rarely decide to openly harm any of them.  As such, many relationships that Elves have with with the _Sect of the Winter Touched_ can be one of mutual benefit.

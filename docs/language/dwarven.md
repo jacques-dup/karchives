@@ -58,6 +58,8 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |beard | skargg|
 |because | pvi-da|
 |behind | dvargori|
+|bless | välsig|
+|blessed | (adj) välsigna|
 |bronze | keiss | also "west"|
 |brother (close friend) | mükzah|
 |brother (family) | kazah|
@@ -99,6 +101,8 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |good | gufel|
 |grave | peräa|
 |gravestone | perden|
+|great | före|
+|guard | vakir|
 |Halflings | Hanafinn|
 |hammer | myiljagür|
 |have | fa|
@@ -132,6 +136,7 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |old | undü|
 |ooh! | árra|
 |Orcs | Dökkfur|
+|paragon | förebra|
 |patron|
 |platinum |
 |polite | smënmukr|
@@ -143,6 +148,7 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |shape | slovax (v) | also create, form|
 |sharp | s'kar|
 |should | aedur|
+|shield | skyd|
 |silver | ori-nürr | also "south"|
 |sister (close friend) | mükzahdin|
 |sister (family) | kazahdin|
