@@ -15,6 +15,7 @@ authors:
 * **Manifestation:**  Lilith manifests in female form, naked and breathtakingly beautiful.  Her presence casts an aura of charm and influence around her, bringing all mortals under her control. Once a mortal leaves her influence they only remember bliss, and the effect of her immense beauty, but not her features nor her instructions. The body feels the effect of her, but the mind is obfuscated.
 
 ## Associated Religious Organizations
+* [The Sanguine](/religion/organizations/sanguine) (The Worship of Lilith and Church of the Flesh)
 
 ## Common Worship
 Lilith is seduction, infatuation and desire.  Wherever passions rise, there she is to fuel the flame.
