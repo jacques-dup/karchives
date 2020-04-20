@@ -6,7 +6,6 @@ authors:
 ---
 
 # Circle of Vitalis
-
 ## Pantheon of Life and Death {: .subtitle }
 
 - **Type:** Common Ethos: Polytheistic
