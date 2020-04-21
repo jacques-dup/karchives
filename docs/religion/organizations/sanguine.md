@@ -10,12 +10,12 @@ authors:
 * **Type:** Common Ethos: Polytheistic
 * **Patron Deity:** [Lilith](/religion/deities/lilith)
 
-## Worshippers
+## Worshippers:
 The Sanguine follows a simple philosophy of primal urges. Their organization is less order more association, as their members tend to have an healthy disregard for established rules.
 
 The Lady of Pleasures is revered through acts of pleasure giving and receiving. Anything goes where the goddess is present, and worshippers lose themselves in ecstasy at gatherings, partaking in pleasures of the mind and body. Alchemically induced trances and massive orgies are commonplace at the altars of Lilith, and those who partake stand free of judgement as their actions are deemed blessed and necessary by her holiness.
 
-## Priesthood
+## Priesthood:
 Clergy of the Sanguine are always female and beautiful beyond comparison, as they are deemed as as the chosen vision of the goddess. Though men are accepted in the faith, only women can become true priests of Lilith. But men are required in many acts of indulgence, and as such they may enjoy the privilege of becoming a willing acolyte.
 
 The Pleasure Houses of Lilith also serves as a refuge, to women in particular, who have suffered at the hand of oppression. The clergy is one of pacifism, but are more than capable of protecting all who seek their aid.

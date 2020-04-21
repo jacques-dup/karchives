@@ -10,6 +10,7 @@
         "Allfather",
         "Ameth",
         "Arath",
+        "Arcanum's",
         "Arctis",
         "Armara",
         "Artificium",
@@ -78,6 +79,7 @@
         "Merfolk",
         "Moontongue",
         "Morninglord",
+        "Mystborn",
         "Mystrealm",
         "Nahua",
         "Nahua's",
@@ -153,5 +155,6 @@
         "untameable",
         "warhammer",
         "Ärun"
-    ]
+    ],
+    "editor.detectIndentation": false
 }

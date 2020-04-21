@@ -15,7 +15,7 @@ authors:
 * **Manifestation:**  Maia chooses to reveal herself in the image of a young beatify woman or nymph, often depicted in a frail and delicate position.  Her hair is flowing in long, golden strands with eyes of fiery amber.  When clothed, her dress is simple and revealing, with depictions of stars and moons laced into the fabric
 
 ## Associated Religious Organizations:
-* [The Following of Divine Arcana](/religion/organizations/church_of_maia) (The Following, The Church of Maia, The Church of Magic)
+* [The Divine Arcanum](/religion/organizations/divine_arcanum) (The Following, The Church of Maia, The Church of Magic)
 * [The Circle of Arcana](/religion/organizations/circle_of_arcana) (Loose pantheon associate)
 
 ## Other Names:

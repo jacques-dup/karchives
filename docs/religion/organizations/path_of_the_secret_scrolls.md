@@ -7,8 +7,10 @@ authors:
 # The Path of the Secret Scrolls
 ## The Order of Artifice {: .subtitle }
 
-* **Type:** Scientific Ethos: Polytheistic, Truth Seekers
-* **Patron Deity:** [Irthor & Kidan](/religion/deities/irthor_&_kidan)
+!!! info "Details"
+    **Type:** Scientific Ethos: Polytheistic, Truth Seekers
+
+    **Patron Deity:** [Irthor & Kidan](/religion/deities/irthor_&_kidan)
 
 ## Worshippers:
 The Di-being, Brother gods, Irthor and Kidan, is one of the major deities of Aklatoria and has follower all across the realms.  Most notably, they are the patrons of the Warforged, as the first of these kindred were born within the Order of Artifice.
@@ -24,8 +26,10 @@ All forms of knowledge seeking is encourages by the order, whether it be magic, 
 
 Though the order does not concern itself much with martial prowess, some scholars pursue it as a craft and study historic battles.  Many Warforged of the order consider themselves constructs to the pursuit of martial perfection, and as such hone their skills in it.  Within the order it is believed that the first Warforged to have been created were done so in order to perfect the art of war.  This is however, mere theory, and can in some cases be the cause of much debate between followers of the Path.
 
-### Clerical Ranks
-1. **Tinkers** Once initiated into the Path, clergy are regarded as Tinkers.  Their name describes their pursuits, as they are still tinkering within various fields.  All Tinkers enjoy the full benefits of the Order and has the freedom to walk the Path as they see fit.  The bulk of all the Church's clerics are Tinkers.
-2. **Scribes** Those who decide to fully devote their time to the gathering of knowledge, contributing actively to the libraries and archives of the church, will gain the rank of scribe.  For their efforts they gain access to troves of secret lore. To ascend to the rank of scribe one must make a recognized contribution to the archives, as determined by a Specialist in the ranks, as well as construct one new invention considered to be "ingenious" (some would say "handy").
-3. **Specialists** Specialists are considered leaders in their field.  Once a cleric has gained enough renown within the Order, they can be nominated by anyone within the order (usually a Specialists, but this is not a requirement) to ascend in rank.  Once nominated, the cleric needs to pass a trial set by a Lore Master to be accepted.
-4. **Lore-masters** Being considered a Lore-Master is the highest honour a cleric of Irthor & Kidan can attain.  There are only a handful known by name, more by reputation than anything else.  To become a Lore Master one must be not only an expert in multiple fields of study, but also have created such works as to be considered miracles of the known world.
+### Hierarchy
+
+??? abstract "Clerical Ranks"
+    1. **Tinkers** Once initiated into the Path, clergy are regarded as Tinkers.  Their name describes their pursuits, as they are still tinkering within various fields.  All Tinkers enjoy the full benefits of the Order and has the freedom to walk the Path as they see fit.  The bulk of all the Church's clerics are Tinkers.
+    2. **Scribes** Those who decide to fully devote their time to the gathering of knowledge, contributing actively to the libraries and archives of the church, will gain the rank of scribe.  For their efforts they gain access to troves of secret lore. To ascend to the rank of scribe one must make a recognized contribution to the archives, as determined by a Specialist in the ranks, as well as construct one new invention considered to be "ingenious" (some would say "handy").
+    3. **Specialists** Specialists are considered leaders in their field.  Once a cleric has gained enough renown within the Order, they can be nominated by anyone within the order (usually a Specialists, but this is not a requirement) to ascend in rank.  Once nominated, the cleric needs to pass a trial set by a Lore Master to be accepted.
+    4. **Lore-masters** Being considered a Lore-Master is the highest honour a cleric of Irthor & Kidan can attain.  There are only a handful known by name, more by reputation than anything else.  To become a Lore Master one must be not only an expert in multiple fields of study, but also have created such works as to be considered miracles of the known world.
