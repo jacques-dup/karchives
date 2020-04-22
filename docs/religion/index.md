@@ -10,17 +10,10 @@ authors:
 
 Aklatoria is predominantly Polytheistic, potentially having hundreds of different gods and even more sect and churches.  At its most common, inhabitants believe in all the listed major deities, whereas in other places, you might find the influence of only some.  The god-lore of the realm is best described in a layered approach, where each layer represents a philosophical ethos surrounding gods and religion.
 
-### Common Ethos: Polytheistic Pantheons
-- **Hallmark:** There are many gods who are raised above mortals and hold much power.
-
-### Verdant Ethos: Animism
-- **Hallmark:** Everything has a divine essence.
-
-### Seclusion Ethos: Tight Pantheons
-- **Hallmark:** What we believe is the truth, the others are sacrilegious.
-
-### Scientific Ethos: Truth Seekers
-- **Hallmark:** Even the gods do not know everything... There are greater powers and rules governing the cosmos...
+1. **Common Ethos: Polytheistic Pantheons:** _There are many gods who are raised above mortals and hold much power._
+2. **Verdant Ethos: Animism:** _Everything has a divine essence._
+3. **Seclusion Ethos: Tight Pantheons:** _What we believe is the truth, the others are sacrilegious._
+5. **Scientific Ethos: Truth Seekers:** _Even the gods do not know everything... There are greater powers and rules governing the cosmos..._
 
 
 ## Common Deities
