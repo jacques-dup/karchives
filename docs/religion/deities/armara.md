@@ -7,22 +7,28 @@ authors:
 # Armara
 ## The goddess of the Sky {: .subtitle }
 
-* **Type:** Major Deity (Lesser Deity)
-* **Alignment:** Neutral Good
-* **Domains:** Life, Nature
-* **Symbol:** A cord bound feather from a bird of prey.
-* **Followers:** Travellers, Healers, People living on open plains, druids and Spiritualists.
-* **Manifestation:**  Armara and her agents manifest as a bird of prey, often observing humanoids from a close perch.  When choosing to manifest in humanoid form she is said to take on the form of a white robed nymph, with wings formed from air, as if the clouds itself condense to bring her into motion.  Though never seen wielding arms, she is most often associated with an elegant longbow, decorated with feathers.
+!!! info "Details"
+    **Type:** Major Deity (Lesser Deity)
 
-## Associated Religious Organizations:
+    **Alignment:** Neutral Good
+
+    **Domains:** Life, Nature
+
+    **Symbol:** A cord bound feather from a bird of prey.
+
+    **Followers:** Travellers, Healers, People living on open plains, druids and Spiritualists.
+
+Armara and her agents manifest as a bird of prey, often observing humanoids from a close perch.  When choosing to manifest in humanoid form she is said to take on the form of a white robed nymph, with wings formed from air, as if the clouds itself condense to bring her into motion.  Though never seen wielding arms, she is most often associated with an elegant longbow, decorated with feathers.
+
+??? abstract "Other names"
+    - ***Aiwiinor,*** as named by the Elves, translated to _One of the Winds_
+    - ***Aria,*** as named in the regions of Casavano & Caenar
+    - ***Lurrden-Mörr,*** as named by the Dwarves, translated to _Mother of the Sky_
+
+## Associated Religious Organizations
 * [Order of Sentinel](/religion/organizations/order_of_sentinel) (Primary Church of Armara)
 * [The Circle of Vitalis](/religion/organizations/circle_of_vitalis) (Pantheon of Life)
 * [The Elemental Courts](/religion/organizations/elemental_courts) (Pantheon of Elementals)
-
-## Other Names:
-* "Aiwiinor" (Elvin: One of the Winds)
-* "Aria" (Casavano and Caenar)
-* "Lurrden-Mörr" (Dwarven: Mother of the Sky)
 
 ## Common Worship
 Armara is looked upon as an entity of Instauration by most of the common races, but this is not necessarily true for all places and cultures.  Armara is, in her first instance, the goddess of the skies.  Therefore there are some, albeit verdant societies, who revere her primarily as an entity of nature and the bringer of clouds and rains.
