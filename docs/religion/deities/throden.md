@@ -7,12 +7,18 @@ authors:
 # Throden
 ## The Lord of Dragons, Dragon kind and Draconic Lore {: .subtitle }
 
-* **Type:** Major Deity (Lesser Deity)
-* **Alignment:** Lawful Neutral
-* **Domains:** Arcana, Knowledge, Order
-* **Symbol:** A Silhouetted Sigil of a Dragon in shale, its wings spread outward and its head turned upward, adorned with tiny gems and metals of all the coloured dragons.
-* **Followers:** Dragons, Dragonborn, Kobolds, Dragon-blood sorcerers, and all who identify as dragon kin.
-* **Manifestation:** Throden resembles an ancient White dragon. Prismatic veins cover his scales as scars, shifting colours eerily. Surrounding him is an aura of awe, fear, and surprising benevolence at first, as his silver eyes laced with golden specs bore down into your soul.
+!!! info "Details"
+    **Type:** Major Deity
+
+    **Alignment:** Lawful Neutral
+
+    **Domains:** Arcana, Knowledge, Order
+
+    **Symbol:** A Silhouetted Sigil of a Dragon in shale, its wings spread outward and its head turned upward, adorned with tiny gems and metals of all the coloured dragons.
+
+    **Followers:** Dragons, Dragonborn, Kobolds, Dragon-blood sorcerers, and all who identify as dragon kin.
+
+Throden resembles an ancient White dragon. Prismatic veins cover his scales as scars, shifting colours eerily. Surrounding him is an aura of awe, fear, and surprising benevolence at first, as his silver eyes laced with golden specs bore down into your soul.
 
 ## Associated Religious Organizations
 * [The Way of the Primordial Serpent](/religion/organizations/way_of_the_primordial_serpent) (The primary church of Throden)

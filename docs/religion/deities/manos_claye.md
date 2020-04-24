@@ -7,12 +7,18 @@ authors:
 # Manos Claye
 ## God of the Forge {: .subtitle }
 
-* **Type:** Major Deity (Lesser Deity)
-* **Alignment:** Lawful Neutral
-* **Domains:** Forge
-* **Symbol:** A Smith's hammer with its hilt turned upward, with a circlet tied around the shaft, decorated with an eight pointed star
-* **Followers:** Smiths, Miners, Steel Workers and all who value the talent of creation.
-* **Manifestation:** Manos is the burning coals in the smith's fire, and manifests as a face of smoke around two red glowing orbs. His voice is that of the anvil strike and the sizzling of hot steel. Sometimes he will take on the form of a Fire Giant.
+!!! info "Details"
+    **Type:** Major Deity
+
+    **Alignment:** Lawful Neutral
+
+    **Domains:** Forge
+
+    **Symbol:** A Smith's hammer with its hilt turned upward, with a circlet tied around the shaft, decorated with an eight pointed star
+
+    **Followers:** Smiths, Miners, Steel Workers and all who value the talent of creation.
+
+Manos is the burning coals in the smith's fire, and manifests as a face of smoke around two red glowing orbs. His voice is that of the anvil strike and the sizzling of hot steel. Sometimes he will take on the form of a Fire Giant.
 
 ## Associated Religious Organizations
 

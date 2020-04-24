@@ -7,12 +7,18 @@ authors:
 # Zarach
 ## The god of Death and Lost Souls {: .subtitle }
 
-* **Type:** Major Deity (Lesser Deity)
-* **Alignment:** Lawful Evil
-* **Domains:** Arcana, Darkness, Death
-* **Symbol:** A Cracked, Humanoid Skull with an Obsidian Gem lodged in the forehead.
-* **Followers:** Necromancers, Death Worshippers, Intelligent Undead.
-* **Manifestation:** Zarach's form is that of the Lich King, a skeletal head clad in tattered robes and wearing the Crown of Un-death. All those who witness the visage are stricken with fear absolute, unable to move as they stand in awe of the King of Bones.
+!!! info "Details"
+    **Type:** Major Deity
+
+    **Alignment:** Lawful Evil
+
+    **Domains:** Arcana, Darkness, Death
+
+    **Symbol:** A Cracked, Humanoid Skull with an Obsidian Gem lodged in the forehead.
+
+    **Followers:** Necromancers, Death Worshippers, Intelligent Undead.
+
+Zarach's form is that of the Lich King, a skeletal head clad in tattered robes and wearing the Crown of Un-death. All those who witness the visage are stricken with fear absolute, unable to move as they stand in awe of the King of Bones.
 
 ## Associated Religious Organizations
 

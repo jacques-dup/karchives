@@ -8,7 +8,7 @@ authors:
 ## The god of the Sun, Protection and Positive Energies {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity (Lesser Deity)
+    **Type:** Major Deity
     
     **Alignment:** Lawful Good
 
@@ -18,7 +18,7 @@ authors:
 
     **Followers:** Paladins, Undead Slayers, Knights, Farmers, those who bring hope an light, those who depend on the sun.
 
-    **Manifestation:**  Lord Aster's sigils are the sun and the aster flower. Wherever this flower grows is where the sun god's radiance has manifested.  When manifesting as a persona, Lord Aster is seen as a giant titan with copper skin, clad in radiant armour and carrying a spear, called _Lightbringer_, with which he can change the trajectory of the sun.
+Lord Aster's sigils are the sun and the aster flower. Wherever this flower grows is where the sun god's radiance has manifested.  When manifesting as a persona, Lord Aster is seen as a giant titan with copper skin, clad in radiant armour and carrying a spear, called _Lightbringer_, with which he can change the trajectory of the sun.
 
 ## Associated Religious Organizations:
 * [The House of Dawn](/religion/organizations/house_of_dawn) (Primary church of Lord Aster)

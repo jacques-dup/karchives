@@ -8,7 +8,7 @@ authors:
 ## The goddess of the Sky {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity (Lesser Deity)
+    **Type:** Major Deity
 
     **Alignment:** Neutral Good
 

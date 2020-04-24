@@ -8,7 +8,7 @@ authors:
 ## Divine Dwarf Ancestors {: .subtitle }
 
 !!! info "Details"
-    **Type:** Minor Pantheon
+    **Type:** Minor Pantheon culminating to a Major Divine Source.
     
     **Domains:** Various (see individual listings)
 

@@ -7,19 +7,22 @@ authors:
 # Maia
 ## Goddess of Magic, Grimoirs, Arcana and Spells {: .subtitle }
 
-* **Type:** Major Deity (Lesser Deity)
-* **Alignment:** Neutral
-* **Domains:** Arcana, Knowledge, Solidarity
-* **Symbol:** A star eclipsing the two moons
-* **Followers:** Mages, Sorcerers, Fey, seekers of knowledge, artifacts and ancient wisdom.
-* **Manifestation:**  Maia chooses to reveal herself in the image of a young beatify woman or nymph, often depicted in a frail and delicate position.  Her hair is flowing in long, golden strands with eyes of fiery amber.  When clothed, her dress is simple and revealing, with depictions of stars and moons laced into the fabric
+!!! info "Details"
+    **Type:** Major Deity
+
+    **Alignment:** Neutral
+
+    **Domains:** Arcana, Knowledge, Solidarity
+
+    **Symbol:** A star eclipsing the two moons
+
+    **Followers:** Mages, Sorcerers, Fey, seekers of knowledge, artifacts and ancient wisdom.
+
+Maia chooses to reveal herself in the image of a young beatify woman or nymph, often depicted in a frail and delicate position.  Her hair is flowing in long, golden strands with eyes of fiery amber.  When clothed, her dress is simple and revealing, with depictions of stars and moons laced into the fabric
 
 ## Associated Religious Organizations:
 * [The Divine Arcanum](/religion/organizations/divine_arcanum) (The Following, The Church of Maia, The Church of Magic)
 * [The Circle of Arcana](/religion/organizations/circle_of_arcana) (Loose pantheon associate)
-
-## Other Names:
-*
 
 ## Common Worship
 The Arcane is a daunting and mysterious force that requires not only training, but often divine guidance as well.  Whenever matters of the Arcane impacts the life of mortals, there will be the presence of Maia, as her own essence is tied to that of the Myst.

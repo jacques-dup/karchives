@@ -7,12 +7,18 @@ authors:
 # Vonryl Kethalon
 ## The goddess of Eternal Winter {: .subtitle }
 
-* **Type:** Major Deity (Lesser Deity)
-* **Alignment:** Lawful Evil
-* **Domains:** Ambition, Protection, Tempest
-* **Symbol:** A crystalline, jagged star, shaped like a snow flake.
-* **Followers:** Elves and others living in harsh tundra regions where her influence is strongest.
-* **Manifestation:**  Vonryl Kethalon manifest primarily as a howling wind, but when physically manifesting a a being she chooses to show herself as a slender humanoid figure with elfish features, but always shrouded in a tattered cloak and hidden within a snowstorm.
+!!! info "Details"
+    **Type:** Major Deity
+
+    **Alignment:** Lawful Evil
+
+    **Domains:** Ambition, Protection, Tempest
+
+    **Symbol:** A crystalline, jagged star, shaped like a snow flake.
+
+    **Followers:** Elves and others living in harsh tundra regions where her influence is strongest.
+
+Vonryl Kethalon manifest primarily as a howling wind, but when physically manifesting a a being she chooses to show herself as a slender humanoid figure with elfish features, but always shrouded in a tattered cloak and hidden within a snowstorm.
 
 ## Associated Religious Organizations:
 * [The Winter-Touched](/religion/organizations/winter_touched)

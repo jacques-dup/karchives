@@ -7,12 +7,18 @@ authors:
 # Stryder
 ## The god of Mischief, Illusion, Intelligence and Luck {: .subtitle }
 
-* **Type:** Major Deity (Lesser Deity)
-* **Alignment:** Chaotic Good
-* **Domains:** Arcana, Trickery
-* **Symbol:** A depiction of an Open Mouth, its Tongue protruding outward and encircling it.
-* **Followers:** Tricksters, Performers, Rogues, Good Aligned Thieves, and all with a hint of mischief in their hearts.
-* **Manifestation:** Stryder embodies illusion and as such his form shifts often. In many of his depictions, he resembles a fox-like humanoid clad in a long coat, with a wide brimmed hat hiding his eyes, but those who claim to have met him give varied accounts. He is however fond of illusions and tricks, and most often leaves his calling card in the form of a perpetually spinning, gold coin that vanishes when you try to pick it up.
+!!! info "Details"
+    **Type:** Major Deity
+
+    **Alignment:** Chaotic Good
+
+    **Domains:** Arcana, Trickery
+
+    **Symbol:** A depiction of an Open Mouth, its Tongue protruding outward and encircling it.
+
+    **Followers:** Tricksters, Performers, Rogues, Good Aligned Thieves, and all with a hint of mischief in their hearts.
+
+Stryder embodies illusion and as such his form shifts often. In many of his depictions, he resembles a fox-like humanoid clad in a long coat, with a wide brimmed hat hiding his eyes, but those who claim to have met him give varied accounts. He is however fond of illusions and tricks, and most often leaves his calling card in the form of a perpetually spinning, gold coin that vanishes when you try to pick it up.
 
 ## Associated Religious Organizations
 

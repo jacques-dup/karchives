@@ -8,7 +8,7 @@ authors:
 ## The god of Song, Wine and Revelry {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity (Lesser Deity)
+    **Type:** Major Deity
 
     **Alignment:** Chaotic Good
 

@@ -7,12 +7,18 @@ authors:
 # Heron
 ## Goddess of Valor, Poetic Justice and Retribution {: .subtitle }
 
-* **Type:** Major Deity (Lesser Deity)
-* **Alignment:** Lawful Good
-* **Domains:** Order, Solidarity, Zeal
-* **Symbol:** A kite shield sigil with the emblazoned image of an upturned sword.
-* **Followers:** Paladins, Warriors, Knights, and all those who believe that good comes to those who deserve it.
-* **Manifestation:** Heron manifests as a great, white unicorn with a sparkling, mithril horn.  Rarely, The Mare will also be a rider in glittering plate, holding an unsheathed sword aloft. From her mantel flows a white banner with a circle of runes, giving strength to her allies.
+!!! info "Details"
+    **Type:** Major Deity
+
+    **Alignment:** Lawful Good
+
+    **Domains:** Order, Solidarity, Zeal
+
+    **Symbol:** A kite shield sigil with the emblazoned image of an upturned sword.
+
+    **Followers:** Paladins, Warriors, Knights, and all those who believe that good comes to those who deserve it.
+
+Heron manifests as a great, white unicorn with a sparkling, mithril horn.  Rarely, The Mare will also be a rider in glittering plate, holding an unsheathed sword aloft. From her mantel flows a white banner with a circle of runes, giving strength to her allies.
 
 ## Associated Religious Organizations:
 * [The Unyielding](/religion/organizations/unyielding) (The Church of Heron the Smiting.)

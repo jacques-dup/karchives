@@ -7,12 +7,18 @@ authors:
 # Rumara Caelan
 ## The goddess of Adventure, Good Fortune, Humour and Dancing {: .subtitle }
 
-* **Type:** Major Deity (Lesser Deity)
-* **Alignment:** Chaotic Good
-* **Domains:** Beauty, Solidarity
-* **Symbol:** An adorned pin shaped like a music note, and covered in tiny gems.
-* **Followers:** Adventurers, Artists, Performers, all who have a sense for good fortune and the enjoyment of life
-* **Manifestation:** Rumara's form is that of a Pixie with wings of purple starlight and hair of bright flowing raspberry locks.  Her gown is made of cobwebs and she carries a long flute made from a reed.
+!!! info "Details"
+    **Type:** Major Deity
+
+    **Alignment:** Chaotic Good
+
+    **Domains:** Beauty, Solidarity
+
+    **Symbol:** An adorned pin shaped like a music note, and covered in tiny gems.
+
+    **Followers:** Adventurers, Artists, Performers, all who have a sense for good fortune and the enjoyment of life
+
+Rumara's form is that of a Pixie with wings of purple starlight and hair of bright flowing raspberry locks.  Her gown is made of cobwebs and she carries a long flute made from a reed.
 
 ## Associated Religious Organizations
 

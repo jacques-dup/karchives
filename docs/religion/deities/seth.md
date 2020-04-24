@@ -7,12 +7,18 @@ authors:
 # Seth
 ## The goddess of Chaos, Hatred and Jealousy {: .subtitle }
 
-* **Type:** Major Deity (Lesser Deity)
-* **Alignment:** Chaotic Evil
-* **Domains:** Ambition, Destruction, Zeal
-* **Symbol:** 
-* **Followers:** The Ambitious, the Vengeful, and all those who wants to achieve their goals and domination by any means.
-* **Manifestation:** Seth rarely shows her face, even among the divine, and rather sends her Draegloth servants wherever her instructions need to be known. It is said, however that her face, though once beautiful is now scarred and mutilated beyond recognition by the chaos of her hatred.
+!!! info "Details"
+    **Type:** Major Deity
+
+    **Alignment:** Chaotic Evil
+
+    **Domains:** Ambition, Destruction, Zeal
+
+    **Symbol:** 
+
+    **Followers:** The Ambitious, the Vengeful, and all those who wants to achieve their goals and domination by any means.
+
+Seth rarely shows her face, even among the divine, and rather sends her Draegloth servants wherever her instructions need to be known. It is said, however that her face, though once beautiful is now scarred and mutilated beyond recognition by the chaos of her hatred.
 
 ## Associated Religious Organizations
 
