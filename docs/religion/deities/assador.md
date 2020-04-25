@@ -20,6 +20,10 @@ authors:
 
 Assador does not manifest in person.  He is said to have the visage of a handsome humanoid knight wearing black armour and having crimson bat-like wings. Instead his will is made known in person through his subjects by means of possession or through the summoning of Incubi agents.
 
+??? abstract "Other Names"
+    - ***The Dark Lord,*** as the one who brings suffering
+    - ***The Black Knight,*** as the First of the Fallen
+
 ## Associated Religious Organizations:
 * [Church of Night](/religion/organizations/church_of_night) (Primary church of Assador)
 

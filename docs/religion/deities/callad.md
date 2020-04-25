@@ -20,6 +20,11 @@ authors:
 
 Callad manifests as a slender Halfling, clad in black leather.  The Palled Oath forms part of her skin, with solid golden orbs for eyes and long flowing, blonde hair curling around her face as if a hood.
 
+??? abstract "Other Names"
+    - ***The Palled Oath,*** as she embodies her manifestation.
+    - ***The Golden Twin,*** as the the sister of _Firna_
+    - ***The Dark Princess,*** as the daughter of _Nox_
+
 ## Associated Religious Organizations
 
 ## Common Worship
