@@ -19,8 +19,7 @@ pip install markdown-blockdiag
 pip install markdown-include
 ```
 
-> See installation instructions for MkDocs at [https://www.mkdocs.org/#installation](https://www.mkdocs.org/#installation)
-<br>
+> See installation instructions for MkDocs at [https://www.mkdocs.org/#installation](https://www.mkdocs.org/#installation)<br>
 > See cool examples at [https://alinex.gitlab.io/env/mkdocs](https://alinex.gitlab.io/env/mkdocs)
 
 ## Startup

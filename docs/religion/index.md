@@ -57,7 +57,7 @@ That which makes a being divine is an essence known as Divine Source.  It is a r
 |[Manos Claye](/religion/deities/manos_claye)               |LN| God of the Forge                                                   ||
 |[Martivir](/religion/deities/martivir)                     |LN| God of Justice and Law                                             ||
 |[Naásh Feramil](/religion/deities/naash_feramil)           |LG| Goddess of Family, Hearth and Culture                              ||
-|[Nahua](/religion/deities/nahua) (na-Hu)	                |NE| God of Famine Pestilence and Natural Disaster                      ||
+|[Nahua](/religion/deities/nahua) (naw-Hu)	                |NE| God of Famine Pestilence and Natural Disaster                      ||
 |[Nimwind](/religion/deities/nimwind)	                    |TN| Goddess of Stars, Dreams, Wisdom and Divination                    ||
 |[Nod](/religion/deities/nod)	                            |NE| God of Phantasm, Madness and Nightmares                            ||
 |[Odian](/religion/deities/odian)	                        |NG| God of Strength, War, Strategy and War-stories                     ||
