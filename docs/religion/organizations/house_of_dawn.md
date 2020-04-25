@@ -1,5 +1,5 @@
 ---
-title: Organization - House of Dawn
+title: Organization - The House of Dawn
 summary: A description of the House of Dawn, Primary church of Lord Aster.
 authors:
   - Jacques du Plessis

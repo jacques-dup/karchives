@@ -1,11 +1,11 @@
 ---
-title: Organization - Order of the Sentinel
+title: Organization - The Order of the Sentinel
 summary: A description of the Order of the Sentinel, the primary church of Armara.
 authors:
   - Jacques du Plessis
 ---
 
-# Order of the Sentinel
+# The Order of the Sentinel
 ## The Church of Armara {: .subtitle }
 
 !!! info "Details"

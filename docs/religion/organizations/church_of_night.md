@@ -1,10 +1,10 @@
 ---
-title: Organization - Church of Night
+title: Organization - The Church of Night
 summary: A description of the primary church of Assador, the Dark Lord of Suffering.
 authors:
     - Jacques du Plessis
 ---
-# Church of Night
+# The Church of Night
 ## The Order of Assador {: .subtitle }
 
 * **Type:** Seclusion Ethos: Polytheistic

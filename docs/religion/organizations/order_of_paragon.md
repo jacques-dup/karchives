@@ -4,7 +4,7 @@ summary: A summary of the Dwarven Ancestral Beliefs and their religious worship.
 authors:
     - Jacques du Plessis
 ---
-# Paragons of the Erigrim
+# The Paragons of the Erigrim
 ## The Pantheon of Dwarven Ancestry {: .subtitle }
 
 !!! info "Details"

@@ -1,5 +1,5 @@
 ---
-title: Organization - Path of the Secret Scrolls
+title: Organization - The Path of the Secret Scrolls
 summary: A description of the Path of the Secret Scrolls, the primary church of Irthor & Kidan.
 authors:
     - Jacques du Plessis

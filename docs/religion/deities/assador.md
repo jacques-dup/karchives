@@ -22,7 +22,6 @@ Assador does not manifest in person.  He is said to have the visage of a handsom
 
 ## Associated Religious Organizations:
 * [Church of Night](/religion/organizations/church_of_night) (Primary church of Assador)
-* [Keepers of Penance](/religion/organizations/keepers_of_penance) (Pantheon of Sufferers)
 
 ## Common Worship
 The followers of Assador are often looked on in disdain, as doomsayers and martyrs.  But even though the clergy may be disliked in general, the Dark Lord is often still regarded as a powerful entity and vessel for the suffering.
