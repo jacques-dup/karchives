@@ -22,6 +22,7 @@ Firna is shadow itself, never seen, not even when death embraces. Her essence ma
 
 ## Associated Religious Organizations
 - [Order of the Third Eye](/religion/organizations/order_of_the_third_eye)
+- [Chantry of the Sisters](/religion/organizations/chantry_of_the_sisters)
 
 ## Common Worship
 There are a number of cultures who value the art of secret killing.  In such places, Firna can be worshipped in open sight, her temples a place to ask for blessings whenever sinister actions are planned.

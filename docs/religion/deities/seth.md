@@ -21,6 +21,7 @@ authors:
 Seth rarely shows her face, even among the divine, and rather sends her Draegloth servants wherever her instructions need to be known. It is said, however that her face, though once beautiful is now scarred and mutilated beyond recognition by the chaos of her hatred.
 
 ## Associated Religious Organizations
+- [Chantry of the Sisters](/religion/organizations/chantry_of_the_sisters)
 
 ## Common Worship
 Seth is called upon where rivalries turn vengeful and ambition drives decisions.  Where jealousy turns primal and hatred turns to a chaotic outburst.

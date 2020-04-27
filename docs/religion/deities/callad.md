@@ -18,14 +18,17 @@ authors:
 
     **Followers:** Thieves, Assassins, Spies, Merchants and all who trade in subterfuge and secret information.
 
-Callad manifests as a slender Halfling, clad in black leather.  The Palled Oath forms part of her skin, with solid golden orbs for eyes and long flowing, blonde hair curling around her face as if a hood.
+Callad manifests as a slender Halfling, clad in black leather.  A dull, white mask, "The Palled Oath", forms part of her skin, with solid golden orbs for eyes and long flowing, blonde hair curling around her face as if a hood.
 
 ??? abstract "Other Names"
     - ***The Palled Oath,*** as she embodies her manifestation.
     - ***The Golden Twin,*** as the the sister of _Firna_
     - ***The Dark Princess,*** as the daughter of _Nox_
+    - ***The Queen of Thieves,*** as named by her church.
 
 ## Associated Religious Organizations
+* [The Court of the White Mask](/religion/deities/court_of_the_white_mask)
+* [Chantry of the Sisters](/religion/organizations/chantry_of_the_sisters)
 
 ## Common Worship
 Prayers summoning The Palled Oath frequents the lips of those at the receiving end of treachery.  Even though the goddess and her followers excel at subterfuge, the ultimate form of treachery is if she can turn around and bereave the ones who meek out treachery in the first place.
