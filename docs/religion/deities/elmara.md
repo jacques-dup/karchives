@@ -24,6 +24,7 @@ Elmara's form is that of an elegant Lady of Court.  Her gown shimmers with a tho
     - ***Onaför,*** as named by the Dwarves, named as to resemble a rough translation of _"She of Greatness"_
 
 ## Associated Religious Organizations
+* [The Benign Assembly](/religion/organizations/benign_assembly)
 * [The Ordos Valorium](/religion/organizations/ordos_valorium) (Pantheon of Honour and Valor)
 
 ## Common Worship
