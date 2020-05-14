@@ -1,8 +1,8 @@
 # Ni'arnfell
 ## The Barbarian Kingdom {: .subtitle}
 
-![Ni'arnfell Map](/assets/images/maps/Niarnfell_web.png "Map of Ni'arnfell")
-[Niarnfell.png](/assets/images/maps/Niarnfell_web.png){: .footnote .right}
+![Ni'arnfell Map](/karchives/assets/images/maps/Niarnfell_web.png "Map of Ni'arnfell")
+[Niarnfell.png](/karchives/assets/images/maps/Niarnfell.png){: .footnote .right}
 
 > The sky is painted in gold and crimson as the sun rises over the hilly horizon of the open plains. Rolling hills of grass and interspersed woods stretch out as far as the eye can see. Stone monoliths rising from beneath the ground stretching up toward the heavens. It is a land of open spaces, vast riches, and the humble folk that call it home.
 

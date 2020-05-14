@@ -4,6 +4,7 @@ theme:
 
 extra_css:
   - /assets/css/custom.css
+  - /karchives/assets/css/custom.css
 extra:
     social:
         - type: github
