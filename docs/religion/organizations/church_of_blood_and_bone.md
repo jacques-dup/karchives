@@ -1,5 +1,5 @@
 ---
-title: Organization - The Church of Blood and Bone
+title: The Church of Blood and Bone
 summary: A description of The Church of Blood and Bone, the religious affiliation Garkash.
 authors:
   - Jacques du Plessis

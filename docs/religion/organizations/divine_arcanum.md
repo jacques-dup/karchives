@@ -1,5 +1,5 @@
 ---
-title: Organization - The Divine Arcanum
+title: The Divine Arcanum
 summary: A description of the primary church of Maia, goddess of magic.
 authors:
     - Jacques du Plessis

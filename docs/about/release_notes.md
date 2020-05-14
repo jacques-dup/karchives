@@ -2,7 +2,7 @@
 
 ## Version 0.0.1 (The Divine)
 * Added Cosmology: (Artificium Campestribus, Heldar, Ad Materia, Reilagg)
-* Added Realm: Agaea
+* Added Realm: Agaea, Ni'arnfell
 * Added Artifacts: (Book of Arath Aev, Tablets of Verashuun)
 * Added Myths: (Black Seeding, Dwarves, Seeds of Life)
 * Added Secret Lore: (Neliavth)

@@ -1,5 +1,5 @@
 ---
-title: Organization - The Way of the Primordial Serpent
+title: The Way of the Primordial Serpent
 summary: A description of the primary church of Throden, the Lord of Dragons.
 authors:
     - Jacques du Plessis

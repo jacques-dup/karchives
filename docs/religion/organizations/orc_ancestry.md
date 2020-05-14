@@ -1,5 +1,5 @@
 ---
-title: Association - The Way of the Blood Rage
+title: The Way of the Blood Rage
 summary: A description of The Way of the Blood Rage, traditional Orcish Ancestral beliefs.
 authors:
   - Jacques du Plessis

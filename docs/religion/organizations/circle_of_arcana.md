@@ -1,5 +1,5 @@
 ---
-title: Organization - The Circle of Arcana
+title: The Circle of Arcana
 summary: A description of the loose pantheon of the arcane.
 authors:
     - Jacques du Plessis

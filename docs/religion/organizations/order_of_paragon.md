@@ -1,5 +1,5 @@
 ---
-title: Organization - The Paragons of the Erigrim
+title: The Paragons of the Erigrim
 summary: A summary of the Dwarven Ancestral Beliefs and their religious worship.
 authors:
     - Jacques du Plessis

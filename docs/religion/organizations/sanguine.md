@@ -1,5 +1,5 @@
 ---
-title: Organization - The Sanguine
+title: The Sanguine
 summary: A description of the primary church of Lilith, goddess of Beauty and Lust.
 authors:
     - Jacques du Plessis

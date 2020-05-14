@@ -1,5 +1,5 @@
 ---
-title: Organization - The Herds of the Shepherd
+title: The Herds of the Shepherd
 summary: A description of the The Herds of the Shepherd, the primary church of Erthan.
 authors:
   - Jacques du Plessis

@@ -1,5 +1,5 @@
 ---
-title: Association - Dwarf Ancestry
+title: Dwarf Ancestry
 summary: A summary of the Dwarven Ancestral Beliefs.
 authors:
     - Jacques du Plessis

@@ -1,5 +1,5 @@
 ---
-title: Organization - Ordos Valorium
+title: Ordos Valorium
 summary: A description of the Ordos Valorium, a pantheon of Valor and Honour and their Paladin servants.
 authors:
     - Jacques du Plessis

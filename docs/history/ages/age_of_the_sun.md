@@ -1,5 +1,5 @@
 ---
-title: History - Age of the Sun
+title: Age of the Sun
 summary: A summary of the age of the sun.
 authors:
     - Jacques du Plessis

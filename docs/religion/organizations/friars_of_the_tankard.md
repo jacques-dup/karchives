@@ -1,5 +1,5 @@
 ---
-title: Organization - Friars of the Tankard Spirit
+title: Friars of the Tankard Spirit
 summary: A description of the Friars of the Tankard Spirit, the primary church of Duswyn the Drunk god.
 authors:
   - Jacques du Plessis

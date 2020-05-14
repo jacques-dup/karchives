@@ -1,5 +1,5 @@
 ---
-title: History - The Time of Turmoil
+title: The Time of Turmoil
 summary: A summary of the time of Turmoil, the god wars, and how the Dwarves came to dominate.
 authors:
     - Jacques du Plessis

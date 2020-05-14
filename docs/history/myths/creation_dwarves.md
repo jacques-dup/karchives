@@ -1,10 +1,10 @@
 ---
-title: Myth - The Birth of Ärun
+title: Ärun's Forge
 summary: A creation myth of the Dwarven race.
 authors:
     - Jacques du Plessis
 ---
-# The Birth of Ärun and the Dwarves
+# Ärun and The Birth of The Dwarves
 
 From his magical forge in the clouds, the giant Ärun was known as the greatest smith in the cosmos.  He was so strong, that when he struck his anvil, it would resound across the sky and sparks would bounce off the clouds.
 

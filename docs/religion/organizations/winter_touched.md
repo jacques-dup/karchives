@@ -1,5 +1,5 @@
 ---
-title: Organization - Sect of the Winter-Touched
+title: Sect of the Winter-Touched
 summary: A description of the primary church of Maia, goddess of magic.
 authors:
     - Jacques du Plessis

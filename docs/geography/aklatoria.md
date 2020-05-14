@@ -1,10 +1,10 @@
 ---
-title: Region - Aklatoria
+title: Aklatoria, the World
 summary: A description and map of the world - The Realms of Aklatoria.
 authors:
     - Jacques du Plessis
 ---
-# Aklatoria
+# The Realms of Aklatoria
 
 ## Map of the world
 ![Aklatoria](/assets/images/maps/Aklatoria_main.png)

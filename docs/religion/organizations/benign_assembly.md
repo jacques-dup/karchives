@@ -1,5 +1,5 @@
 ---
-title: Organization - The Benign Assembly
+title: The Benign Assembly
 summary: A description of the The Benign Assembly, Divine Court fof Elmara.
 authors:
   - Jacques du Plessis

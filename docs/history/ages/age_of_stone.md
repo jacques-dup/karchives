@@ -1,5 +1,5 @@
 ---
-title: History - Age of Stone
+title: Age of Stone
 summary: A summary of the age of stone.
 authors:
     - Jacques du Plessis

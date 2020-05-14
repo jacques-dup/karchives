@@ -1,5 +1,5 @@
 ---
-title: History - Age of the Stars
+title: Age of the Stars
 summary: A summary of the age of the stars.
 authors:
     - Jacques du Plessis

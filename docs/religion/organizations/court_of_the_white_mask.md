@@ -1,5 +1,5 @@
 ---
-title: Organization - The Court pf the White Mask
+title: The Court pf the White Mask
 summary: A description of the The Court pf the White Mask, a sect dedicated to Callad, Queen of Thieves.
 authors:
   - Jacques du Plessis

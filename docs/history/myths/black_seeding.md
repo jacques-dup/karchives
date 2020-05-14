@@ -1,5 +1,5 @@
 ---
-title: Myth - The Black seeding
+title: The Black seeding
 summary: A myth of how Garkash found the Seed of the Deep and used it to create an army of Black Bloods.
 authors:
     - Jacques du Plessis

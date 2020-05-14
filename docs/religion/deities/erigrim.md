@@ -15,10 +15,10 @@ authors:
     **Symbol:** Each member is identified by a personal rune
 
     **Followers:** Dwarves
-    
-    **Manifestation:** The Erigrim changed little in appearance since their ascension.  They are each identified by their personal rune that they wear on their clothing and by the saintly halo on their heads.  They appear individually or in groups to their followers.
 
 **Erigrim** (Elders, Eternal Ones).  The first Dwarf to make himself a god was the Allfather Agamor.  Soon to follow was his Battle Master Gort and the Rune Keeper Toreval.  All the Ancestors were once mortals, who found power and divinity as they battled the [Old Ones](/religion/deities/dwarf_old_ones).
+
+The Erigrim changed little in appearance since their ascension.  They are each identified by their personal rune that they wear on their clothing and by the saintly halo on their heads.  They appear individually or in groups to their followers.
 
 ## Pantheon Members
 |Deity|Align|Rune|Portfolio|Domain|

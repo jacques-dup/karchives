@@ -1,5 +1,5 @@
 ---
-title: Organization - The Cult of the Black Cloud
+title: The Cult of the Black Cloud
 summary: A description of the The Cult of the Black Cloud, a sect dedicated to the Madness of Nod.
 authors:
   - Jacques du Plessis

@@ -1,5 +1,5 @@
 ---
-title: Organization - The Order of the Third Eye
+title: The Order of the Third Eye
 summary: A description of the The Order of the Third Eye, the primary sect of Firna.
 authors:
   - Jacques du Plessis

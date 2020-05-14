@@ -1,5 +1,5 @@
 ---
-title: History - The Long Winter
+title: The Long Winter
 summary: A summary of the long winter, the dead age.
 authors:
     - Jacques du Plessis

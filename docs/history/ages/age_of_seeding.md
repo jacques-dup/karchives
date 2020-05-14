@@ -1,5 +1,5 @@
 ---
-title: History - Age of Seeding
+title: Age of Seeding
 summary: A summary of the age of seeding.
 authors:
     - Jacques du Plessis

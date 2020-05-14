@@ -92,6 +92,7 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |forever | eiltaf|
 |forge | arrafǒr (n), dǒrrslá (v)|
 |form | slovax (v) | also create, shape|
+|fort | hääl|
 |from | kza (adv) | also of|
 |front, in -of | onadin|
 |Gnomes | Jorfur|

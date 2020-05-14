@@ -1,5 +1,5 @@
 ---
-title: Organization - The Elemental Courts
+title: The Elemental Courts
 summary: A description of the loose pantheon of the elemental energies and associated planes.
 authors:
     - Jacques du Plessis

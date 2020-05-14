@@ -1,5 +1,5 @@
 ---
-title: Myth - The Five Seeds of Life
+title: The Five Seeds of Life
 summary: A complete account of the myth of seeding.
 authors:
     - Jacques du Plessis

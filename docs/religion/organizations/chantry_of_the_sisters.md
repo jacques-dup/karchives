@@ -1,5 +1,5 @@
 ---
-title: Organization - The Chantry of the Sisters
+title: The Chantry of the Sisters
 summary: A description of the The Chantry of the Sisters, church of the Daughters of Chaos.
 authors:
   - Jacques du Plessis

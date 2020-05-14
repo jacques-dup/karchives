@@ -1,5 +1,5 @@
 ---
-title: Organization - The Church of the Unyielding
+title: The Church of the Unyielding
 summary: A description of the primary church of Heron, goddess of Valor, Poetic Justice and Retribution.
 authors:
     - Jacques du Plessis
