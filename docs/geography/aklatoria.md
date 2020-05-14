@@ -7,4 +7,4 @@ authors:
 # The Realms of Aklatoria
 
 ## Map of the world
-![Aklatoria](/assets/images/maps/Aklatoria_main.png)
+![Aklatoria](/assets/images/maps/Aklatoria_web.png)

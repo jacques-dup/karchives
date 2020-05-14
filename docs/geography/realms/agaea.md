@@ -1,8 +1,8 @@
 # Agaea
 ## The Great Desert {: .subtitle}
 
-![Map of Agaea](/assets/images/maps/Agaea.png "Map of Agaea")
-[Agaea.png](/assets/images/maps/Agaea.png){: .footnote .right}
+![Map of Agaea](/assets/images/maps/Agaea_web.png "Map of Agaea")
+[Agaea.png](/assets/images/maps/Agaea_web.png){: .footnote .right}
 
 > Ancient, vast and unforgiving.  The Great Sands stretch across the map as far as the eye can see.  It is an unforgiving land, breeding unforgiving people.  Its settlements ancient remnants of a forgotten age.  Its culture deep, with bloodlines far reaching.  The great City, Atenaa - The Jewel of the Dessert, The City of Dragons, at its core.
 
