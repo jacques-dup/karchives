@@ -8,4 +8,4 @@ authors:
 
 ## Map of the world
 ![Aklatoria](/karchives/assets/images/maps/Aklatoria_web.png)
-[Aklatoria.png](/karchives/assets/images/maps/Aklatoria.png){: .footnote .right}
+[Aklatoria.png](/karchives/assets/images/maps/Aklatoria_main.png){: .footnote .right}
