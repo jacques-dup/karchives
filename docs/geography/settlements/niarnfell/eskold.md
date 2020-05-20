@@ -61,17 +61,13 @@ The _Outer City_ sits on the main level of the fortress, still elevated from the
 ||***[The Crossed Candles](/geography/settlements/niarnfell/places_of_interest/crossed_candles),*** a popular tavern and lodgings for the well-behaved|
 |Market Ward|***The Grand Market,*** is the largest commercial district of the Outer City, housing most of the merchant houses and traders guilds.|
 ||***The ruins of Olotl,*** a broken tower close to the gate. Its previous purpose is unknown, but it now serves as the barracks for the Outer City's law keepers, the _Adamantine Hammers_.|
-||***[The Minstrel and Pipe](/geography/settlements/niarnfell/places_of_interest/minstrel_and_pipe),*** is a lively tavern and inn with a good selection of tales, music and drink|
+||***[The Minstrel and Pipe](/geography/settlements/niarnfell/places_of_interest/minstrel_and_pipe),*** is a fancy and lively tavern and inn with a good selection of tales, music and drink|
 ||***[The Bronze Cask](/geography/settlements/niarnfell/places_of_interest/bronze_cask),*** is a common but well known establishment offering good food and drink and always has an extra bed to offer.|
 |Bells Ward|***Sentinel Towers,*** of which there are four - one on each corner of the district. They are used as sentry points for the city watch and doubles as small barracks.|
 ||***[Hely's Enchanted Alchemy](/geography/settlements/niarnfell/places_of_interest/helys_alchemy),*** is a specialist alchemy, alchohol and potion shop.|
-||***,***|
-|Anvil Ward|***,***|
-||***,***|
-||***,***|
-|Village Ward|***,***|
-||***,***|
-||***,***|
+|Anvil Ward|***The Masons Guild,*** is situated in a large building roughly in the center of the district. All mining activity in the Twin Peaks are managed through the guild, bu law of the _Sebi_.|
+||***[The Naga's Arsenal](/geography/settlements/niarnfell/places_of_interest/nagas_arsenal),***|
+|Village Ward|***The Resting Backpack,*** is a communal dorm for travellers unable to find space or who cannot afford the high prices of the inns inside the city. Here you can find lodgings for cheap, at the cost of comfort and the risk of thievery.|
 
 ## Organizations
 
