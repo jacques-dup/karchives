@@ -15,24 +15,24 @@ The Peaks of Martivir lies at the center of the Agaean sands.  At its center, th
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Atenaa](/geography/settlements/atenaa), the City of Dragons|Metropolis|Theocracy|
-|[Itaea](/geography/settlements/itaea)|Town|Theocratic Regeancy|
-|[Cypragovia](/geography/settlements/cypragovia)|Town|Theocratic Regeancy|
+|[Atenaa](/geography/settlements/agaea/atenaa), the City of Dragons|Metropolis|Theocracy|
+|[Itaea](/geography/settlements/agaea/itaea)|Town|Theocratic Regeancy|
+|[Cypragovia](/geography/settlements/agaea/cypragovia)|Town|Theocratic Regeancy|
 
 ### Covenvault Mountains
 To the East lies the Covenvault mountains.  In antient times it served as a Dwarven foothold on Agaea.  Various burrows and minor forts long since abandoned are scattered along its roots, with Fort Kolar and Karabuk being a gateway of trade across the Sea of Demons.  Ruthlessly handled by their honoured and unbiased matriarch.
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Fort Kolar](/geography/settlements/fort_kolar)|City|Theocratic Regeancy|
-|[Karabuk](/geography/settlements/karabuk)|City|City State|
+|[Fort Kolar](/geography/settlements/agaea/fort_kolar)|City|Theocratic Regeancy|
+|[Karabuk](/geography/settlements/agaea/karabuk)|City|City State|
 
 ### Cesmeir Lake
 To the West lies Cesmeir Lake.  Nothing lives in the deep waters, its water undrinkable and barren.  Once, long ago, it had life – with ancient ruins standing as testament to its splendour.
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Atland](/geography/settlements/atland)|City|City State|
+|[Atland](/geography/settlements/agaea/atland)|City|City State|
 
 #### Arch of Egridir
 This ancient Elf ruin lies to the North of Cesmeir lake.  Gigantic, cracked Ironwood arches line the abandoned cobblestone roads, walled in white marble.  It is said that the spirits of fallen Elf warriors haunt the empty shell and that the full crest of Nox, strange, alien things walk the streets.
@@ -49,7 +49,7 @@ The areas to the North of the Peaks of Martivir is commonly known as the Elf-lan
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Port Thauma](/geography/settlements/port_thauma)|Metropolis|Kraterocracy|
+|[Port Thauma](/geography/settlements/agaea/port_thauma)|Metropolis|Kraterocracy|
 
 #### House of Vilmir
 An oasis in the scorching sand, the House of Vilmir is a refuge on the way to the North.  Gardens, canals, palm trees and open baths, with lounging even maidens offering pleasures and company is a common site.
@@ -73,5 +73,3 @@ Simply named “The Second Tree” after the resemblance to the Hollow tree insi
 A worn, broken trunk, almost forty feet in diameter and a hundred feet high, the dead tree stands in the open wind, and under the stars.  The only hint of civilization is a faded, crumbling stairway leading up to the tree.
 
 Who knows what secret placed it there?  Who knows what stories remain untold of its death?
-
-## Organizations
