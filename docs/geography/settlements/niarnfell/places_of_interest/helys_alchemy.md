@@ -1,7 +1,7 @@
 # Hely's Enchanted Alchemy Shoppe and General Traders
 
 !!! info "Details"
-    - **Location:** [Eskold](/geography/settlements/niarnfell/eskold) (City), [Ni'arnfell](/geography/realms/niarnfell) (Realm)
+    - **Location:** [Eskold](/geography/settlements/niarnfell/eskold) (City), [Ni'arnfell](/geography/realms/niarnfell/#the-toro-fields) (Realm)
     - **Type:** Specialist Shop
 
 The shop is a single storey building of stone walls, with several stained glass windows and a tiled mosaic floor. It is dimly lit by a few candles and fairly shabby. The smell of growing yeast dominates your senses as you enter the shop.

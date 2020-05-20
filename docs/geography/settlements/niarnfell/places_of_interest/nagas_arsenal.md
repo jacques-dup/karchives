@@ -1,7 +1,7 @@
 # The Naga's Arsenal
 
 !!! info "Details"
-    - **Location:** [Eskold](/geography/settlements/niarnfell/eskold) (City), [Ni'arnfell](/geography/realms/niarnfell) (Realm)
+    - **Location:** [Eskold](/geography/settlements/niarnfell/eskold) (City), [Ni'arnfell](/geography/realms/niarnfell/#the-toro-fields) (Realm)
     - **Type:** Weapon smith and Armorer
 
 The shop is a three-storey, stone building with the lower levels carved from the rock and overhangs into the Anvil Ward crevice. The inside is decorated with a tiled mosaic floor and is brightly lit by magical chandeliers.

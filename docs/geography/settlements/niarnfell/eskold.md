@@ -25,7 +25,7 @@ The _Inner City_ lies at the heart of the mountain and spans across three levels
 ??? abstract "Lower Ward"
     Below the _Sanctum District_ and roughly on the same elevation as the _Outer City_ lies the Lower Ward. It is a small area consisting of multiple carved tunnels and chambers that served as the main fortress of the city when it was founded. It provides residence for most of the city's Dwarven population and the city's nobility.
 
-|Wards|Notable Sites|
+|Wards|Places of Interest|
 |:--|:--|
 |Tower Ward|***[The Scarred Tower](/geography/settlements/niarnfell/places_of_interest/scarred_tower),*** political seat of the city and residence of the _Sebi_ (native: "chief")|
 ||***The Observatorium,*** a garden shrine dedicated to [Nimwind](/religion/deities/nimwind)|
@@ -54,7 +54,7 @@ The _Outer City_ sits on the main level of the fortress, still elevated from the
 ??? abstract "Village Ward"
     The Village Ward, or just _The Village_ for short lies beyond the _Market Ward_ and consists of hundreds of apartment-like dwellings constructed for residential use.
 
-|Wards|Notable Sites|
+|Wards|Places of Interest|
 |:--|:--|
 |Cathedral Court|***Temple Gardens,*** a sculpted terrace, surrounded by a white wall, housing shrines for a multitude of deities.|
 ||***[The Crossed Candles](/geography/settlements/niarnfell/places_of_interest/crossed_candles),*** a popular tavern and lodgings for the well-behaved|

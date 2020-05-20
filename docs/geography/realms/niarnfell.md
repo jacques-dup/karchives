@@ -45,7 +45,7 @@ The South of the Ni'arnfell is characterized by the unending waves of hills and 
 |[Riverdell](/geography/settlements/niarnfell/riverdell)|City|Narr Confederate affiliate|
 |[Talonwren](/geography/settlements/niarnfell/talonwren)|Village||
 |[Timber](/geography/settlements/niarnfell/timber)|Village||
-|[Dali](/geography/settlements/niarnfell/dali)|City||
+|[Dali](/geography/settlements/niarnfell/dali)|City|Independent City State|
 |[Sparrow's Hole](/geography/settlements/niarnfell/sparrows_hole)|Village|Narr Confederate affiliate|
 |[Thudwell](/geography/settlements/niarnfell/thudwell)|Village|Narr Confederate affiliate|
 

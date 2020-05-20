@@ -1,7 +1,7 @@
 # The Bronze Cask
 
 !!! info "Details"
-    - **Location:** [Eskold](/geography/settlements/niarnfell/eskold) (City), [Ni'arnfell](/geography/realms/niarnfell) (Realm)
+    - **Location:** [Eskold](/geography/settlements/niarnfell/eskold) (City), [Ni'arnfell](/geography/realms/niarnfell/#the-toro-fields) (Realm)
     - **Type:** Accommodation, Common
 
 The inn is a two-storey half-timbered building, with a gray tile roof and well-made wooden tables and chairs. On the front door is a wooden plaque with a carving of a barrel adorned with brass.
