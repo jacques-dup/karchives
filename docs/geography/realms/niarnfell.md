@@ -41,13 +41,13 @@ The South of the Ni'arnfell is characterized by the unending waves of hills and 
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Port Mere](/geography/settlements/niarnfell/eskold)|Metropolis||
-|[Riverdell](/geography/settlements/niarnfell/riverdell)|City||
+|[Port Mere](/geography/settlements/niarnfell/eskold)|Metropolis|Narr Confederate Capitol|
+|[Riverdell](/geography/settlements/niarnfell/riverdell)|City|Narr Confederate affiliate|
 |[Talonwren](/geography/settlements/niarnfell/talonwren)|Village||
 |[Timber](/geography/settlements/niarnfell/timber)|Village||
 |[Dali](/geography/settlements/niarnfell/dali)|City||
-|[Sparrow's Hole](/geography/settlements/niarnfell/sparrows_hole)|Village||
-|[Thudwell](/geography/settlements/niarnfell/thudwell)|Village||
+|[Sparrow's Hole](/geography/settlements/niarnfell/sparrows_hole)|Village|Narr Confederate affiliate|
+|[Thudwell](/geography/settlements/niarnfell/thudwell)|Village|Narr Confederate affiliate|
 
 Notable Locations
 

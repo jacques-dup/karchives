@@ -1,13 +1,12 @@
 # Eskold
-Eskold, or _Eskeld's Hold_ in full, rises from the mountainside. The black stone walls thrust into the face of a great cliff on the side of the Twinspeak. Silence falls on the lands blow, with only the soft cool wind swooping down the slopes. From far off a crow's caw breaks the stillness. 
+> Eskold, or _Eskeld's Hold_ in full, rises from the mountainside. The black stone walls thrust into the face of a great cliff on the side of the Twinspeak. Silence falls on the lands blow, with only the soft cool wind swooping down the slopes. From far off a crow's caw breaks the stillness. 
 
-|||
-|:--------------|:--------------         |
-|**Politics**   | Confederate City State |
-|**Alignment**  | Lawful Neutral         |
-|**Population** | 22 000                 |
-|**Races**      | Human (30%), Dwarf (20%), Gnome (20%), Half Orc (15%), Other (15%) |
-|**Authority**  | _Sebi_ Arin Quetzquetzin (Dwarf turned Lich)</br>[Council of Es](#council_of_es) |
+!!! info "Details"
+    - **Location:** [The Toro Fields, Ni'arnfell](/geography/realms/niarnfell/#the-toro-fields), 
+    - **Politics:** Confederate City Stat
+    - **Alignment:** Lawful Neutral
+    - **Population:** 22 000 - _Human (30%), Dwarf (20%), Gnome (20%), Half Orc (15%), Other (15%)_
+    - **Authority:** Arin Quetzquetzin, a Dwarf turned Lich (Sebi/Sovereign); [Council of Es](#council_of_es) (Advisors)
 
 The whole of the city is walled within the raised stronghold of the mountain, partly carved from the rock and partly built outward onto the black stone fortifications. Within the inner sanctuary, multiple walled off districts form defendable choke points, categorized into two major parts - the _Inner City_ and the _Outer City_.
 
