@@ -2,7 +2,7 @@
 
 !!! info "Details"
     - **Location:** [Eskold](/geography/settlements/niarnfell/eskold) (City), [Ni'arnfell](/geography/realms/niarnfell) (Realm)
-    - **Type:** Accommodation
+    - **Type:** Accommodation, Common
 
 The inn is a two-storey stone-walled building, with a large cellar. The tavern floor is tightly packed with small round tables and food and drinks are served by flamboyantly dressed attendants from an elevated platform that supports a long bar counter.
 

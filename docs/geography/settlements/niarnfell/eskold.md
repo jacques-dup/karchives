@@ -5,11 +5,11 @@ Eskold, or _Eskeld's Hold_ in full, rises from the mountainside. The black stone
 |:--------------|:--------------         |
 |**Politics**   | Confederate City State |
 |**Alignment**  | Lawful Neutral         |
-|**Population** | 26 000                 |
+|**Population** | 22 000                 |
 |**Races**      | Human (30%), Dwarf (20%), Gnome (20%), Half Orc (15%), Other (15%) |
 |**Authority**  | _Sebi_ Arin Quetzquetzin (Dwarf turned Lich)</br>[Council of Es](#council_of_es) |
 
-The whole of the city is walled within the raised stronghold of the mountain, partly carved from the rock and partly built outward onto the black stone fortifications. Within the inner sanctuary, multiple walled off districts form defendable choke points, categorized into two major parts - the _Inner City_ and the _Outer City_. Outside the Black Walls is an extension known as _Copper Town_, not part of the original city, but considered to be part of the Eskold holdings.
+The whole of the city is walled within the raised stronghold of the mountain, partly carved from the rock and partly built outward onto the black stone fortifications. Within the inner sanctuary, multiple walled off districts form defendable choke points, categorized into two major parts - the _Inner City_ and the _Outer City_.
 
 ??? abstract "The Crimson Way"
     From the outer gates, a road has been constructed from a reddish, carved granite. Known as _The Crimson Way_, it snakes through the city districts as the supposed only path to the inner parts of the city. It runs all the way through each of the districts to the gate of the Scarred Tower at the center of the _Tower Ward_.
@@ -40,20 +40,38 @@ The _Inner City_ lies at the heart of the mountain and spans across three levels
 ## The Outer City
 The _Outer City_ sits on the main level of the fortress, still elevated from the entrances, on a plateau of sorts, forming a large open plane before the _Second Wall_.
 
+??? abstract "Cathedral Court"
+    The Cathedral Court is a small district compared to the other wards. It sits next to the gateway between the Outer City and the Lower Ward, and hosts a few residences along with most of the temple shrines of the city. The roads are wide and slanted at its edges granting citizens a better vantage point when viewing parades on celebration days.
+
+??? abstract "Market Ward"
+    The Market Ward is the largest of the Outer City districts and houses most of the common shops and trades the city produces and markets. It lies by the main entrance to the city for easy access.
+
+??? abstract "Bells Ward"
+    The Bells Ward flanks the _Market Ward_ by the main gates of the city. It is smaller than most, and raised slightly in elevation. Four tall towers mark its borders, with sentry posts on each to watch over the districts as well as the lands beyond the city walls. These days the buildings are purposed toward housing.
+
+??? abstract "Anvil Ward"
+    The Anvil Ward lies between the _Bell Ward_ and _Cathedral Court_, with the _Crimson Way_ dividing it from the _Market Ward_. The ward itself sits on a natural crevice, and is characterized by multiple hanging bridges of various heights and size, criss-crossing across the opening. Tunnels on the bottom layers dig into the rock to serve as mines and quarries to be used for the city's construction and reparing needs. The upper levels house many different shops, masons and smiths along with a number of residential buildings.
+
+??? abstract "Village Ward"
+    The Village Ward, or just _The Village_ for short lies beyond the _Market Ward_ and consists of hundreds of apartment-like dwellings constructed for residential use.
+
 |Wards|Notable Sites|
 |:--|:--|
 |Cathedral Court|***Temple Gardens,*** a sculpted terrace, surrounded by a white wall, housing shrines for a multitude of deities.|
 ||***[The Crossed Candles](/geography/settlements/niarnfell/places_of_interest/crossed_candles),*** a popular tavern and lodgings for the well-behaved|
-|Goldentome Ward|***The Grand Market,*** is the largest district of the Outer City, housing most of the merchant houses and traders guilds.|
+|Market Ward|***The Grand Market,*** is the largest commercial district of the Outer City, housing most of the merchant houses and traders guilds.|
 ||***The ruins of Olotl,*** a broken tower close to the gate. Its previous purpose is unknown, but it now serves as the barracks for the Outer City's law keepers, the _Adamantine Hammers_.|
 ||***[The Minstrel and Pipe](/geography/settlements/niarnfell/places_of_interest/minstrel_and_pipe),*** is a lively tavern and inn with a good selection of tales, music and drink|
+||***[The Bronze Cask](/geography/settlements/niarnfell/places_of_interest/bronze_cask),*** is a common but well known establishment offering good food and drink and always has an extra bed to offer.|
+|Bells Ward|***Sentinel Towers,*** of which there are four - one on each corner of the district. They are used as sentry points for the city watch and doubles as small barracks.|
+||***[Hely's Enchanted Alchemy](/geography/settlements/niarnfell/places_of_interest/helys_alchemy),*** is a specialist alchemy, alchohol and potion shop.|
+||***,***|
+|Anvil Ward|***,***|
 ||***,***|
 ||***,***|
+|Village Ward|***,***|
 ||***,***|
 ||***,***|
-||***,***|
-
-## Copper Town
 
 ## Organizations
 
