@@ -6,9 +6,9 @@
     - **Politics:** Theocracy
     - **Alignment:** Lawful Neutral
     - **Population:** 55 00 - _Human (30%), Elf (15%), Dragonborn (15%), Kobold (10%), Gnome (10%), Dwarf (10%), Other (10%)_
-    - **Authority:** Holy Judicator Xalvador Twoor, a Dragonborne priest of Martivir (Sovereign); The Dragon Guard (Holy Army)
+    - **Authority:** Holy Judicator Xalvador Twoor, a Dragonborn priest of Martivir (Sovereign); The Dragon Guard (Holy Army)
 
-The city of Atenaa spreads out before the lake at the foot of the Paeks of Martivir. The narrow streets buzz with movement and trades, with vibrant coloured cloth and sheets forming a flamboyant display of shades form the scorching heat. The city is open and movement is free.
+The city of Atenaa spreads out before the lake at the foot of the Peaks of Martivir. The narrow streets buzz with movement and trades, with vibrant coloured cloth and sheets forming a flamboyant display of shades form the scorching heat. The city is open and movement is free.
 
 ## Notable Sites
 
@@ -23,7 +23,7 @@ Carved into the side of the mountain, a bridge of granite leads to two giant doo
 Inside lies the great halls and high court of the Holy Judicator and his enforcers.
 
 ### The Azure Blade Roadhouse
-The inn is a large timber and brick building, with several stained glass windows. Accomodations consist of several small rooms with beds and woolen mattresses. A large private bathhouse is available to guests
+The inn is a large timber and brick building, with several stained glass windows. Accommodations consist of several small rooms with beds and woolen mattresses. A large private bathhouse is available to guests
 
 The innkeeper is a quick-witted male dwarf named Vali. He seems to know something about every noble house within fifty leagues.
 

@@ -17,12 +17,12 @@ In the North, a great range on mountains divide the Ni'arnfell from its neighbor
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Eskold](/geography/settlements/niarnfell/eskold)|Metropolis|Narr Confederate Capitol|
-|[Aspenwind](/geography/settlements/niarnfell/aspenwind)|Town||
-|[Equinmill](/geography/settlements/niarnfell/equinmill)|Town||
-|[Fort Dorul](/geography/settlements/niarnfell/fort_dorul)|Dwarf Fort||
-|[Fort Ornim](/geography/settlements/niarnfell/fort_ornim)|Dwarf Fort||
-|[Fort Skragg](/geography/settlements/niarnfell/fort_skragg)|Dwarf Fort||
+|[Eskold](../../settlements/niarnfell/eskold)|Metropolis|Narr Confederate Capitol|
+|[Aspenwind](../../settlements/niarnfell/aspenwind)|Town||
+|[Equinmill](../../settlements/niarnfell/equinmill)|Town||
+|[Fort Dorul](../../settlements/niarnfell/fort_dorul)|Dwarf Fort||
+|[Fort Ornim](../../settlements/niarnfell/fort_ornim)|Dwarf Fort||
+|[Fort Skragg](../../settlements/niarnfell/fort_skragg)|Dwarf Fort||
 
 Notable Locations
 
@@ -37,17 +37,17 @@ Notable Locations
 
 
 ### The Pheagas Rise
-The South of the Ni'arnfell is characterized by the unending waves of hills and gullies. Also known as the _Leopard Hills_ the area is most common for it's plethora of wildlife. Keeping East of the _Golden River_ and reaching the _Ferrovein_ at the far end, it is an area that developed primarily through ship trading. Merchants frequent the settlements on both rivers, as it travels even to the Realm of [Agaea](/geography/realms/agaea), [Menassim](/geography/realms/menassim) and [Casavano](/geography/realms/casavano).
+The South of the Ni'arnfell is characterized by the unending waves of hills and gullies. Also known as the _Leopard Hills_ the area is most common for it's plethora of wildlife. Keeping East of the _Golden River_ and reaching the _Ferrovein_ at the far end, it is an area that developed primarily through ship trading. Merchants frequent the settlements on both rivers, as it travels even to the Realm of [Agaea](../../realms/agaea), [Menassim](../../realms/menassim) and [Casavano](../../realms/casavano).
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Port Mere](/geography/settlements/niarnfell/eskold)|Metropolis|Narr Confederate Capitol|
-|[Riverdell](/geography/settlements/niarnfell/riverdell)|City|Narr Confederate affiliate|
-|[Talonwren](/geography/settlements/niarnfell/talonwren)|Village||
-|[Timber](/geography/settlements/niarnfell/timber)|Village||
-|[Dali](/geography/settlements/niarnfell/dali)|City|Independent City State|
-|[Sparrow's Hole](/geography/settlements/niarnfell/sparrows_hole)|Village|Narr Confederate affiliate|
-|[Thudwell](/geography/settlements/niarnfell/thudwell)|Village|Narr Confederate affiliate|
+|[Port Mere](../../settlements/niarnfell/port_mere)|Metropolis|Narr Confederate Capitol|
+|[Riverdell](../../settlements/niarnfell/riverdell)|City|Narr Confederate affiliate|
+|[Talonwren](../../settlements/niarnfell/talonwren)|Village|Independent City State|
+|[Timber](../../settlements/niarnfell/timber)|Town|Narr Confederate affiliate|
+|[Dali](../../settlements/niarnfell/dali)|City|Independent City State|
+|[Sparrow's Hole](../../settlements/niarnfell/sparrows_hole)|Village|Narr Confederate affiliate|
+|[Thudwell](../../settlements/niarnfell/thudwell)|Village|Narr Confederate affiliate|
 
 Notable Locations
 
@@ -58,13 +58,13 @@ Notable Locations
     On the Southern edge of the continent stands the Elvenrise as a monument and beacon to all who seek the mouth of the Golden River. It's peaks rise above the clouds, covered with an annual fall of snow. So named for the Elves that dwell at its base, the monolith itself is the subject of many rumours, including that the caverns beneath its roots contain portals to the hidden places of the world.
 
 ### Darkdale
-The Wester regions of the Ni'arnfell are know as Darkdale, sometimes referred to as _The Golden Glade_. Beyond it lies the Unending Forests of[Menassim](/geography/realms/menassim). Its Southern border is marked by the Twinslate Mountain range, and ends at the coast, beyond the Vahlen Forest. It is a mysterious region and not well travelled, known for the presence of mischievous Fey and large lizard-like creatures that hunt the plains.
+The Wester regions of the Ni'arnfell are know as Darkdale, sometimes referred to as _The Golden Glade_. Beyond it lies the Unending Forests of[Menassim](../realms/menassim). Its Southern border is marked by the Twinslate Mountain range, and ends at the coast, beyond the Vahlen Forest. It is a mysterious region and not well travelled, known for the presence of mischievous Fey and large lizard-like creatures that hunt the plains.
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Scepters Hall](/geography/settlements/niarnfell/scepters_hall)|Large City||
-|[Gladefield](/geography/settlements/niarnfell/gladefield)|Village||
-|[Lance](/geography/settlements/niarnfell/lance)|Village||
+|[Scepters Hall](../../settlements/niarnfell/scepters_hall)|Large City||
+|[Gladefield](../../settlements/niarnfell/gladefield)|Village||
+|[Lance](../../settlements/niarnfell/lance)|Village||
 
 Notable Locations
 
@@ -72,34 +72,34 @@ Notable Locations
     The _Great Forest_ is a wild and mysterious place. Those who venture too deep never return to the civilized lands, and those who manage to escape it's dark embrace are most often driven mad by the spirits that dwell within.  It is said that at it's centre is a great lake that was created by a falling god.
 
 ### Everspire
-The Everspire region is so named for the presence of the Everspire Mountain range, but includes the only slightly smaller Salsrise range, and the lands at its feet. Most notably, the area is known for it's primary settlement, Girshwin's Pass and the Great Lock system to able to lift even trade galleys up the plateau to [Agaea](/geography/realms/agaea).
+The Everspire region is so named for the presence of the Everspire Mountain range, but includes the only slightly smaller Salsrise range, and the lands at its feet. Most notably, the area is known for it's primary settlement, Girshwin's Pass and the Great Lock system to able to lift even trade galleys up the plateau to [Agaea](../../realms/agaea).
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Girshwin's Pass](/geography/settlements/niarnfell/scepters_hall)|Large City||
-|[Ashenstor](/geography/settlements/niarnfell/gladefield)|Fortress City||
-|[Hegelwood](/geography/settlements/niarnfell/hegelwood)|Village||
-|[Kains](/geography/settlements/niarnfell/kains)|Village||
+|[Girshwin's Pass](../../settlements/niarnfell/scepters_hall)|Large City||
+|[Ashenstor](../../settlements/niarnfell/gladefield)|Fortress City||
+|[Hegelwood](../../settlements/niarnfell/hegelwood)|Village||
+|[Kains](../../settlements/niarnfell/kains)|Village||
 
 ### Skällcrag Dale
 To the North lies Skällcrag Dale, home of the Tainted. An untamed, dangerous place. Barren and harsh, its hills easily hide the creatures that lurk. But for those (mostly Dwarves) who can face the constant threat and unforgiving lands, there lies riches at the toots of the mountains.
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Fort Mäel](/geography/settlements/niarnfell/fort_mael)|Dwarf Fort||
-|[Fort Dökkfursla](/geography/settlements/niarnfell/fort_dokkfursla)|Dwarf Fort||
-|[Fort Vakirföre](/geography/settlements/niarnfell/fort_vakirfore)|Dwarf Fort||
+|[Fort Mäel](../../settlements/niarnfell/fort_mael)|Dwarf Fort||
+|[Fort Dökkfursla](../../settlements/niarnfell/fort_dokkfursla)|Dwarf Fort||
+|[Fort Vakirföre](../../settlements/niarnfell/fort_vakirfore)|Dwarf Fort||
 
 ### Javerhear Dale
 The Javerhear Dale, also known as the _Red Bear Peninsula_, lies to the South-East. Flanked by mountains on the West and a massive Forest on the East, the civilized dale forms a narrow strip of land along the length of the Peninsula.
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Mascalon](/geography/settlements/niarnfell/mascalon)|Metropolis||
-|[Fort Mukhasinbar](/geography/settlements/niarnfell/fort_mukhasinbar)|Dwarf Fort||
-|[Fort Höggvaär](/geography/settlements/niarnfell/fort_hoggvaar)|Dwarf Fort||
-|[Fort Gufel Nürr](/geography/settlements/niarnfell/fort_gufel_nurr)|Dwarf Fort||
-|[Fort Dil'Dorahl](/geography/settlements/niarnfell/fort_dildorahl)|Dwarf Fort||
+|[Mascalon](../../settlements/niarnfell/mascalon)|Metropolis||
+|[Fort Mukhasinbar](../../settlements/niarnfell/fort_mukhasinbar)|Dwarf Fort||
+|[Fort Höggvaär](../../settlements/niarnfell/fort_hoggvaar)|Dwarf Fort||
+|[Fort Gufel Nürr](../../settlements/niarnfell/fort_gufel_nurr)|Dwarf Fort||
+|[Fort Dil'Dorahl](../../settlements/niarnfell/fort_dildorahl)|Dwarf Fort||
 
 Notable Locations
 
@@ -117,19 +117,19 @@ At the tip of the world and outstretched finger points into the ocean named as t
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Deupont](/geography/settlements/niarnfell/deupont)|Large City||
-|[Fort Yazdkugar](/geography/settlements/niarnfell/fort_yazdkugar)|Dwarf Fort||
+|[Deupont](../../settlements/niarnfell/deupont)|Large City||
+|[Fort Yazdkugar](../../settlements/niarnfell/fort_yazdkugar)|Dwarf Fort||
 
 ### Basaltton Moor
 Reaching out into the _Sea of Demons_ lies the Basaltton Moors, a great expanse where the Basaltton Delta scatters into the sea. It is an untamed place, for leagues and leagues of land is covered in swamps and bogs, along with the creatures that are drawn to such places. Settlements are found along the edges of the Moor, and only the brave boatmen of _Lakeview_ care to navigate the maze of rivers and streams between the _Maelcreek Lake_ an the coast.
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Lakeview](/geography/settlements/niarnfell/lakeview)|Large City||
-|[Fort Nerämyil](/geography/settlements/niarnfell/fort_neramyil)|Dwarf Fort||
-|[Lancor](/geography/settlements/niarnfell/lancor)|Large City||
-|[Lichenbend](/geography/settlements/niarnfell/lichenbend)|Village||
-|[Ironmoor](/geography/settlements/niarnfell/ironmoor)|Town||
+|[Lakeview](../../settlements/niarnfell/lakeview)|Large City||
+|[Fort Nerämyil](../../settlements/niarnfell/fort_neramyil)|Dwarf Fort||
+|[Lancor](../../settlements/niarnfell/lancor)|Large City||
+|[Lichenbend](../../settlements/niarnfell/lichenbend)|Village||
+|[Ironmoor](../../settlements/niarnfell/ironmoor)|Town||
 
 
 ### Behemoth Bay
@@ -137,26 +137,26 @@ Behemoth Bay runs along the coast of the lands known as the _Demonsplain_. It is
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Kydo](/geography/settlements/niarnfell/kydo)|Large City||
-|[Kesserhold](/geography/settlements/niarnfell/kesserhold)|Town||
-|[Manashale](/geography/settlements/niarnfell/manashale)|Large Town||
-|[Nightshire](/geography/settlements/niarnfell/nightshire)|Town||
+|[Kydo](../../settlements/niarnfell/kydo)|Large City||
+|[Kesserhold](../../settlements/niarnfell/kesserhold)|Town||
+|[Manashale](../../settlements/niarnfell/manashale)|Large Town||
+|[Nightshire](../../settlements/niarnfell/nightshire)|Town||
 
 ### Harkenridge on the Demonsplain
 South of the Harperbell River and West of the Ferrovein, lies the mountain named Harkenridge. An unforgiving and desolate place where the savannah turns barren and demons often escape into the mortal realm.
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Fort Olihm](/geography/settlements/niarnfell/fort_olihm)|Dwarf Fort||
-|[Fort Ablár](/geography/settlements/niarnfell/fort_ablar)|Dwarf Fort||
-|[Silverrough](/geography/settlements/niarnfell/siverrough)|Village||
+|[Fort Olihm](../../settlements/niarnfell/fort_olihm)|Dwarf Fort||
+|[Fort Ablár](../../settlements/niarnfell/fort_ablar)|Dwarf Fort||
+|[Silverrough](../../settlements/niarnfell/siverrough)|Village||
 
 ### Thunrastur
 Isolated, looking out over the Great Barbarians Gulf and guarded by the Twinslate Mountains, is a humble region known as Thunrastur. A place of little interest to the outside world, its inhabitants enjoy the peace and quiet of the tranquil and pristine land.
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Fort Keisskzah](/geography/settlements/niarnfell/fort_keisskzah)|Dwarf Fort||
-|[Fort Amhär](/geography/settlements/niarnfell/fort_amhar)|Dwarf Fort||
-|[Fort Nürrskyd](/geography/settlements/niarnfell/fort_nurrsjyd)|Dwarf Fort||
-|[Underfoot](/geography/settlements/niarnfell/underfoot)|Town||
+|[Fort Keisskzah](../../settlements/niarnfell/fort_keisskzah)|Dwarf Fort||
+|[Fort Amhär](../../settlements/niarnfell/fort_amhar)|Dwarf Fort||
+|[Fort Nürrskyd](../../settlements/niarnfell/fort_nurrsjyd)|Dwarf Fort||
+|[Underfoot](../../settlements/niarnfell/underfoot)|Town||

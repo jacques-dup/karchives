@@ -9,7 +9,7 @@
 
 Port Thauma is a hostile place, locked in a never ending game of power.  The lines of succession is arbitrary, and those who prove themselves resourceful can find themselves in favour of the throne.
 
-Buildings are spacious, elegent and designed with Elfish sensibility in mind, mimicking the styles of Kethraelm in the North.
+Buildings are spacious, elegant and designed with Elfish sensibility in mind, mimicking the styles of [Kethraelm](../../../realms/kethraelm) in the North.
 
 Currently, the port has seen a fairly long standing ruler, Lady Enwenen Lantaththar.  She is ruthless and unflinching in her rule, eliminating competition and keeping the trading guilds in line.
 

@@ -15,24 +15,24 @@ The Peaks of Martivir lies at the center of the Agaean sands.  At its center, th
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Atenaa](/geography/settlements/agaea/atenaa), the City of Dragons|Metropolis|Theocracy|
-|[Itaea](/geography/settlements/agaea/itaea)|Town|Theocratic Regeancy|
-|[Cypragovia](/geography/settlements/agaea/cypragovia)|Town|Theocratic Regeancy|
+|[Atenaa](../../settlements/agaea/atenaa), the City of Dragons|Metropolis|Theocracy|
+|[Itaea](../../settlements/agaea/itaea)|Town|Theocratic Regeancy|
+|[Cypragovia](../../settlements/agaea/cypragovia)|Town|Theocratic Regeancy|
 
 ### Covenvault Mountains
 To the East lies the Covenvault mountains.  In antient times it served as a Dwarven foothold on Agaea.  Various burrows and minor forts long since abandoned are scattered along its roots, with Fort Kolar and Karabuk being a gateway of trade across the Sea of Demons.  Ruthlessly handled by their honoured and unbiased matriarch.
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Fort Kolar](/geography/settlements/agaea/fort_kolar)|Dwarven Fort|City State|
-|[Karabuk](/geography/settlements/agaea/karabuk)|City|City State|
+|[Fort Kolar](../../settlements/agaea/fort_kolar)|Dwarven Fort|City State|
+|[Karabuk](../../settlements/agaea/karabuk)|City|City State|
 
 ### Cesmeir Lake
 To the West lies Cesmeir Lake.  Nothing lives in the deep waters, its water undrinkable and barren.  Once, long ago, it had life – with ancient ruins standing as testament to its splendour.
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Atland](/geography/settlements/agaea/atland)|City|City State|
+|[Atland](../../settlements/agaea/atland)|City|City State|
 
 Notable Locations
 
@@ -51,7 +51,7 @@ The areas to the North of the Peaks of Martivir is commonly known as the Elf-lan
 
 |Settlements|Size|Political Align.|
 |:--|---|---|
-|[Port Thauma](/geography/settlements/agaea/port_thauma)|Metropolis|Kraterocracy|
+|[Port Thauma](../../settlements/agaea/port_thauma)|Metropolis|Kraterocracy|
 
 Notable Locations
 
