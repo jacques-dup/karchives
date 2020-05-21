@@ -2,7 +2,7 @@
 > At the heart of the Golden river sits the picturesque town. Fields of gold line the river banks as the ships past. To the East, the Merenglade forest touches the outskirts.
 
 !!! info "Details"
-    - **Location:** [The Pheagas Rise, Ni'arnfell](../../../realms/niarnfell/#the-pheagas-rise), 
+    - **Location:** [The Pheagas Rise, Ni'arnfell](../../../realms/niarnfell#the-pheagas-rise), 
     - **Politics:** Self Governed, affiliated to the Narr Confederacy
     - **Alignment:** Neutral
     - **Population:** 600 - _Human (70%), Half-Elf (10%), Halfling (10%), Elf(5%), Other (5%)_

@@ -2,7 +2,7 @@
 > From a small, single dock on what seems like an abandoned beach, a narrow dirt road snakes up the side of the steep, grass hills. As you rise above the crest, before you lies a quint little town. Simple folk making an honest living off the land, offering lodgings for passing travellers.
 
 !!! info "Details"
-    - **Location:** [The Pheagas Rise, Ni'arnfell](/geography/realms/niarnfell/#the-pheagas-rise), 
+    - **Location:** [The Pheagas Rise, Ni'arnfell](../../../realms/niarnfell#the-pheagas-rise), 
     - **Politics:** Self Governed, affiliated to the Narr Confederacy
     - **Alignment:** Lawful Good
     - **Population:** 49 - _Human (32), Half-Orc (12), Dwarf (4), Gnome (1)_

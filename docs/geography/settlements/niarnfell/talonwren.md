@@ -2,7 +2,7 @@
 > By the mouth of the Golden river, the town called Talonwren sits atop a hill. It's high walls reach into the crashing waves, cutting it off to all but the ocean before it.
 
 !!! info "Details"
-    - **Location:** [The Pheagas Rise, Ni'arnfell](../../../realms/niarnfell/#the-pheagas-rise), 
+    - **Location:** [The Pheagas Rise, Ni'arnfell](../../../realms/niarnfell#the-pheagas-rise), 
     - **Politics:** Independent Senate state
     - **Alignment:** Lawful Evil
     - **Population:** 2300 - _Elf (65%), Half-Elf(20%), Human (10%), Other (5%)_

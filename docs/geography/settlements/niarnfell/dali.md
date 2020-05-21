@@ -2,7 +2,7 @@
 > 
 
 !!! info "Details"
-    - **Location:** [The Pheagas Rise, Ni'arnfell](/geography/realms/niarnfell/#the-pheagas-rise), 
+    - **Location:** [The Pheagas Rise, Ni'arnfell](../../../realms/niarnfell#the-pheagas-rise), 
     - **Politics:** Independent
     - **Alignment:** Lawful Neutral
     - **Population:** 7100 - _Elf (27%), Human (16%), Half-Elf (15%), Gnome (9%), Kobold(6%), Other(26%)_

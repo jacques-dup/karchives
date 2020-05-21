@@ -2,7 +2,7 @@
 > Eskold, or _Eskeld's Hold_ in full, rises from the mountainside. The black stone walls thrust into the face of a great cliff on the side of the Twinspeak. Silence falls on the lands blow, with only the soft cool wind swooping down the slopes. From far off a crow's caw breaks the stillness. 
 
 !!! info "Details"
-    - **Location:** [The Toro Fields, Ni'arnfell](/geography/realms/niarnfell/#the-toro-fields), 
+    - **Location:** [The Toro Fields, Ni'arnfell](../../../realms/niarnfell#the-toro-fields), 
     - **Politics:** Confederate City Stat
     - **Alignment:** Lawful Neutral
     - **Population:** 22 000 - _Human (30%), Dwarf (20%), Gnome (20%), Half Orc (15%), Other (15%)_
