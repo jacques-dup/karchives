@@ -1,9 +1,15 @@
 site_name: Kobold Archives
+site_author: Jacques du Plessis
+copyright: No Commercial Licence - All rights reserved Jacques du Plessis
+site_url: https://jacques-dup.github.io/karchives
+repo_name: 'jacques-dup/karchives'
+repo_url: 'https://github.com/jacques-dup/karchives'
+
 theme:
   name: material
 
 extra_css:
-  - /karchives/assets/css/custom.css
+  - ../assets/css/custom.css
 extra:
     social:
         - type: github
@@ -11,14 +17,13 @@ extra:
         - type: envelope
           link: mailto:jdples@gmail.com
 
-repo_name: 'jacques-dup/karchives'
-repo_url: 'https://github.com/jacques-dup/karchives'
+
 
 theme:
     name: material
     logo:
         icon: library_books
-    favicon: assets/favicon.png
+    favicon: ../assets/favicon.png
     language: en
     palette:
         primary: deep-purple

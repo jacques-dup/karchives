@@ -8,7 +8,7 @@
     - **Population:** 49 - _Human (32), Half-Orc (12), Dwarf (4), Gnome (1)_
     - **Authority:** Brother Hili, a Human male, cleric of Naásh Feramil _(Mayor)_; Dighii Cromwell, a Human male mason and armorer _(Captain of the Militia)_
 
-![Sparrow's Hole](/assets/images/maps/SparrowsHole.png)
+![Sparrow's Hole](../../../assets/images/maps/SparrowsHole.png)
 
 ## Notable Sites
 

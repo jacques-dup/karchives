@@ -34,3 +34,7 @@ The city itself is divided into three main districts, _The Docks_, _The Steading
 ||***[The Crimson Goblet](/geography/settlements/niarnfell/places_of_interest/crimson_goblet),*** is a well known tavern, partly built withing the branches of a large tree.|
 |The Keep|***The Keep,*** the primary structure within the district and council chambers of the Regent.|
 ||***The House of Selamiir,*** is a white stone tower that almost seems out of place in the wooded city. It is the main headquarters of th Order of Selamiir.|
+
+## Organisations
+
+- [The Order of Selamiir](../organizations/order_of_selamiir)
