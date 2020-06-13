@@ -1,7 +1,7 @@
 # The Sapphire Sword
 
 !!! info "Details"
-    - **Location:** [Eskold](/geography/settlements/niarnfell/eskold) (City), [Ni'arnfell](/geography/realms/niarnfell/#the-toro-fields) (Realm)
+    - **Location:** [Eskold](../../eskold) (City), [Ni'arnfell](../../../../realms/niarnfell#the-toro-fields) (Realm)
     - **Type:** Accommodation, Good
 
 The carved entryway opens up into a large chamber, filled with stands and carts or merchants and traders who call the Lower Wards their home.  Asy you enter you see a large building, a single storey timber and brick construction, with a small fenced yard and dwarf-wrought iron tables and chairs.

@@ -16,7 +16,7 @@ authors:
 
     **Followers:** Dwarves
 
-**Erigrim** (Elders, Eternal Ones).  The first Dwarf to make himself a god was the Allfather Agamor.  Soon to follow was his Battle Master Gort and the Rune Keeper Toreval.  All the Ancestors were once mortals, who found power and divinity as they battled the [Old Ones](/religion/deities/dwarf_old_ones).
+**Erigrim** (Elders, Eternal Ones).  The first Dwarf to make himself a god was the Allfather Agamor.  Soon to follow was his Battle Master Gort and the Rune Keeper Toreval.  All the Ancestors were once mortals, who found power and divinity as they battled the [Old Ones](../dwarf_old_ones).
 
 The Erigrim changed little in appearance since their ascension.  They are each identified by their personal rune that they wear on their clothing and by the saintly halo on their heads.  They appear individually or in groups to their followers.
 
@@ -34,8 +34,8 @@ The Erigrim changed little in appearance since their ascension.  They are each i
 |Durathor           |CE| ᚦ : _"Thurisaz" (giant)_   |Punishment & Suffering |Destruction|
 
 ## Associated Religious Organizations
-* [Ancestral Reverence](/religion/organizations/dwarf_ancestry) (General Ethos of Dwarf Religion)
-* [Order of Paragon](/religion/organizations/order_of_paragon) (Primary order of the Dwarven Pantheon)
+* [Ancestral Reverence](../../organizations/dwarf_ancestry) (General Ethos of Dwarf Religion)
+* [Order of Paragon](../../organizations/order_of_paragon) (Primary order of the Dwarven Pantheon)
 * The Corrupted of Durathor (Priesthood of the Duergar)
 
 ## Common Worship
@@ -47,7 +47,7 @@ As for Durathor, it is rare for a Dwarf to consider him a direct patron, as his 
 
 ## Myths & Dogma
 ### Genesis
-At the dawn of time all Dwarves revered the [Old Ones](religion/deities/dwarf_old_ones).  It was a primal faith that demanded blood sacrifice and intense servitude.  The Old ones, though not evil were primal beings, their first priorities being with themselves and not with mortals.  In this ancient time, the Dwarves were tribal and lacked the structure of a united society.  **Agamor** was a religious peacekeeper of this time, an appointed Vigilant.  His duty was to settle inter-clan disputes to limit the bloodshed of Dwarf-kind.  This position made him without clan, with him forsaking all ownership to the clan he once knew, so that his decisions could be without prejudice.
+At the dawn of time all Dwarves revered the [Old Ones](../dwarf_old_ones).  It was a primal faith that demanded blood sacrifice and intense servitude.  The Old ones, though not evil were primal beings, their first priorities being with themselves and not with mortals.  In this ancient time, the Dwarves were tribal and lacked the structure of a united society.  **Agamor** was a religious peacekeeper of this time, an appointed Vigilant.  His duty was to settle inter-clan disputes to limit the bloodshed of Dwarf-kind.  This position made him without clan, with him forsaking all ownership to the clan he once knew, so that his decisions could be without prejudice.
 
 It was he who first saw that most clans are alike.  Their disagreements were petty, mostly due to the different interpretations of blood price for the Old Ones.  Being devout himself he took a pilgrimage to the mountain where their Old Ones lived, a forbidden place to his faith.  He wanted to talk to his gods and try to bring peace to his race.  Upon reaching the summit he was shocked at what he found.  No gods were there to greet him.  He saw the wreckage of their living, ruins and corpses, but nothing alive. There at the centre of the ruins he found the _Thorgen_, the _Yurrir_, the **_Runestone_**.
 
@@ -63,9 +63,9 @@ The Dwarves were losing so many warriors, they started to fragment.  Out of the 
 
 It took them 684 years to unravel the mysteries of the Runestone.  In this time the face of the eternal war changed many times.  From the Old Ones were spawned creatures of darkness that plagued the lands.  Dragons were commanded by ancient pacts and powerful magic, to rain down fire over crops.  It was the _Age of Chaos_ by the standard of the _Eternal Forge_.  By then the Dwarves were settled underground.  Between skirmishes fought against the Old Ones, new enemies came from the deep caverns.  It was a time when the Dwarves were few, and most of any hope was lost.  But the translation of the stone brought magic into the hands of the Dwarves.  It made them immensely powerful.  They forged weapons that could kill gods and hope was sparkled once again.
 
-Historians called it the _Age of Stone_.  The Dwarves drove back the [Old Ones](religion/deities/dwarf_old_ones) and lifted the curse of 700 years.  The Dwarves built an empire across the known world as have never been seen before.  The Dwarves grew ambitious and proud.  It was in this time that the Erigrim reached true divinity, but only after another disaster struck.
+Historians called it the _Age of Stone_.  The Dwarves drove back the [Old Ones](../dwarf_old_ones) and lifted the curse of 700 years.  The Dwarves built an empire across the known world as have never been seen before.  The Dwarves grew ambitious and proud.  It was in this time that the Erigrim reached true divinity, but only after another disaster struck.
 
-Some say it was a final attempt of the [Old Ones](religion/deities/dwarf_old_ones) to settle the score with the Dwarves, although no one had seen a manifestation for hundreds of years.  Others again believe it to be the dragons, who hated all mortals, who called forth the corruption.  All that is certain is that the Dwarves delved so deep into the earth that they opened a gateway to a dark and evil place, the _Reilagg_.  Devils spawned from this darkness and fought against the Dwarves from below.  These creatures were difficult to kill and they could strike at the heart of the Dwarven strongholds.  With them came _The Corruption_, silent whispers in the minds of leaders that drove them to turn on each other.  Many was driven mad.
+Some say it was a final attempt of the [Old Ones](../dwarf_old_ones) to settle the score with the Dwarves, although no one had seen a manifestation for hundreds of years.  Others again believe it to be the dragons, who hated all mortals, who called forth the corruption.  All that is certain is that the Dwarves delved so deep into the earth that they opened a gateway to a dark and evil place, the _Reilagg_.  Devils spawned from this darkness and fought against the Dwarves from below.  These creatures were difficult to kill and they could strike at the heart of the Dwarven strongholds.  With them came _The Corruption_, silent whispers in the minds of leaders that drove them to turn on each other.  Many was driven mad.
 
 Desperate and overtaken by greed, **Oreiss** planned to steal the Runestone that gave them their power and pawn it to the gods of the other races.  He wanted to trade it for his own immortality, so that he wouldn’t be corrupted and killed by the darkness that infested the I.  The price of true divinity, however, held more in store than the greedy **Oreiss** had anticipated.  The Runestone had touched many lives already and their strings of fate were firmly attached to it.  It had become part of Dwarven culture, their livelihood and worship.  If it were to fall out of Dwarven hands, it would end the whole of Dwarven history.
 

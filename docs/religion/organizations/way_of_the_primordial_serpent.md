@@ -10,7 +10,7 @@ authors:
 !!! info "Details"
     **Type:** Scientific Ethos: Polytheistic
 
-    **Patron Deity:** [Throden](/religion/deities/throden), Lord of Dragons
+    **Patron Deity:** [Throden](../deities/throden), Lord of Dragons
 
 ## Worshippers:
 Worshippers of the Primordial Serpent believe that the Dragon-kind is the ultimate form of life in the cosmos and should be revered above all else, even above the divine themselves.

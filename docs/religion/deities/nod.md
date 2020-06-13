@@ -27,7 +27,7 @@ Nod is the back cloud of madness. He is rarely seen in the realms, but when he d
     - ***The Black Cloud,*** for he embodies his manifestation, bringing madness and nightmares to all it touches.
 
 ## Associated Religious Organizations
-- [Cult of the Black Cloud](/religion/organizations/cult_of_the_black_cloud)
+- [Cult of the Black Cloud](../../organizations/cult_of_the_black_cloud)
 
 ## Common Worship
 Nod does not enjoy much common worship. In fact knowledge of his sects and influences is far spread and even then only spoken of in whispers.
@@ -37,7 +37,7 @@ Those who know, know to fear his powers, as dabbling the writings of his followe
 ## Myths & Dogma
 ### Genesis[^1]
 
-> [The Void](/cosmology/planes/void_of_creation). That is where it begins. There is no telling how far I have ventured into the Deep Unknown. The hours seem like minutes and the days... I think it has been a few years since I began, but there's no way for me to tell any more.
+> [The Void](../../../cosmology/planes/void_of_creation). That is where it begins. There is no telling how far I have ventured into the Deep Unknown. The hours seem like minutes and the days... I think it has been a few years since I began, but there's no way for me to tell any more.
 > 
 > I need to write quickly... My mind wanders too much these days.
 > 

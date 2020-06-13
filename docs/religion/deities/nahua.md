@@ -21,7 +21,7 @@ authors:
 Nahua's primary form is that of vermin.  A slight manifestation might be seen in the form of a swarm of rats or locusts. The more his presence manifests the more the swarm takes shape, until he becomes a shifting, giant, bipedal creature animated through and endless swarm of vermin. 
 
 ## Associated Religious Organizations
-* [Order of the Grotto](/religion/organizations/order_of_the_grotto) (Primary Cult of Nahua)
+* [Order of the Grotto](../../organizations/order_of_the_grotto) (Primary Cult of Nahua)
 
 ## Common Worship
 There are many who believe that the only way to ensure good crop and prosperity, a tribute should be given to the god of famine and pestilence.  They offer up a portion of their yield at the altar of Nahua to appease him and his vermin and have them stay away from their lands.
@@ -43,7 +43,7 @@ When he emerged from the deep the world had changed. The land and peoples reform
 ### The first Vampire
 It is told that long ago there lived a noble lord in a land which name has been lost to the ages.  He was kind and beloved by his people, intelligent and successful in his conquests.  The lord is said to be one of Caine, a line that is no more.
 
-The lord had a beautiful wife, told to have been blessed by both [Lilith](/religion/deities/lilith) in her beauty and [Heron](/religion/deities/heron) in her strength.  But through a curse from one of his rivals, the Lady was stricken with an incurable disease that had her rot away before his eyes.
+The lord had a beautiful wife, told to have been blessed by both [Lilith](../lilith) in her beauty and [Heron](../heron) in her strength.  But through a curse from one of his rivals, the Lady was stricken with an incurable disease that had her rot away before his eyes.
 
 The lord spared no expense, summoning healers and sages from all the world to help him save his wife.  As all hope was lost, the Lord found it again with the _Order of the Grotto_.  He was approached by one of the sect's most powerful clerics, who hinted at the powers the Rat god gained by reaching to the Deep Void.  Out of options and drained from years of desperation, the Lord Caine ventured with the cleric to the sanctum of Nahua, where he was allowed to study the dark ceremonies and secret tomes in search of a cure. The price was his own life, as dictated by the Order.
 

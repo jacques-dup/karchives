@@ -10,7 +10,7 @@ authors:
 !!! info "Details"
     **Type:** Scientific Ethos: Polytheistic, Truth Seekers
 
-    **Patron Deity:** [Irthor & Kidan](/religion/deities/irthor_&_kidan)
+    **Patron Deity:** [Irthor & Kidan](../deities/irthor_&_kidan)
 
 ## Worshippers:
 The Di-being, Brother gods, Irthor and Kidan, is one of the major deities of Aklatoria and has follower all across the realms.  Most notably, they are the patrons of the Warforged, as the first of these kindred were born within the Order of Artifice.

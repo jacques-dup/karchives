@@ -11,7 +11,7 @@ authors:
 !!! info "Details"
     **Type:** Seclusion Ethos: Pseudo-Polytheistic
 
-    **Patron:** [Firna](/religion/deities/firna)
+    **Patron:** [Firna](../deities/firna)
 
 ## Worshippers:
 The devout of the Assassin, goddess of Shadow, believe in the sacrificial blood of those who oppose her might and instruction.

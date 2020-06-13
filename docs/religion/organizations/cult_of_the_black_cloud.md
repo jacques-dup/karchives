@@ -11,13 +11,13 @@ authors:
 !!! info "Details"
     **Type:** Scientific Ethos: Secluded Enlightened
 
-    **Patron:** [Nod](/religion/deities/nod)
+    **Patron:** [Nod](../deities/nod)
 
 ## Worshippers:
 All worshippers of Nod are part of the priesthood, and knowledge of the sect is guarded from the outside world. To become one is to embrace madness as a blessing from the Void.
 
 ## Priesthood:
-Those who seek the truth of the cosmos are led to the [Void at the edge of Space](/cosmology/planes/void_of_creation), and unraveling the mysteries of it is a journey into madness. Mortal minds are unable to comprehend the expansive truths beyond it.
+Those who seek the truth of the cosmos are led to the [Void at the edge of Space](../../../cosmology/planes/void_of_creation), and unraveling the mysteries of it is a journey into madness. Mortal minds are unable to comprehend the expansive truths beyond it.
 
 These seekers follow the trail to the Cult of the Black Cloud and are presented with the overwhelming presence of the Elder Darkness. It is there where they accept the truth, where they let go of their own earthly minds, and become one with the will of the Black CLoud itself.
 

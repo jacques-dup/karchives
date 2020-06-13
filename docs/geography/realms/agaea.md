@@ -6,9 +6,6 @@
 
 > Ancient, vast and unforgiving.  The Great Sands stretch across the map as far as the eye can see.  It is an unforgiving land, breeding unforgiving people.  Its settlements ancient remnants of a forgotten age.  Its culture deep, with bloodlines far reaching.  The great City, Atenaa - The Jewel of the Dessert, The City of Dragons, at its core.
 
-## Culture
-The [People of Agaea](/people/by_region/people_of_agaea) are
-
 ## Geographical Locations
 ### Peaks of Martivir
 The Peaks of Martivir lies at the center of the Agaean sands.  At its center, the great mountains on which Atenaa is built.  Four great ranges stretch across the sand, each named after a part of the Dragon.

@@ -10,12 +10,12 @@ authors:
 !!! info "Details"
     **Type:** Verdant Ethos: Polytheistic, Animism
 
-    **Patron Deity:** The [Erigrim](/religion/deities/erigrim)
+    **Patron Deity:** The [Erigrim](../deities/erigrim)
 
 ## Worshippers:
 Dwarves, for most accounts, revere all their ancestors as the guardians of creation.  They believe that all who die, may become part of the fires that fuel the _Eternal Forge_, and all (Dwarven) souls, still have a part to play in the workings of the world even after they die.  But from their own legends and mythical history the Erigrim (Literally: the Elders who are eternal) stand at the forefront of religious following.
 
-These are ancient ancestors who reached divine status by banishing the primal [Old Gods](/religion/deities/dwarf_old_ones) from the **Azthin** (Literally: Rock and Earth, time of the Stones.  Refers to the Material Plane) and teaching the Dwarven race the power of Runes.  It was they who granted the clans the power to slay dragons and who enabled the Dwarves to flourish as the greatest empire the world had ever seen during the _Age of Stone_.
+These are ancient ancestors who reached divine status by banishing the primal [Old Gods](../deities/dwarf_old_ones) from the **Azthin** (Literally: Rock and Earth, time of the Stones.  Refers to the Material Plane) and teaching the Dwarven race the power of Runes.  It was they who granted the clans the power to slay dragons and who enabled the Dwarves to flourish as the greatest empire the world had ever seen during the _Age of Stone_.
 
 ## Priesthood: 
 Those dedicated to the divinity of their ancestors may choose to become part of the priesthood as a cleric or a paladin of the Dwarven Ethos. According to custom, they may take any patron.  They see servitude to a god as noble and a very personal act. Others choose to serve all the Erigrim equally.

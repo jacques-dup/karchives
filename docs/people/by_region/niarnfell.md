@@ -5,7 +5,7 @@ authors:
     - Jacques du Plessis
 ---
 # People of Ni'arnfell
-The [Narr](/geography/realms/niarnfell) are honorable, traditionalist people, with deep roots in their historic ideals and naturalist philosophy.  During the [Age of Stone](/history/ages/age_of_stone), they were heavily influenced by the Dwarven settlers, embracing the progress they brought and feeling kinship with their moral ethos.
+The [Narr](../../../geography/realms/niarnfell) are honorable, traditionalist people, with deep roots in their historic ideals and naturalist philosophy.  During the [Age of Stone](../../../history/ages/age_of_stone), they were heavily influenced by the Dwarven settlers, embracing the progress they brought and feeling kinship with their moral ethos.
 
 New settlements form rarely in this land, where most regard nature before riches and many villages stay small.
 
@@ -46,6 +46,6 @@ Animals play an important role in society -  as spirits of guidance and examples
 >“A man can be a wolf or a bear in his mind, and then let his body follow”
 
 ## Historic Influences
-During the [Age of Stone](/history/ages/age_of_stone), the Dwarves migrated into the region in search of precious resources.  They built cities, and brought their ideas of nobility to the local barbarian tribes.  The locals were peaceful and friendly to the settlers and quickly mingled with the newcomers, as they shared similar beliefs of honour and virtue.  They adopted a variant of the Dwarven class system as their own, and lived side by side with the Dwarven expansionists.
+During the [Age of Stone](../../../history/ages/age_of_stone), the Dwarves migrated into the region in search of precious resources.  They built cities, and brought their ideas of nobility to the local barbarian tribes.  The locals were peaceful and friendly to the settlers and quickly mingled with the newcomers, as they shared similar beliefs of honour and virtue.  They adopted a variant of the Dwarven class system as their own, and lived side by side with the Dwarven expansionists.
 
 The Dwarves in turn respected the rule of nature, and their settlements did not over-spend the natural resources.

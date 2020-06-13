@@ -11,15 +11,15 @@ authors:
 !!! info "Details"
     **Type:** Verdant and Seclusion Ethos
 
-    **Patron:** [Garkash](/religion/deities/garkash)
+    **Patron:** [Garkash](../deities/garkash)
 
 ## Worshippers:
-There are few Orcs who renounce their Blood Taint, as told in the myth of the [Black Seeding](/history/myths/black_seeding). They see Garkash as their progenitor and his existence gives them purpose. Especially in a world where all the Tainted are shunned and faced with prejudice.
+There are few Orcs who renounce their Blood Taint, as told in the myth of the [Black Seeding](../../../history/myths/black_seeding). They see Garkash as their progenitor and his existence gives them purpose. Especially in a world where all the Tainted are shunned and faced with prejudice.
 
 To some degree, belief in other gods are entertained, though to revere them or take them as patron is regarded blasphemous, and usually punished by torture and eventual death.
 
 ## Priesthood:
-The Orcish shaman acknowledge the organization and ranks of the [Church of Blood and Bone](/religion/organizations/church_of_blood_and_bone), but have their own considerations when it comes to other races that are not ot the Tainted Blood. They are always considered outsiders in Orcish war bands, unless they attain the rank of Black Champion. 
+The Orcish shaman acknowledge the organization and ranks of the [Church of Blood and Bone](../church_of_blood_and_bone), but have their own considerations when it comes to other races that are not ot the Tainted Blood. They are always considered outsiders in Orcish war bands, unless they attain the rank of Black Champion. 
 
 Shaman remain loosely affiliated with the church, but use their own divinations as guide to determine if the church's aims and plans are worthy of their attention.
 

@@ -26,9 +26,9 @@ Armara and her agents manifest as a bird of prey, often observing humanoids from
     - ***Lurrden-Mörr,*** as named by the Dwarves, translated to _Mother of the Sky_
 
 ## Associated Religious Organizations
-* [Order of Sentinel](/religion/organizations/order_of_sentinel) (Primary Church of Armara)
-* [The Circle of Vitalis](/religion/organizations/circle_of_vitalis) (Pantheon of Life)
-* [The Elemental Courts](/religion/organizations/elemental_courts) (Pantheon of Elementals)
+* [Order of Sentinel](../../organizations/order_of_sentinel) (Primary Church of Armara)
+* [The Circle of Vitalis](../../organizations/circle_of_vitalis) (Pantheon of Life)
+* [The Elemental Courts](../../organizations/elemental_courts) (Pantheon of Elementals)
 
 ## Common Worship
 Armara is looked upon as an entity of Instauration by most of the common races, but this is not necessarily true for all places and cultures.  Armara is, in her first instance, the goddess of the skies.  Therefore there are some, albeit verdant societies, who revere her primarily as an entity of nature and the bringer of clouds and rains.

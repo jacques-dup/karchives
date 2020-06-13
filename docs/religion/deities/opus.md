@@ -21,7 +21,7 @@ authors:
 Opus of the Trees takes on the form of a colossal Ent, a rumbling Earth Elemental, or even a giant Mushroom Tree. His face appears as an aged man within these visions, wearing a long beard and faraway gaze.
 
 ## Associated Religious Organizations
-* [The Elemental Courts](/religion/organizations/elemental_courts) (Pantheon of Elementals)
+* [The Elemental Courts](../../organizations/elemental_courts) (Pantheon of Elementals)
 
 ## Common Worship
 Opus is the Father of Nature, solemn protector of the wilds, and Keeper of the Groves.  His blessings keep the forests lush and food abundant, but also keeps the wilderness at peace so that man can live in harmonic, close proximity to it.

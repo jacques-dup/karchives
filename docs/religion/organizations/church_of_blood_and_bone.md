@@ -11,7 +11,7 @@ authors:
 !!! info "Details"
     **Type:** Common Ethos: Polytheistic
 
-    **Patron:** [Garkash](/religion/deities/garkash)
+    **Patron:** [Garkash](../deities/garkash)
 
 ## Worshippers:
 Garkash has one commandment: "kill". His followers excel at it by means of his blood rage, a divine berserkery that transcends the bounds of mortal motives.

@@ -10,7 +10,7 @@ authors:
 !!! info "Details"
     **Type:** Common Ethos: Polytheistic
     
-    **Patron Deity:** [Maia](/religion/deities/maia), Goddess of Magic, Grimoirs, Arcana and Spells
+    **Patron Deity:** [Maia](../deities/maia), Goddess of Magic, Grimoirs, Arcana and Spells
 
 ## Worshippers:
 Anyone can choose Maia as their patron and even those not claimed to her faith are known to pray at her shrines on occasion, yet to become part ot the Divine Arcanum is a privilege for those who follow the divine path of the Arcane.
@@ -34,9 +34,11 @@ Even among the uninitiated, it is known that Maia was once a mere mortal, of an 
 
 To the clergy, their goddess is not a mere entity or patron overseeing the magic of the world.  To them, she is the embodiment of magic and the primary conduit of all magic.  By becoming The Conduit, she gained absolute power and the clergy believes she is probably the most powerful of all known deities.
 
-Maia is strongly tied to the [World Trees](/cosmology/magic/places_of_power/world_trees).  These sites are the anchors that tie the Ever-realms to the world and the primary channel of magical energy into the material plain.  The clergy believes that at each of these sites, a physical embodiment of Maia can be found, where she is chained to its magic by unbreakable chains of parchment.
+Maia is strongly tied to the [World Trees](../../../cosmology/magic/places_of_power/world_trees).  These sites are the anchors that tie the Ever-realms to the world and the primary channel of magical energy into the material plain.  The clergy believes that at each of these sites, a physical embodiment of Maia can be found, where she is chained to its magic by unbreakable chains of parchment.
 
 ### Hierarchy
+
+<a name='chosen_3'></a>
 
 ??? abstract "Clerical Ranks"
     1. **Uninitiated.** The church believes all who acknowledge Maia has a place in her church, but not all are chosen to have her secrets revealed.
@@ -45,6 +47,6 @@ Maia is strongly tied to the [World Trees](/cosmology/magic/places_of_power/worl
     4. **Star-bound.** The first rank of leadership is in the form of a silver star, worn in some form on the cleric’s clothing.  Star-bound have authority over others of lower rank and may contest decisions made by the leaders of a shrine.  They, however, have no final claim on the outcomes of individual decisions but are always heard.  Star-bound may be shrine leaders themselves should they choose to settle.
     5. **Robed.** The Robed are known by the clerical robes they wear, akin to the depictions of the goddess herself.  They serve as inquisitors to the church and have the authority to overrule individual shrine decisions but doing so only in extreme circumstances. Almost all shrines have one Robed as an advisor.
     6. **Myst-touched.** Clerics who achieve great deeds of renown and glory for the church are often promoted to Myst-touched.  They are marked with a ring of power and they may choose to take on the mantle of the Robed or Star-bound (along with its duties) but with an elevated status and authority.
-    7. <a name='chosen_3'></a>**Chosen three.** The chosen three are each the heads of one of the branches of the church.  They are well known, and each owns a staff of power – relics of the order.
+    7. **Chosen three.** The chosen three are each the heads of one of the branches of the church.  They are well known, and each owns a staff of power – relics of the order.
     8. **Moonchildren.**  A handful of followers are granted the rank of Moonchildren.  They are chosen by the goddess herself and do not need to be part of the church’s clerical order.  They have absolute authority over the other ranks and are known to manifest the greatest of magical abilities as a gift from the goddess.  They are known by their ability to compel the true devout of Maia regardless of rank and for that their physical appearance starting to attain aspects of the Myst itself, like eyes shining of daylight or skin of molten diamond.
     9. **Mother of the Moons and Star.** One devout is chosen by the clerics.  She becomes known as the Mother and through a secret rite known only to the Moonchildren, she gains immunity to their compulsion and the ability to command them instead.  Her main purpose is to keep the church united and to be the protector of its secrets and tenants.  No one but the Mother knows what the rank entails, but all are compelled to do her bidding.

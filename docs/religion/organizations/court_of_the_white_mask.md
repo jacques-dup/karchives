@@ -11,7 +11,7 @@ authors:
 !!! info "Details"
     **Type:** Common Ethos: Polytheistic
 
-    **Patron:** [Callad](/religion/deities/callad)
+    **Patron:** [Callad](../deities/callad)
 
 ## Worshippers:
 Worship among the faithful of Callad is highly secretive and obfuscated. Gatherings happen in the dark hours of the night, participants all wearing masks of smooth white to hide their faces. They congregate behind closed doors and in deep cellars and tunnels, away from all prying eyes.

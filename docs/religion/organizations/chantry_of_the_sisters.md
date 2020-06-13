@@ -11,7 +11,7 @@ authors:
 !!! info "Details"
     **Type:** Seclusion Ethos
 
-    **Patron:** [Callad](/religion/deities/callad), [Firna](/religion/deities/firna), [Seth](/religion/deities/seth)
+    **Patron:** [Callad](../deities/callad), [Firna](../deities/firna), [Seth](../deities/seth)
 
 ## Worshippers:
 Followers of Chaos believe that the cosmos is in a constant state of entropy, and that the true inheritors of it is the daughters who spawned from its Source.

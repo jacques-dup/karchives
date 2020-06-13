@@ -6,7 +6,7 @@ authors:
 ---
 # The Age of the Sun
 ## The Dawn of Man {: .subtitle }
-The Age of the Sun begins at the Dawning and hallmarks the end of [The Long Winter](/history/ages/long_winter).  It is a time of unification, progress and the common good of all.  By historic account it is the current age of Aklatoria. 
+The Age of the Sun begins at the Dawning and hallmarks the end of [The Long Winter](../long_winter).  It is a time of unification, progress and the common good of all.  By historic account it is the current age of Aklatoria. 
 
 > Generations of people lived through the age of ice.  So when the snows started to melt, it was a foreign phenomenon. But surely, in another few years it became apparent that the Long Winter had passed.
 >
@@ -15,11 +15,11 @@ The Age of the Sun begins at the Dawning and hallmarks the end of [The Long Wint
 But others had survived the _Long Winter_ too. Those of the _Black Blood_ had their minds consumed by th blood lust of their war god, and they marched in mass toward the peaceful settlements.
 
 ## The War of Cleansing
-Aklatoria had less than a generation when the snows finally melted before the _Black Bloods_ rose to challenge humanity.  Orcs, Goblins, Trolls, and all manner of creatures spawned from the [Seed of the Deep](/history/myths/seeds_of_life#the-seed-of-the-deep) gathered in numbers.  They raided and pillaged the land in the name of their _Dark Lord_ [Garkash](/religion/deities/garkash) the Vengeful.
+Aklatoria had less than a generation when the snows finally melted before the _Black Bloods_ rose to challenge humanity.  Orcs, Goblins, Trolls, and all manner of creatures spawned from the [Seed of the Deep](../../myths/seeds_of_life#the-seed-of-the-deep) gathered in numbers.  They raided and pillaged the land in the name of their _Dark Lord_ [Garkash](../../../religion/deities/garkash) the Vengeful.
 
 Humanity had to stand together to face the onslaught, and soon declared it an outright war. Four Elvin Lords, The Dwarf King joined by seventy War Chiefs, and the twelve Human Lords joined forces in an alliance against the _Tainted_.
 
-With the combined might of the Alliance, the hold of the Tainted was broken.  Using the knowledge the Elves had gained after their study of the [World Trees](/cosmology/magic/places_of_power/world_trees), the Alliance was able to sever the mystic link that bound the Tainted to their god's blood lust.  With the bond broken, many of the enemy forces broke rank.  Their minds one their own again, but the Taint in their blood still filled them with rage and darkness.
+With the combined might of the Alliance, the hold of the Tainted was broken.  Using the knowledge the Elves had gained after their study of the [World Trees](../../../cosmology/magic/places_of_power/world_trees), the Alliance was able to sever the mystic link that bound the Tainted to their god's blood lust.  With the bond broken, many of the enemy forces broke rank.  Their minds one their own again, but the Taint in their blood still filled them with rage and darkness.
 
 The Alliance marched their armies across the realms rooting out whatever remnants of the enemy remained.
 
@@ -36,9 +36,9 @@ No empire has risen from the ashes of the old.  Humans have spread across the la
 It is a new age with new possibilities.  A golden age filled with adventure.  The Age of the Sun.  And the dawn of a new time.
 
 ## List of Historic Ages
-1. [Age of Seeding](/history/ages/age_of_seeding)
-2. [The Time of Turmoil](/history/ages/time_of_turmoil)
-3. [Age of Stone](/history/ages/age_of_stone)
-4. [Age of the Stars](/history/ages/age_of_the_stars)
-5. [The Long Winter](/history/ages/long_winter)
+1. [Age of Seeding](../age_of_seeding)
+2. [The Time of Turmoil](../time_of_turmoil)
+3. [Age of Stone](../age_of_stone)
+4. [Age of the Stars](../age_of_the_stars)
+5. [The Long Winter](../long_winter)
 6. Age of the Sun

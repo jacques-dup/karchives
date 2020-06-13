@@ -11,7 +11,7 @@ authors:
 !!! info "Details"
     **Type:** Verdant Ethos: Animism
 
-    **Patron:** [Duswyn](/religion/deities/duswyn)
+    **Patron:** [Duswyn](../deities/duswyn)
 
 ## Worshippers:
 The followers of Duswyn are amongst other things quite eccentric. For one their chief philosophy in life is to experience the thrill of inebriation as often as possible, yet their motivation is very much rooted in holy scriptures, said to have been written by the Drunk god himself, and compelling argument.

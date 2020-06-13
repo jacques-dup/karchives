@@ -21,8 +21,8 @@ authors:
 Firna is shadow itself, never seen, not even when death embraces. Her essence may imbue and manifest in some rare cases with the Third Eye, etched in blood on the heads of the dead, and even more rare, on the heads of her chosen agent.
 
 ## Associated Religious Organizations
-- [Order of the Third Eye](/religion/organizations/order_of_the_third_eye)
-- [Chantry of the Sisters](/religion/organizations/chantry_of_the_sisters)
+- [Order of the Third Eye](../../organizations/order_of_the_third_eye)
+- [Chantry of the Sisters](../../organizations/chantry_of_the_sisters)
 
 ## Common Worship
 There are a number of cultures who value the art of secret killing.  In such places, Firna can be worshipped in open sight, her temples a place to ask for blessings whenever sinister actions are planned.
@@ -35,7 +35,7 @@ At the dawn of time, as far back as the oldest races can remember, the world was
 
 The first child, was Firna the Black.  Together with her sister, they ascended to rule the shadowy underbelly of the divine, and their influence soon extended to the realm of mortals.
 
-Firna embodied shadow itself, and the dangers that lurks in the darkness.  Wherever she went, death followed and soon all the other divine began to avoid her for fear of her shadow.  But Firna was ever longing for the darkness and death. She looked toward the cosmic heavens and saw the [Great Void](/cosmology/planes/void_of_creation) at the edge of space and time.  There, she thought, she could find the true nature of darkness, and learn the secrets of true nothingness.
+Firna embodied shadow itself, and the dangers that lurks in the darkness.  Wherever she went, death followed and soon all the other divine began to avoid her for fear of her shadow.  But Firna was ever longing for the darkness and death. She looked toward the cosmic heavens and saw the [Great Void](../../../cosmology/planes/void_of_creation) at the edge of space and time.  There, she thought, she could find the true nature of darkness, and learn the secrets of true nothingness.
 
 She left the realm of the real, stepping through the Black Vortex, and disappeared from existence for a brief moment.  The Void burned at her essence and she fell from the sky in a blazing inferno, screaming in agony.  She frantically grasped at the embrace of her Shadow realm, in order to hide from what she saw in the Void.  For a moment in history, the goddess cast no presence over the realms of either the divine or the mortals, her screams slowly dying to sobs, and then only a soft whimpering wail, is the wind on a starless night.
 

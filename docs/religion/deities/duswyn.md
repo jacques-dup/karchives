@@ -21,7 +21,7 @@ authors:
 Manifestations of Duswyn are rare and often unproven, as his followers are usually inebriated during their enigmatic experiences. Accounts have one common theme though, and that is that Duswyn is never seen in living form.  Rather he manifests as a beautiful, athletic statue in onyx, with everlasting wine flowing from his eyes and mouth.  When consumed, his wine possesses healing properties, but instantly causes severe drunkenness.
 
 ## Associated Religious Organizations
-* [Friars of the Tankard Spirit](/religion/organizations/friars_of_the_tankard)
+* [Friars of the Tankard Spirit](../../organizations/friars_of_the_tankard)
 
 ## Common Worship
 Duswyn is revelry and drink.  Where people celebrate, there he is to lift their spirits to new heights. His name is chanted in anticipation for the night and the excitement it will bring.

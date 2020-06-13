@@ -9,7 +9,7 @@ Welcome to the Kobold Archives, a creative project of fantasy lore intended to b
     There will be quite a few broken links to non-existent pages. As I write I tend to include the linking markdown but only create the pages at a later stage.
 
 ## The Lore
-The Archives chronicles the lore of [Aklatoria](/geography/aklatoria), a fantasy world of magic and fantastical creatures. In Aklatoria the humble Kobold, kin to the Dragons of Old, are the best and most meticulous lore keepers of the realms.  Their libraries contain the secrets of creation from the mythical histories of the world, the gods who claim dominion, the magic and science of the cosmos, and the cultures and creeds of its inhabitants.
+The Archives chronicles the lore of [Aklatoria](./geography/aklatoria), a fantasy world of magic and fantastical creatures. In Aklatoria the humble Kobold, kin to the Dragons of Old, are the best and most meticulous lore keepers of the realms.  Their libraries contain the secrets of creation from the mythical histories of the world, the gods who claim dominion, the magic and science of the cosmos, and the cultures and creeds of its inhabitants.
 
 ## The Journey thus far
 Aklatoria started out, probably around the early 2000's, as a D&D campaign. Through the years my DM's notebook grew and ideas from all my friends got incorporated into what is now this. We played many games, not only on this realm, but on the official campaign settings too. Recently I decided to take on the colossal task of digitizing my notes.. and there's a lot! I decided to do it in this form.

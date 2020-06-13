@@ -11,7 +11,7 @@ authors:
 !!! info "Details"
     **Type:** Common Ethos: Polytheistic
 
-    **Patron:** [Armara](/religion/deities/armara)
+    **Patron:** [Armara](../deities/armara)
 
 ## Worshippers:
 The global followers of Armara, regardless of culture or creed, are the Sentinels of the goddess. They are the Vigilant that guard against the withering on life and the instillers of renewal across the realms.

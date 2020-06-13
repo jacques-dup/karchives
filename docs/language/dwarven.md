@@ -1,9 +1,3 @@
----
-title: Lexicon - Dwarven
-summary: A summary of the Dwarf language of Aklatoria
-authors:
-    - Jacques du Plessis
----
 # Dwarven
 The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to the popular Hebrew by that of Tolkien.
 
@@ -40,9 +34,10 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |accident | garay|
 |accusation | hakru | plural hakrä|
 |accuse | ahkur|
-|adamantium | |
+|adamantium | sylskar|
 |age (period of time) | un (v)|
 |air | lu|
+|ale|aöl|
 |always | eiltaf|
 |an | ori|
 |ancestor | käzmukällén|
@@ -53,6 +48,7 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |antler | mukhasinbar|
 |anvil | dǒr | plural dǒrith|
 |as | pônss (adv)|
+|ash|as|
 |attack | á kásh|
 |axe | höggvaär|
 |beard | skargg|
@@ -71,8 +67,10 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |create | slovax|
 |daughter | undeona|
 |day | sultím|
+|dead | -dö (adj)|
 |deep | djup|
 |deeper | zadjupitn|
+|demon|durdor|
 |disaster | guryel|
 |do | ra|
 |down | nidas|
@@ -83,9 +81,13 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |dwarven | dver (adj), kazundvertäl (v)|
 |Dwarves, the | Kazunith Mükdverdür|
 |earth | maa|
+|east|aus|also steel|
 |Elves | Alfurminn|
+|fall| fel (v)|
 |father | färr|
 |female | onadar|
+|far|lann|
+|field| slät (n)| also plain|
 |Fey | Aevin|
 |fire | ar|
 |for | fyrür|
@@ -125,13 +127,16 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |magic | vitkynrar|
 |male |omadur | also man|
 |man | omadur | also male|
+|many| -inor |also plentiful|
 |march | äara|
 |me | mögg|
-|mithril |
+|mithril | mäanaus
 |mother | mörr|
+|mountain| fjel|
 |must | aedur|
 |my | mïgk | additional rule: add -den to object for possessive form|
 |night | tungletím|
+|north|nürr|also gold|
 |not | ekgi|
 |of | kza (adv) |also from|
 |old | undü|
@@ -139,7 +144,9 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |Orcs | Dökkfur|
 |paragon | förebra|
 |patron|
-|platinum |
+|plain| slät (n)| also field|
+|platinum |kometnürr|
+|plentiful | -inor|also many|
 |polite | smënmukr|
 |problem | mäel|
 |request | spyrnöm (n), spyrnmün (v)|
@@ -154,11 +161,13 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |sister (close friend) | mükzahdin|
 |sister (family) | kazahdin|
 |sky | lurr|
+|sleep| sömn (v)|
 |small| undamhär | also little, young|
 |smith | myiljöran (n), dǒrrslá (v)|
 |soil | nerä | -for burials: peräden|
 |son | undamodur|
 |speak | tälentölen|
+|star| seren|
 |steel | hvístär (n)|
 |steel, the | aus (abstract) | also east|
 |stone | kivi|
@@ -173,6 +182,7 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |water | vé|
 |we | üd (general), mük (reserved for close friends)|
 |well | gufel (adv)|
+|west|keiss|also bronze|
 |while | pônss|
 |witchcraft | fjölkynnrar|
 |woman | onadar | also female|

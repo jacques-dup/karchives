@@ -6,7 +6,7 @@ authors:
 ---
 # Tundrum Arctis
 
-The plane of Ice and Cold is one of the one of the primary elemental planes of existence that runs parallel to ['ad Materia](/cosmology/planes/ad_materia), the _Material Plane_.
+The plane of Ice and Cold is one of the one of the primary elemental planes of existence that runs parallel to ['ad Materia](../ad_materia), the _Material Plane_.
 
 Its lands consist of unending tundras at its most shallow, there where the veils between realms are narrowest, and only the divine knows the harshness of its depths.
 

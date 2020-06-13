@@ -31,7 +31,7 @@ The city itself is divided into three main districts, _The Docks_, _The Steading
 |The Steading|***The Crystal Finger,*** a menhir of quartz, said to entomb an ancient and powerful demon.|
 ||***The Theatre of Veils,*** is a large timber and brick theatre, home of a female Elf named Alorainara and her trained wyvern.|
 ||***Acotzin's Carvings,*** a carpenter's shop that also sells wands grown from a magical tree.|
-||***[The Crimson Goblet](/geography/settlements/niarnfell/places_of_interest/crimson_goblet),*** is a well known tavern, partly built withing the branches of a large tree.|
+||***[The Crimson Goblet](../places_of_interest/crimson_goblet),*** is a well known tavern, partly built withing the branches of a large tree.|
 |The Keep|***The Keep,*** the primary structure within the district and council chambers of the Regent.|
 ||***The House of Selamiir,*** is a white stone tower that almost seems out of place in the wooded city. It is the main headquarters of th Order of Selamiir.|
 

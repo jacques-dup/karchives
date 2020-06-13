@@ -10,7 +10,7 @@ authors:
 !!! info "Details"
     **Type:** Common Ethos: Polytheistic
 
-    **Patron Deity:** [Heron](/religion/deities/heron)
+    **Patron Deity:** [Heron](../deities/heron)
 
 ## Worshippers:
 General worship of of the Unyielding spans across both martial and philosophical occupations, but naturally weigh towards those with the ability to mete out poetic justice.  Therefor most of worshippers tend to be Paladins an battle hardened Clerics.

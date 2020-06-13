@@ -10,7 +10,7 @@ authors:
 !!! info "Details"
     **Type:** Scientific Ethos: Polytheistic, Truth Seekers
 
-    **Patrons:** [Maia](/religion/deities/maia), [Irthor & Kidan](/religion/deities/irthor_&_kidan), [Nimwind](/religion/deities/nimwind), [Kearlun Kreepmaster](/religion/deities/kaerlun), [Ura](/religion/deities/ura)
+    **Patrons:** [Maia](../deities/maia), [Irthor & Kidan](../deities/irthor_&_kidan), [Nimwind](../deities/nimwind), [Kearlun Kreepmaster](../deities/kaerlun), [Ura](../deities/ura)
 
 ## Worshippers:
 The Circle of Arcana is a Pantheon grouping of all deities associated with magic in some way.  Its followers are typically scholars of the Arcane or at least practitioners of magic.
@@ -30,4 +30,4 @@ Being able to restore the balance of magic in some place or form is an ultimate 
     1. **Arcus** Initiated are known as Arcus, the followers of the tenants of Balance.
     2. **Mystborn** Once a cleric has was able to complete a Deed of Correction, they are recognized as a Mystborn Arcus.
     3. **Arch-mage** Once a cleric perfects a specialized study of magic, whether it be a wizardry school, artifice or even clerical prayer-casting, they may be considered an Arch-mage of the order. Arch-mages are the keepers of the magical artifacts and places, so ascending to this rank brings additional duties of inspecting places of power and seeking out rumours of artifacts that need protection.
-    4. **Chosen of Three** Clerics of the Circle of Arcana may also be blessed by Maia to become one of the Chosen Three as per the [Church of Maia](/religion/organizations/church_of_maia#chosen_3).
+    4. **Chosen of Three** Clerics of the Circle of Arcana may also be blessed by Maia to become one of the Chosen Three as per the [Church of Maia](../divine_arcanum#chosen_3).

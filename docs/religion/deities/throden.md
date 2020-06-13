@@ -21,7 +21,7 @@ authors:
 Throden resembles an ancient White dragon. Prismatic veins cover his scales as scars, shifting colours eerily. Surrounding him is an aura of awe, fear, and surprising benevolence at first, as his silver eyes laced with golden specs bore down into your soul.
 
 ## Associated Religious Organizations
-* [The Way of the Primordial Serpent](/religion/organizations/way_of_the_primordial_serpent) (The primary church of Throden)
+* [The Way of the Primordial Serpent](../../organizations/way_of_the_primordial_serpent) (The primary church of Throden)
 
 ## Common Worship
 Wherever Dragons are concerned, Throden's name is raised in muttered prayers. His will and purpose is to preserve the ancient knowledge and secrets of Dragon-kind and therefore many mythical, arcane artifacts and secrets bare his name.
@@ -32,7 +32,7 @@ But even more, Throden stands as a guard tot he divine realms. He was there at t
 
 ## Myths & Dogma
 ### Genesis
-Throden was there at the dawn of creation, a fledgling White, his heart filled with primal instincts and a drive to destroy.  He was one of the first sons of the Great Titan, [Mekla the Serpent](/history/artifacts/book_of_arath_aev#book-two-the-old-ones).
+Throden was there at the dawn of creation, a fledgling White, his heart filled with primal instincts and a drive to destroy.  He was one of the first sons of the Great Titan, [Mekla the Serpent](../../../history/artifacts/book_of_arath_aev#book-two-the-old-ones).
 
 He was a vanguard of the first wars of the mythical ages, and saw the world as it changed through the eons. As one of the strongest of the Dragon-kin, he was a force to be feared by all, and the legend of the Immortal Dragon stood as the inspiration for all his kind. War waged. Gods and their armies of men against the Elder entities, Ancient Spirits and Dragons alike. WHoever would survive would become the ones to establish the histories of Aklatoria.
 

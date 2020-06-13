@@ -10,7 +10,7 @@ authors:
 !!! info "Details"
     **Type:** Common Ethos: Polytheistic
 
-    **Patrons:** [Armara](/religion/deities/armara) (Air), [Opus](/religion/deities/opus) (Gaia), [Ornim](/religion/deities/ornim) (Earth), [Shaeleon](/religion/deities/shaeleon) (Water), [Ura](/religion/deities/ura) (Fire)
+    **Patrons:** [Armara](../deities/armara) (Air), [Opus](../deities/opus) (Gaia), [Ornim](../deities/ornim) (Earth), [Shaeleon](../deities/shaeleon) (Water), [Ura](../deities/ura) (Fire)
 
 ## Worshippers:
 Followers and clerics of the Elemental Courts are for the most part, spell practitioners aligned to elemental magic. These include a number of druids and evokers.

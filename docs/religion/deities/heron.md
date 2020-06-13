@@ -21,9 +21,9 @@ authors:
 Heron manifests as a great, white unicorn with a sparkling, mithril horn.  Rarely, The Mare will also be a rider in glittering plate, holding an unsheathed sword aloft. From her mantel flows a white banner with a circle of runes, giving strength to her allies.
 
 ## Associated Religious Organizations:
-* [The Unyielding](/religion/organizations/unyielding) (The Church of Heron the Smiting.)
-* [The Ordos Valorium](/religion/organizations/ordos_valorium) (Pantheon of Honour and Valor)
-* [The Circle of Justice](/religion/organizations/circle_of_justice) (Pantheon of Law and Justice)
+* [The Unyielding](../../organizations/unyielding) (The Church of Heron the Smiting.)
+* [The Ordos Valorium](../../organizations/ordos_valorium) (Pantheon of Honour and Valor)
+* [The Circle of Justice](../../organizations/circle_of_justice) (Pantheon of Law and Justice)
 
 ## Common Worship
 Those unaffiliated with any of the major organizations associated with Heron look to her for guidance whenever they are being oppressed of feel fearful of their current surroundings or situations.  She stands as paragon of honour and pinnacle of valor for all, regardless of their affiliation.
@@ -34,7 +34,7 @@ In most cases, Heron is regarded whenever retribution or fair, poetic, vengeance
 
 ## Myths & Dogma
 ### Genesis
-Heron was born in the early days of the [Time of Turmoil](/history/ages/time_of_turmoil), and rose to power in full during the God Wars of the age.  It is said that she was birthed from a union of the [Morning Lord](/religion/deities/lord_aster) and [Lady Elmara](/religion/deities/elmara) during this time.  As a child goddess, she played amongst the ruins of battle and learned to know the world as an unjust and cruel place.
+Heron was born in the early days of the [Time of Turmoil](../../../history/ages/time_of_turmoil), and rose to power in full during the God Wars of the age.  It is said that she was birthed from a union of the [Morning Lord](../lord_aster) and [Lady Elmara](../elmara) during this time.  As a child goddess, she played amongst the ruins of battle and learned to know the world as an unjust and cruel place.
 
 As she grew, she asked her father why the world was so unjust. _"For in a world of the unjust, there are good men doing nothing"_, the Morning Lord replied.  She asked her mother, then, why the people of the world did nothing against the evils of the day. _"For there are no one to stand and lead them"_, the Lady said with a sigh.
 

@@ -22,4 +22,4 @@ Bellan, the _First ones_, the _Forgotten_. These old gods are ancient beings who
 * None
 
 ## Common Worship
-The Bellan is not worshiped since the [Age of Stone](/history/ages/age_of_stone), where they were disavowed by the Dwarves who worshipped them before.
+The Bellan is not worshiped since the [Age of Stone](../../../history/ages/age_of_stone), where they were disavowed by the Dwarves who worshipped them before.

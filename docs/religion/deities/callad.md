@@ -27,15 +27,15 @@ Callad manifests as a slender Halfling, clad in black leather.  A dull, white ma
     - ***The Queen of Thieves,*** as named by her church.
 
 ## Associated Religious Organizations
-* [The Court of the White Mask](/religion/deities/court_of_the_white_mask)
-* [Chantry of the Sisters](/religion/organizations/chantry_of_the_sisters)
+* [The Court of the White Mask](../../organizations/court_of_the_white_mask)
+* [Chantry of the Sisters](../../organizations/chantry_of_the_sisters)
 
 ## Common Worship
 Prayers summoning The Palled Oath frequents the lips of those at the receiving end of treachery.  Even though the goddess and her followers excel at subterfuge, the ultimate form of treachery is if she can turn around and bereave the ones who meek out treachery in the first place.
 
 In less moral societies, the goddess is revered as a paragon of thieves, proclaiming her virtues of slyness, ruthlessness, and ambition.  Those who dwell and deals in the shadowy underbellies often call her name to aid them in their exploits.
 
-She is also often associated to, and revered by worshippers of her sister, [Firna](/religion/deities/firna) the Black, goddess of Murder and Assassination.
+She is also often associated to, and revered by worshippers of her sister, [Firna](../firna) the Black, goddess of Murder and Assassination.
 
 ## Myths & Dogma
 ### Genesis
@@ -45,4 +45,4 @@ The latter child, the Golden Princess, was Callad.  Together with her sister, th
 
 Callad was born with a much lighter heart than that of her sibling.  She did not crave the same destruction.  Rather her Chaos manifested in the opposite, favouring life over death.  Her purpose was set on the shifting perceptions of the living and the ability to abuse that which is said to be the truth and that which is law. She  spent her divine childhood stalking the halls of the divine and even the mortal realms in a constant search to topple stability.
 
-It was not until she happened upon the lair of of [Assador](/religion/deities/assador), where she was caught stealing.  The Dark lord's wrath fell upon her as he lashed out with claw and whip.  It is said that her face was scarred so through his punishment, that she took on the mask of the Palled Oath there.
+It was not until she happened upon the lair of of [Assador](../assador), where she was caught stealing.  The Dark lord's wrath fell upon her as he lashed out with claw and whip.  It is said that her face was scarred so through his punishment, that she took on the mask of the Palled Oath there.

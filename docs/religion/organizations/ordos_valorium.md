@@ -10,7 +10,7 @@ authors:
 !!! info "Details"
     **Type:** Common Ethos: Polytheistic
 
-    **Patron Deity:** [Elmara](/religion/deities/elmara), [Heron](/religion/deities/heron), [Lex Fireheart](/religion/deities/lex_fireheart), [Lord Aster](/religion/deities/lord_aster), [Martivir](/religion/deities/martivir)
+    **Patron Deity:** [Elmara](../deities/elmara), [Heron](../deities/heron), [Lex Fireheart](../deities/lex_fireheart), [Lord Aster](../deities/lord_aster), [Martivir](../deities/martivir)
 
     **Identification:** The symbol of the order is a six pointed, golden star worn on the clothing or armour of the member knights.
 

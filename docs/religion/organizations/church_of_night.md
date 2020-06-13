@@ -8,7 +8,7 @@ authors:
 ## The Order of Assador {: .subtitle }
 
 * **Type:** Seclusion Ethos: Polytheistic
-* **Patron Deity:** [Assador](/religion/deities/assador), the Dark Lord
+* **Patron Deity:** [Assador](../deities/assador), the Dark Lord
 
 ## Worshippers:
 The followers of the Church of Night are often looked on in disdain.  They are seen as doomsayers and ignorant to most uninitiated.  Where operating in the open, they are often shunned for their practical interpretation if the Laws of The Fallen One, as spreading suffering is interpreted pragmatically.
@@ -16,7 +16,7 @@ The followers of the Church of Night are often looked on in disdain.  They are s
 Rumours are wide-spread, however, stating that the Church of Night has a secret ranking within the order.  Members are initiated through extreme and grotesque rituals, with the primary aim to bring forth more suffering onto the individuals - for their own enlightenment, as the Dark Lord revels in it, but also for the purposes of expanding the dominion of Loss.
 
 ## Priesthood:
-For the most part, the clergy of Assador acknowledge the existence of other deities, but see them as diluted in their essence, power and being.  Only Assador has read the [The Scroll of Creation](/cosmology/magic/mythical_artifacts/scrolls_of_creation), and only he has experienced the power of the the [Thirteen Seals](/cosmology/magic/mythical_artifacts/thirteen_seals_of_being) first hand.  As such, Assador is of higher standing in withing the cosmos, and his will is therefore superior to all other beings.
+For the most part, the clergy of Assador acknowledge the existence of other deities, but see them as diluted in their essence, power and being.  Only Assador has read the [The Scroll of Creation](../../../cosmology/magic/mythical_artifacts/scrolls_of_creation), and only he has experienced the power of the the [Thirteen Seals](../../../cosmology/magic/mythical_artifacts/thirteen_seals_of_being) first hand.  As such, Assador is of higher standing in withing the cosmos, and his will is therefore superior to all other beings.
 
 To be considered an initiate, one must not only have had to experience great loss, but also inflict it.  They are enlisted into a local cell, called a Chapter.  All members remain secret apart from a member Disciple, and an overseeing Vizier.  During gatherings, all members wear elaborate masks to hide their identities. Only when the initiate attains the rank of Disciple herself is the other members revealed.
 

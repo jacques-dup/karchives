@@ -11,7 +11,7 @@ authors:
 !!! info "Details"
     **Type:** Common Ethos: Polytheistic
 
-    **Patron:** [Elmara](/religion/deities/elmara)
+    **Patron:** [Elmara](../deities/elmara)
 
 ## Worshippers:
 Elmara's devout are graceful, diplomatic and radiates virtue. They are as the face of the goddess. Her followers are some of the best accomplished diplomats of the ages, as the blessings of the Lady propagates wisdom patience.

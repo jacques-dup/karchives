@@ -20,20 +20,20 @@ The _Inner City_ lies at the heart of the mountain and spans across three levels
     Tower Ward is open to the sky, at the upper-most point of the city itself. The _Second Wall's_ crest forms its foundation. The space is open with wide, paved roads. Access to the ward is restricted and the single entryway is guarded by members of the _Scepterguard_.
 
 ??? abstract "Sanctum District"
-    The Sanctum District is the upper floor of the underground portion of the city.  It sits on roughly the same level as the _Tower Ward_, but carved into the mountain. It's floor opens into a wide, elliptical space with buildings constructed around it's rim. At its center is a giant statue of [Ura](/religion/deities/ura), his outstretched hands holding aloft an orb of fire. It brings light and heat to the district, dimming by night and brightening by day.
+    The Sanctum District is the upper floor of the underground portion of the city.  It sits on roughly the same level as the _Tower Ward_, but carved into the mountain. It's floor opens into a wide, elliptical space with buildings constructed around it's rim. At its center is a giant statue of [Ura](../../../../religion/deities/ura), his outstretched hands holding aloft an orb of fire. It brings light and heat to the district, dimming by night and brightening by day.
 
 ??? abstract "Lower Ward"
     Below the _Sanctum District_ and roughly on the same elevation as the _Outer City_ lies the Lower Ward. It is a small area consisting of multiple carved tunnels and chambers that served as the main fortress of the city when it was founded. It provides residence for most of the city's Dwarven population and the city's nobility.
 
 |Wards|Places of Interest|
 |:--|:--|
-|Tower Ward|***[The Scarred Tower](/geography/settlements/niarnfell/places_of_interest/scarred_tower),*** political seat of the city and residence of the _Sebi_ (native: "chief")|
-||***The Observatorium,*** a garden shrine dedicated to [Nimwind](/religion/deities/nimwind)|
+|Tower Ward|***[The Scarred Tower](../places_of_interest/scarred_tower),*** political seat of the city and residence of the _Sebi_ (native: "chief")|
+||***The Observatorium,*** a garden shrine dedicated to [Nimwind](../../../../religion/deities/nimwind)|
 ||***Scepterguard Hold,*** a barracks for the Scepterguard, private army of the _Sebi_|
 |Sanctum District   |***The Academy of Abrinum,*** an independent order of Spellcasters operating under the city's restrictive codes for magical practices|
 ||***The Hanging Tower,*** the main district barracks, suspended from the district's ceiling.|
 ||***The Runecarvers Guild,*** a sovereign house representing the Dwarven interests within the city.|
-|Lower Ward         |***[The Sapphire Sword](/geography/settlements/niarnfell/places_of_interest/sapphire_sword),*** a popular tavern and inn for the affluent adventurer.|
+|Lower Ward         |***[The Sapphire Sword](../places_of_interest/sapphire_sword),*** a popular tavern and inn for the affluent adventurer.|
 ||***Carver's Lake,*** a large natural cavern and fresh water pool. Its banks are used for underground crop farming.|
 
 ## The Outer City
@@ -57,15 +57,15 @@ The _Outer City_ sits on the main level of the fortress, still elevated from the
 |Wards|Places of Interest|
 |:--|:--|
 |Cathedral Court|***Temple Gardens,*** a sculpted terrace, surrounded by a white wall, housing shrines for a multitude of deities.|
-||***[The Crossed Candles](/geography/settlements/niarnfell/places_of_interest/crossed_candles),*** a popular tavern and lodgings for the well-behaved|
+||***[The Crossed Candles](../places_of_interest/crossed_candles),*** a popular tavern and lodgings for the well-behaved|
 |Market Ward|***The Grand Market,*** is the largest commercial district of the Outer City, housing most of the merchant houses and traders guilds.|
 ||***The ruins of Olotl,*** a broken tower close to the gate. Its previous purpose is unknown, but it now serves as the barracks for the Outer City's law keepers, the _Adamantine Hammers_.|
-||***[The Minstrel and Pipe](/geography/settlements/niarnfell/places_of_interest/minstrel_and_pipe),*** is a fancy and lively tavern and inn with a good selection of tales, music and drink|
-||***[The Bronze Cask](/geography/settlements/niarnfell/places_of_interest/bronze_cask),*** is a common but well known establishment offering good food and drink and always has an extra bed to offer.|
+||***[The Minstrel and Pipe](../places_of_interest/minstrel_and_pipe),*** is a fancy and lively tavern and inn with a good selection of tales, music and drink|
+||***[The Bronze Cask](../places_of_interest/bronze_cask),*** is a common but well known establishment offering good food and drink and always has an extra bed to offer.|
 |Bells Ward|***Sentinel Towers,*** of which there are four - one on each corner of the district. They are used as sentry points for the city watch and doubles as small barracks.|
-||***[Hely's Enchanted Alchemy](/geography/settlements/niarnfell/places_of_interest/helys_alchemy),*** is a specialist alchemy, alchohol and potion shop.|
+||***[Hely's Enchanted Alchemy](../places_of_interest/helys_alchemy),*** is a specialist alchemy, alchohol and potion shop.|
 |Anvil Ward|***The Masons Guild,*** is situated in a large building roughly in the center of the district. All mining activity in the Twin Peaks are managed through the guild, bu law of the _Sebi_.|
-||***[The Naga's Arsenal](/geography/settlements/niarnfell/places_of_interest/nagas_arsenal),***|
+||***[The Naga's Arsenal](../places_of_interest/nagas_arsenal),***|
 |Village Ward|***The Resting Backpack,*** is a communal dorm for travellers unable to find space or who cannot afford the high prices of the inns inside the city. Here you can find lodgings for cheap, at the cost of comfort and the risk of thievery.|
 
 ## Organizations

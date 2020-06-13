@@ -25,7 +25,7 @@
     Entering the town from the lonely dock, one sees a neat plantation of fruit-bearing trees. Planted on the side of a cliff-like incline, it is owned and maintained by Alistair Cromwell, father of Dighii and one of the town elders.
 
 ??? abstract "Brother Hili's Office"
-    On the far side of the green is a small chapel dedicated to [Naásh Feramil](/religion/deities/naash_feramil). Attached to the chapel is a small office and residence of the town's mayor, Brother Hili.
+    On the far side of the green is a small chapel dedicated to [Naásh Feramil](../../../../religion/deities/naash_feramil). Attached to the chapel is a small office and residence of the town's mayor, Brother Hili.
 
 ## Surrounding Area
 The plains surrounding Sparrow's hole is considered untamed wilds, as most of the _Pheagas Rise_.  Ruins and caves are scattered, many of which have never been seen by the current inhabitants.

@@ -11,7 +11,7 @@ authors:
 !!! info "Details"
     **Type:** Common Ethos: Polytheistic 
 
-    **Patron:** [Lord Aster](/religion/deities/lord_aster)
+    **Patron:** [Lord Aster](../deities/lord_aster)
 
 ## Worshippers:
 The followers of Lord Aster seek out the guiding light in all situations, and take refuge in the sun as a symbol of the Morning Lord's strength. Even more so, they themselves become beacons of light in the dark world, proclaiming the word of the eternal sun.

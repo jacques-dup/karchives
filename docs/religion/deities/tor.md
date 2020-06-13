@@ -28,7 +28,7 @@ Mighty Tor stands posed for battle, clad in Mithril plate and an adorned helm as
 ### Genesis
 Tor is as old as the sky itself and has always been as that which came before. He is the son of creation and the father of lightning.  In the mythical ages he wandered the heavens without purpose, slamming the clouds to create endless storms on the primordial earth.
 
-It was [Armara](/religion/deities/armara) the Sky Mother who came to him first.  In the guise of a swan she flew to his cloud. The strange and beautiful creature intrigued the Thunder god and his storms ceased for a moment of respite. The goddess was stricken with admiration at Tor's immense strength, and turned herself back into her humanoid, Nymph form to speak to him.  Her beauty entranced Tor so, that he forgot his mindless rage.  His senses were focussed and driven to a new purpose.
+It was [Armara](../armara) the Sky Mother who came to him first.  In the guise of a swan she flew to his cloud. The strange and beautiful creature intrigued the Thunder god and his storms ceased for a moment of respite. The goddess was stricken with admiration at Tor's immense strength, and turned herself back into her humanoid, Nymph form to speak to him.  Her beauty entranced Tor so, that he forgot his mindless rage.  His senses were focussed and driven to a new purpose.
 
 Floating on his cloud, the pair conversed for days on end, and the skies cleared as never before.  They spoke as if they never spoke to any other beings before, about the sky, the sun and later the world beneath their gaze.
 

@@ -25,7 +25,7 @@ Assador does not manifest in person.  He is said to have the visage of a handsom
     - ***The Black Knight,*** as the First of the Fallen
 
 ## Associated Religious Organizations:
-* [Church of Night](/religion/organizations/church_of_night) (Primary church of Assador)
+* [Church of Night](../../organizations/church_of_night) (Primary church of Assador)
 
 ## Common Worship
 The followers of Assador are often looked on in disdain, as doomsayers and martyrs.  But even though the clergy may be disliked in general, the Dark Lord is often still regarded as a powerful entity and vessel for the suffering.
@@ -34,11 +34,11 @@ Wherever loss is experienced, Assador is called on to acknowledge the sufferer's
 
 ## Myths & Dogma
 ### Genesis
-Assador was once, long before a time of history, a divine lord of justice and paragon of truth.  Not much is know of these early days, nor the nature of the divine, but his image was that of a noble knight and righteous warrior.  His even-handed judgement was renowned and true.  But during the [Times of Turmoil](/history/ages/time_of_turmoil#the-god-wars), his account of what-should-be and what-was-not was challenged to the extent that he took it upon himself to become the judicator of those who suffered most.  Upon himself, he took the mantle of the suffering and embodied that of a vindicator.  He stepped out of his domain to challenge the order of the age, and was met with conflict.  
+Assador was once, long before a time of history, a divine lord of justice and paragon of truth.  Not much is know of these early days, nor the nature of the divine, but his image was that of a noble knight and righteous warrior.  His even-handed judgement was renowned and true.  But during the [Times of Turmoil](../../../history/ages/time_of_turmoil#the-god-wars), his account of what-should-be and what-was-not was challenged to the extent that he took it upon himself to become the judicator of those who suffered most.  Upon himself, he took the mantle of the suffering and embodied that of a vindicator.  He stepped out of his domain to challenge the order of the age, and was met with conflict.  
 
 His divine brethren reprimanded his zeal, pushed back on his offerings.  They stripped him of his titles and dominions as he had overstepped his purpose without yield.  He became the face of loss and punishment amongst a world filled with injustice, pain and inexplicable duality.  Confusion replaced order and chaos overruled the laws that once were.
 
-Deciding to take matters into his own hands Assador ventured to the realms of the unknown, bordering on the [Void of Creation](/cosmology/planes/void_of_creation).  He learned of an artifact called [The Scroll of Creation](/cosmology/magic/mythical_artifacts/scrolls_of_creation).  Lost amid the Void and the Outer Planes, Assador learned of a power even greater than that of the divine, a power so great that even the beings who created the universe could not contain or control it.  He learned that the cosmos contained within itself [Thirteen Seals of Being](/cosmology/magic/mythical_artifacts/thirteen_seals_of_being), each a pillar upon which the cosmos is built.
+Deciding to take matters into his own hands Assador ventured to the realms of the unknown, bordering on the [Void of Creation](../../../cosmology/planes/void_of_creation).  He learned of an artifact called [The Scroll of Creation](../../../cosmology/magic/mythical_artifacts/scrolls_of_creation).  Lost amid the Void and the Outer Planes, Assador learned of a power even greater than that of the divine, a power so great that even the beings who created the universe could not contain or control it.  He learned that the cosmos contained within itself [Thirteen Seals of Being](../../../cosmology/magic/mythical_artifacts/thirteen_seals_of_being), each a pillar upon which the cosmos is built.
 
 Assador's intention, his will to power greater than his own, drove him to seek out the Seals.  It is said that he stumbled on enough rumours and sense that he was able to locate one. Its essence could not be manifested physically.  Its presence made know only through the thin veils between realms.  Unable to harness the power he sought, the Dark Lord lashed out with what remained of his own divine essence.  His cry resounded through the planes of existence and hammered through the cosmos due to his close proximity to the Seal. Blindly calling forth the essences of the Void he thrashed, disseminating his own being and throwing himself into the depths of the Void.  
 

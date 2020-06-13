@@ -11,7 +11,7 @@ authors:
 !!! info "Details"
     **Type:** Verdant Ethos: Polytheistic Animism
 
-    **Patron:** [Erthan](/religion/deities/erthan)
+    **Patron:** [Erthan](../deities/erthan)
 
 ## Worshippers:
 The devout of Erthan consider themselves in the care of the divines, in particular Erthan the Father of the Fields. They are not merely his worshippers, they are his children, his charges.

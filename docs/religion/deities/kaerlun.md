@@ -22,7 +22,7 @@ Kearlun often takes the form of any large apex predator native to the region.  W
 
 ## Associated Religious Organizations
 * 
-* [The Circle of Arcana](/religion/organizations/circle_of_arcana) (Loose pantheon associate)
+* [The Circle of Arcana](../../organizations/circle_of_arcana) (Loose pantheon associate)
 
 ## Common Worship
 

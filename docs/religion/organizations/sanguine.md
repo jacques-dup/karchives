@@ -8,7 +8,7 @@ authors:
 ## The Worshipping of Lilith {: .subtitle }
 
 * **Type:** Common Ethos: Polytheistic
-* **Patron Deity:** [Lilith](/religion/deities/lilith)
+* **Patron Deity:** [Lilith](../deities/lilith)
 
 ## Worshippers:
 The Sanguine follows a simple philosophy of primal urges. Their organization is less order more association, as their members tend to have an healthy disregard for established rules.

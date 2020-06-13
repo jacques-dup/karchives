@@ -7,9 +7,9 @@
 > The sky is painted in gold and crimson as the sun rises over the hilly horizon of the open plains. Rolling hills of grass and interspersed woods stretch out as far as the eye can see. Stone monoliths rising from beneath the ground stretching up toward the heavens. It is a land of open spaces, vast riches, and the humble folk that call it home.
 
 ## Culture
-The [Narr](/people/by_region/niarnfell) culture is that of history, honour and virtue. The have a verdant ethos, almost tribal in nature, yet are do not shun from progress and the unknowns of new ideas. They live in tune with nature and have a strong tradition in fieldcraft, herbalism and hunting.
+The [Narr](../../../people/by_region/niarnfell) culture is that of history, honour and virtue. The have a verdant ethos, almost tribal in nature, yet are do not shun from progress and the unknowns of new ideas. They live in tune with nature and have a strong tradition in fieldcraft, herbalism and hunting.
 
-The people tend to be accepting of outsiders, and evolve their own beliefs based on their encounter, but remain true to their basic morals and virtues throughout. Very much influenced by the Dwarven Imperium which conquered the lands in the [Age of Stone](/history/ages/age_of_stone) they are hardy and hard working, often regarded as stoic and unmoving, but with a friendly, accepting demeanor.
+The people tend to be accepting of outsiders, and evolve their own beliefs based on their encounter, but remain true to their basic morals and virtues throughout. Very much influenced by the Dwarven Imperium which conquered the lands in the [Age of Stone](../../../history/ages/age_of_stone) they are hardy and hard working, often regarded as stoic and unmoving, but with a friendly, accepting demeanor.
 
 ## Geographical Regions
 ### The Toro Fields
