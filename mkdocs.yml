@@ -79,7 +79,12 @@ nav:
   - Geography:
     - geography/aklatoria.md
     - geography/realms/agaea.md
+    - geography/realms/kalibora.md
     - geography/realms/niarnfell.md
+  - Cosmology:
+    - cosmology/index.md
+    - cosmology/magic.md
+    - cosmology/planes.md
   - Language:
     - language/dwarven.md
     - language/vestii.md

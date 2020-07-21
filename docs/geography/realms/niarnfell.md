@@ -1,3 +1,8 @@
+---
+title: Ni'arnfell, the Barbarian Kingdoms
+authors:
+    - Jacques du Plessis
+---
 # Ni'arnfell
 ## The Barbarian Kingdom {: .subtitle}
 
@@ -149,7 +154,7 @@ South of the Harperbell River and West of the Ferrovein, lies the mountain named
 |:--|---|---|
 |[Fort Olihm](../../settlements/niarnfell/fort_olihm)|Dwarf Fort||
 |[Fort Ablár](../../settlements/niarnfell/fort_ablar)|Dwarf Fort||
-|[Silverrough](../../settlements/niarnfell/siverrough)|Village||
+|[Silverrough](../../settlements/niarnfell/silverrough)|Village||
 
 ### Thunrastur
 Isolated, looking out over the Great Barbarians Gulf and guarded by the Twinslate Mountains, is a humble region known as Thunrastur. A place of little interest to the outside world, its inhabitants enjoy the peace and quiet of the tranquil and pristine land.

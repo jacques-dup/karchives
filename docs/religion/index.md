@@ -29,6 +29,9 @@ That which makes a being divine is an essence known as Divine Source.  It is a r
     7. **Major Deities:** Those Deities with major portfolios, who have no dependence on worship to remain powerful, are known as Major Deities.
     8. **Elder Beings:** The common Polytheistic Ethos of Aklatoria acknowledges that none of the Major Deities known to the world has created it. It is therefore believed that there is a Divine Source above them, though it has never been proven. These ultimate Sources are referred to as Elder Beings.
 
+??? abstract "Origins of Divine Source"
+    No one truly knows what Divine Source is, but those who have studied it or were able to eavesdrop on the conversations of the gods, know that it is linked to the Cosmic Plane called the [Soul Forge](../cosmology/planes/soul_forge). 
+
 
 ## Common Deities
 |Name|Align.|Portfolio|Organizations|

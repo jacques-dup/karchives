@@ -1,5 +1,11 @@
 # Version History
 
+## Version 0.0.2 (The Dwarf)
+* Pages are now relatives
+* Added Realm: Kalibora
+* Dwarves can speak more
+* Added Basic Cosmology
+
 ## Version 0.0.1 (The Divine)
 * Added Cosmology: (Artificium Campestribus, Heldar, Ad Materia, Reilagg)
 * Added Realm: Agaea, Ni'arnfell

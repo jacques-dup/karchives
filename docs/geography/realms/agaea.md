@@ -1,3 +1,8 @@
+---
+title: Agaea, the White Sands of the Dragon Lords
+authors:
+    - Jacques du Plessis
+---
 # Agaea
 ## The Great Desert {: .subtitle}
 
