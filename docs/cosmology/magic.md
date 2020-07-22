@@ -7,7 +7,7 @@ Magic in [Aklatoria](../../geography/aklatoria) is plentiful and seemingly endle
 But it is a resource bound by rules - the physics, if you will, of the cosmos. Drawing its power to shape the world has consequences, and it is not certain if even [Maia](../../religion/deities/maia), the goddess of the Arcane even knows or understands them all.
 
 ## The Myst
-The substance of magic, if it can be called as such, is labelled as Myst. In part the same "thing" that makes up the transient plane of [Myst](../planes/myst), but also a "substance" of sorts on its own. It can manifest as smokey tendrils the eye can see, invisible sparkling fixtures or even tangible crystals. The physical representation of the Myst is endless.
+The substance of magic, if it can be called as such, is labelled as Myst. In part the same "thing" that makes up the transient plane of [Myst Aether](../planes/myst), but also a "substance" of sorts on its own. It can manifest as smokey tendrils the eye can see, invisible sparkling fixtures or even tangible crystals. The physical representation of the Myst is endless.
 
 The Myst substance has locked inside of it the patterns of the cosmos, mirrored to some extent in physical form. These patterns can be unraveled by skilled Mages to produce magical effects, commonly known as spells.
 

@@ -2,7 +2,7 @@
 
 > There I stood at the foot of a great shaft of black. It sparkled like a million stars, yet dulled the air around it in a shroud of liquid air. I could not see the top of the canopy from where I stood, and looking at my feet it was as if I could see the million tiny lights speed up and down through its massive roots, penetrating the forces of reality that binds us to this place.
 
-The World Trees are, Always were, and Ever will be. Its roots reach out like tendrils through all of creation, piercing the [Myst](../../../planes/myst) and binding the celestial bodies into place. They exist outside of time, yet manifest inside of it, anchoring the dimensions into its current reality.
+The World Trees are, Always were, and Ever will be. Its roots reach out like tendrils through all of creation, piercing the [Myst Aether](../../../planes/myst) and binding the celestial bodies into place. They exist outside of time, yet manifest inside of it, anchoring the dimensions into its current reality.
 
 No one truly knows how many manifest the world of [Aklatoria](../../../../geography/aklatoria), but The Kobold Archives list five that have been discovered through history. They theorize that each one was germinated from the five mythological [Seeds of Life](../../../../history/myths/seeds_of_life) and is to some extent believed to be linked to the races associated with these Seeds, though it is considered a conjecture more than a supported theory.
 
