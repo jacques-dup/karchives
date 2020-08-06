@@ -7,7 +7,7 @@
 
 > Magma bubbles up through the crimson rocks, the smell of brimstone expunging all other senses. Great bulges of aberrant fauna crack open the jagged soil. The sky bleeds a marble glint onto the horizon, almost a a beacon of hope in the dark chaotic world, but alas. There are no constants in this ever shifting plane, no certainty and no points of reference. It is a place of lost souls, and dangerous, epically dangerous creatures, unbound by that alien concept of justice.
 
-The Red Moon of Aklatoria, Nox the eternal. A land bound only by the cosmic truth of chaos has no shape or constant form. Its features shift constantly, the only common aspect being the crimson colored terrain. Storms are a constant threat, bringing acid rains and fiery skies. But even more obtrusively, the plane affects one's mind and moods in a psychic onslaught.
+The Red Moon of Aklatoria, Nox the eternal. A land bound only by the cosmic truth of chaos has no shape or constant form. Its features shift constantly, the only common aspect being the crimson colored terrain. Storms are a constant threat, bringing acid rains and fiery skies. But even more obtrusively, the plane affects one's mind and moods in a psychic onslaught. As if not enough, great areas of Wild Magic exist as the lines between the [Myst](../planes/myst.md) become blurred.
 
 Cities exist on the rugged land, mostly carved out from deep caves and fortified by divine magic. Many dot the land, but they are as dangerous as the wilderness around it, for the denizens consist of all manner of chaotic outsiders.
 
@@ -28,3 +28,6 @@ Nox is not ruled. It is not owned or even wants to be owned. What exists instead
     At the forefront of the destructive natures of the Red Moon stands the divine sect of the goddess of chaos itself, [Seth](../../religion/deities/seth.md). Outsiders who serve her on Nox join up with the divine temple of the [Chantry](../../religion/organizations/chantry_of_the_sisters.md). It is said that the goddess herself has a sanctuary at the heart of the temple and through the nature of the land her influence is especially strong.
 
 ## Gateways
+Being part ot the [Inner Circle Planes](../planes.md#inner-circle), Nox is cosmically tied to Aklatoria, and many gateways exist between dimensions through the [Nether Realm](../planes/nether.md). There are no known gateways directly between the two, and it is written in the [Laws of Transvergeance](../planes/aegis.md#laws), that no direct gateway between the _Inner Circle_ planes can exist and can only be bound through the Nether.
+
+The [Transient Myst](../planes/myst.md) is also very present on Nox and as such _Ripples_ are bountiful, uncontrolled and coincidental for the most part.

@@ -53,3 +53,8 @@ Aegis in built on the concept of Law, and the application of law forms part of t
     Mortals may only enter the realm of Aegis if they possess an invitation in the form of a Silver Seal. These can only be created by the Noble Houses of Aegis and its sole purpose is to bring a mortal to the Courts of Aegis Prime for a cosmic ruling of some kind. Mortals who are discovered are captured and will most likely spend the remainder of their life in and out of holdings where they are to pass through the convoluted legislative processes of the Aegissian courts. Executions are common, though there are cases where mortals were sent to different planes as convict labourers or forces conscription into the Aegissian army.
 
 ## Gateways
+Being part ot the [Inner Circle Planes](../planes.md#inner-circle), Aegis is cosmically tied to Aklatoria, and many gateways exist between dimensions through the [Nether Realm](../planes/nether.md). There are no known gateways directly between the two, and it is written in the [Laws of Transvergeance](#laws), that no direct gateway between the _Inner Circle_ planes can exist and can only be bound through the Nether.
+
+Connections to the [Transient Myst](../planes/myst.md) is structured and guarded by the natives. Access is controlled and recorded.
+
+Some locations that have been fortified with Magic, where _Mystic Ripples_ are especially strong, the Aegissians have created hubs known as _Dimensional Crossroads_. Here the Roots of the Myst manifest in various ways, through great, vertical pools or simple doorways and may lead to a multitude of different places and planes.
