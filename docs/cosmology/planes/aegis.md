@@ -31,7 +31,7 @@ The Noble houses of Aegis consist of lineage factions that have existed form mil
 **Notable Houses**
 
 ??? abstract "House Hannos"
-    Known as the Watchers of Angelicae, the House of Hannos is one of the most influential organizations on Aegis. They are headed by the patriarch of the Hannos familia, an immortal Archon of the Triumvirate, though both celestials and fiends make up their ranks.
+    Known as the Watchers of Angelicae, the House of Hannos is one of the most influential organizations on Aegis. Bent on justified and lawful rule over Aegis and that of the cosmos, they are headed by the patriarch of the Hannos familia, an immortal Archon of the Triumvirate, though both celestials and fiends make up their ranks.
 
 ??? abstract "House Michae"
     Known as the Seven Suns, the House of Michae serve the needs of their patron god, [Lord Aster](../../religion/deities/lord_aster.md). Believed to be born of the Sun god himself, the seven Solar brothers that stand at the head of the House are known as the Sons fo Michael, their Angelic father, the bringer of light.
