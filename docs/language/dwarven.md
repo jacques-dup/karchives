@@ -71,6 +71,8 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |deep | djup|
 |deeper | zadjupitn|
 |demon|durdor|
+|dig | grö (v) |
+|digger | grödar (n) |
 |disaster | guryel|
 |do | ra|
 |down | nidas|
