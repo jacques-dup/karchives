@@ -28,6 +28,6 @@ Nox is not ruled. It is not owned or even wants to be owned. What exists instead
     At the forefront of the destructive natures of the Red Moon stands the divine sect of the goddess of chaos itself, [Seth](../../religion/deities/seth.md). Outsiders who serve her on Nox join up with the divine temple of the [Chantry](../../religion/organizations/chantry_of_the_sisters.md). It is said that the goddess herself has a sanctuary at the heart of the temple and through the nature of the land her influence is especially strong.
 
 ## Gateways
-Being part ot the [Inner Circle Planes](../planes.md#inner-circle), Nox is cosmically tied to Aklatoria, and many gateways exist between dimensions through the [Nether Realm](../planes/nether.md). There are no known gateways directly between the two, and it is written in the [Laws of Transvergeance](../planes/aegis.md#laws), that no direct gateway between the _Inner Circle_ planes can exist and can only be bound through the Nether.
+Being part ot the [Inner Circle Planes](../planes.md#inner-circle), Nox is cosmically tied to Aklatoria, and many gateways exist between dimensions through the [Nether Realm](../planes/tartarus.md). There are no known gateways directly between the two, and it is written in the [Laws of Transvergeance](../planes/aegis.md#laws), that no direct gateway between the _Inner Circle_ planes can exist and can only be bound through the Nether.
 
 The [Transient Myst](../planes/myst.md) is also very present on Nox and as such _Ripples_ are bountiful, uncontrolled and coincidental for the most part.

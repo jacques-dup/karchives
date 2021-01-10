@@ -16,8 +16,8 @@ Beneath, parallel, universal, encompassing. The link between the tangible realms
 These planes exist in parallel to the Material realm and to some extent form part of it. They connect through the roots of the World trees and as such, the borders between them are often blurred.
 
 ??? abstract "Known Echo Realms:"
-    - _**[Nether:](./planes/nether.md)**_ The parallel battlegrounds of Law and Chaos. Also known as _Limbo_.
-    - _**[Sheol, the Soul Forge:](./planes/sheol.md)**:_ The _core_ of the world, the primal source of its mystical powers. The place where the essences of life rests.
+    - _**[Tartarus:](./planes/tartarus.md)**_ The parallel battlegrounds of Law and Chaos. Also known as _Limbo_ or _The Barrier_.
+    - _**[Elysium:](./planes/elysium.md)**_ The _core_ of the world, the primal source of its mystical powers. The place where the essences of life rests. Also known as _The Soul Forge_
     - _**[Gaia:](./planes/gaia.md)**_ The _heart_ of the world, where the primordial essence of nature is bound.
 
 ## Inner Circle
