@@ -8,15 +8,11 @@ authors:
 ## The god of Mischief, Illusion, Intelligence and Luck {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Chaotic Good
-
-    **Domains:** Arcana, Trickery
-
-    **Symbol:** A depiction of an Open Mouth, its Tongue protruding outward and encircling it.
-
-    **Followers:** Tricksters, Performers, Rogues, Good Aligned Thieves, and all with a hint of mischief in their hearts.
+    - **Type:** Major Deity
+    - **Alignment:** Chaotic Good
+    - **Domains:** Arcana, Trickery
+    - **Symbol:** A depiction of an Open Mouth, its Tongue protruding outward and encircling it.
+    - **Followers:** Tricksters, Performers, Rogues, Good Aligned Thieves, and all with a hint of mischief in their hearts.
 
 Stryder embodies illusion and as such his form shifts often. In many of his depictions, he resembles a fox-like humanoid clad in a long coat, with a wide brimmed hat hiding his eyes, but those who claim to have met him give varied accounts. He is however fond of illusions and tricks, and most often leaves his calling card in the form of a perpetually spinning, gold coin that vanishes when you try to pick it up.
 
@@ -35,7 +31,7 @@ None of the divine believed that Stryder would be able to survive their onslaugh
 
 [Leonne](../leonne) was first and chose to call forth a great hunter to catch the little fox. She turned herself into a giant tiger and gave chase. But the little fox was quick as well, and with a little bit of luck on his side, managed to crawl into a tiny hole, to small for the tiger to fit into.  After an hour of frantic roaring and clawing at the earth, the gods agreed that the first challenge was passed.
 
-Next they chose [Ornim]../ornim), for he would be able to use the earth itself to crush the fox inside his hole.  But the crafty fox had anticipated such a move and had long since found another way out of his hiding spot. As the earth started to shake, the little fox was looking down from the branches of a great oak, free from the destructive trembles.  When Ornim finally realized that the little fox wasn't in the hole any more, enough time had passed that the second challenge was deemed a pass.
+Next they chose [Ornim](../ornim), for he would be able to use the earth itself to crush the fox inside his hole.  But the crafty fox had anticipated such a move and had long since found another way out of his hiding spot. As the earth started to shake, the little fox was looking down from the branches of a great oak, free from the destructive trembles.  When Ornim finally realized that the little fox wasn't in the hole any more, enough time had passed that the second challenge was deemed a pass.
 
 The third challenger was [Armara](../armara), who saw the crafty fox in the tree, and called for a great owl to grab it from it's perch.  With a little bit of luck, Stryder leapt from the branch just as the owl swooped in and was able to escape.  He fell between the long grass below, where the owl could not see him, and Armara halted her pursuit as she was starting to root for the little fox herself.
 

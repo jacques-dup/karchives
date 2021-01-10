@@ -9,7 +9,7 @@
 > 
 > The mechanical lizard stuck its tendrils into the earth as the descended into the deep. Lights danced as critters and fungi fled from its path. It slithered through the majestic Undermountain, pillars of crystal intertwined with roots and gigantic mushroom trees lighting the way down. The sight was beautiful yet primal and instinctual. Aria shuddered at the thought of her losing her mind to this place, as so many have done before her.
 
-Gaia, or _The Fearie_ as some call it is a wonderful and majestic place that mimics the natural flows of the [Material Realm](../planes/materia.md). It stands as the primal source of what the world is intended to be in ots most primordial form, and its energies feed the power of the [World Trees](../magic/places_of_power/world_trees.md) across the cosmos.
+Gaia, or _The Fearie_ as some call it is a wonderful and majestic place that mimics the natural flows of the [Material Realm](../planes/materia.md). It stands as the primal source of what the world is intended to be in its most primordial form, and its energies feed the power of the [World Trees](../magic/places_of_power/world_trees.md) across the cosmos.
 
 ## Time and Timelessness
 The concepts of time, cause and effect, and the nature of the passing moments are obscured, skewed and ambivalent In some instances it seems to be a realm untouched by change, and in contrast it can be more chaotic than [Nox](../planes/nox.md) itself. It is common to see cities appear overnight as if a hundred years have passed, only to disappear like mist before the sun, as if its rise was a mere dream.
