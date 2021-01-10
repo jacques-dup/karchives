@@ -36,7 +36,7 @@ The Outer Circle groups together the planes that are spread far from Aklatoria. 
     - _**[Ruune (The Crown):](./planes/ruune.md)**_ The vault of [Maia](../religion/deities/maia.md), filled with starlight of gold.
     - _**[Shole (The Phoenix):](./planes/shole.md)**_ The fiery sky world of [Armara](../religion/deities/armara.md).
     - _**[Eltis (The Hare):](./planes/eltis.md)**_ The paradise world of [Naásh Feramil](../religion/deities/naash_feramil.md)
-    - _**[Umber (The Emerald Lion):](./planes/umber.md)**_ The Three-sun vigil, claimed by [Lord Aster](../religion/deities/../../docs/religion/deities/lord_aster.md)
+    - _**[Umber (The Emerald Lion):](./planes/umber.md)**_ The Three-sun vigil, claimed by [Lord Aster](../religion/deities/lord_aster.md)
     - _**[Onus (The Southern Chalice):](./planes/onus.md)**_ The barren land where the spirit of [Erthan](../religion/deities/erthan.md) has its final rest after the apocalypse.
     - _**[Kesra (The Great Tree):](./planes/kesra.md)**_ The sprouting root world of the Great Trees amd gateway to the Far Realms, claimed by [Opus](../religion/deities/opus.md).
     - _**[Kelon (The Fractured Wheel):](./planes/kelon.md)**_ The sanctuary where [Ornim](../religion/deities/ornim.md) tends the graceless dead.
