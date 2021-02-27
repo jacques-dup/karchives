@@ -78,6 +78,10 @@ nav:
     - cosmology/index.md
     - cosmology/magic.md
     - cosmology/planes.md
+  - Races:
+    - people/races/aarakocra.md
+    - people/races/chentoo.md
+    - people/races/dwarves.md
   - Language:
     - language/dwarven.md
     - language/vestii.md
@@ -89,6 +93,7 @@ nav:
       - religion/organizations/church_of_blood_and_bone.md
       - religion/organizations/church_of_night.md
       - religion/organizations/circle_of_arcana.md
+      - religion/organizations/circle_of_justice.md
       - religion/organizations/circle_of_vitalis.md
       - religion/organizations/court_of_the_white_mask.md
       - religion/organizations/cult_of_the_black_cloud.md
