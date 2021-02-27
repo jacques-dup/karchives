@@ -8,15 +8,11 @@ authors:
 ## The god of Wealth, Cities, Trade and Industry {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Lawful Neutral
-
-    **Domains:** Ambition, City*, Order
-
-    **Symbol:** A Golden coin with a depiction of a Crow on one side.
-
-    **Followers:** Merchants, Traders, City Dwellers, those who value and build on industry and pursue the accumulation of wealth.
+    - **Type:** Major Deity
+    - **Alignment:** Lawful Neutral
+    - **Domains:** Ambition, City*, Order
+    - **Symbol:** A Golden coin with a depiction of a Crow on one side.
+    - **Followers:** Merchants, Traders, City Dwellers, those who value and build on industry and pursue the accumulation of wealth.
 
 Madis more often sends his Crow, a beast called _Shimmer_ as his envoy, but when he does manifest in form he is seen as a figure resembling a Gnome merchant clad in silks and gold.
 

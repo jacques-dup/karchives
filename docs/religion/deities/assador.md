@@ -8,15 +8,11 @@ authors:
 ## The god of the Fallen, Suffering and Loss {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Lawful Evil
-
-    **Domains:** Darkness, Destruction, War
-
-    **Symbol:** Two folded, bloodied angel wings encircled in brass.
-
-    **Followers:** Fallen Knights, Black Paladins, Assassins, those who have endured great suffering or those who question the ideals of morality over law.
+    - **Type:** Major Deity
+    - **Alignment:** Lawful Evil
+    - **Domains:** Darkness, Destruction, War
+    - **Symbol:** Two folded, bloodied angel wings encircled in brass.
+    - **Followers:** Fallen Knights, Black Paladins, Assassins, those who have endured great suffering or those who question the ideals of morality over law.
 
 Assador does not manifest in person.  He is said to have the visage of a handsome humanoid knight wearing black armour and having crimson bat-like wings. Instead his will is made known in person through his subjects by means of possession or through the summoning of Incubi agents.
 

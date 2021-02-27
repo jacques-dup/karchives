@@ -8,15 +8,11 @@ authors:
 ## The god of the Forests and Mountains {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Lawful Neutral
-
-    **Domains:** Nature, Protection, Strength
-
-    **Symbol:** A Branch of Ironwood with a single leaf
-
-    **Followers:** Rangers, Druids, and those who live in tune with the natural order of the world.
+    - **Type:** Major Deity
+    - **Alignment:** Lawful Neutral
+    - **Domains:** Nature, Protection, Strength
+    - **Symbol:** A Branch of Ironwood with a single leaf
+    - **Followers:** Rangers, Druids, and those who live in tune with the natural order of the world.
 
 Opus of the Trees takes on the form of a colossal Ent, a rumbling Earth Elemental, or even a giant Mushroom Tree. His face appears as an aged man within these visions, wearing a long beard and faraway gaze.
 

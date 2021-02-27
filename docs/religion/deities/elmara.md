@@ -8,15 +8,11 @@ authors:
 ## The goddess of Diplomacy, Royalty and Nobility {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Lawful Good
-
-    **Domains:** Order, Protection, Unity
-
-    **Symbol:** A gold cast crown encircled in runes.
-
-    **Followers:** Knights, Nobility, Diplomats and all who believe in the honour of keeping to a unified morality.
+    - **Type:** Major Deity
+    - **Alignment:** Lawful Good
+    - **Domains:** Order, Protection, Unity
+    - **Symbol:** A gold cast crown encircled in runes.
+    - **Followers:** Knights, Nobility, Diplomats and all who believe in the honour of keeping to a unified morality.
 
 Elmara's form is that of an elegant Lady of Court.  Her gown shimmers with a thousand colours, her skin glowing, alabaster, smooth and decorated.  Lace and feathers coupled with gems and pearls wrap her body, subtly twinkling in a graceful chime as she walks.  Her eyes are covered in an emerald mask, emphasizing her striking, ice-blue eyes and her heir is tightly woven into an elegant braid, turned up to reveal her slender neck.  When she speaks, her words flow like water over cobbles and all who hear are in awe of her beautiful wisdom.
 
@@ -26,6 +22,7 @@ Elmara's form is that of an elegant Lady of Court.  Her gown shimmers with a tho
 ## Associated Religious Organizations
 * [The Benign Assembly](../../organizations/benign_assembly)
 * [The Ordos Valorium](../../organizations/ordos_valorium) (Pantheon of Honour and Valor)
+* [The Circle of Justice](../../organizations/circle_of_justice) (Pantheon of Law and Justice)
 
 ## Common Worship
 The Lady is worshiped across the realms by all who walk the halls and courts of civilization.  Her essence is the pinnacle of diplomatic grace, elegance and royalty.  As such she is revered by kings and queens, and servants of the throne alike.

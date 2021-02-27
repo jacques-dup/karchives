@@ -26,7 +26,7 @@ The Inner Circle groups together the planes in close cosmic proximity to Aklator
 ??? abstract "Known Inner Circle Planes:"
     - _**[Aegis:](./planes/aegis.md)**_ The Silver Moon. Pinnacle of Law and Order and the home of Lawful Outsiders.
     - _**[Nox:](./planes/nox.md)**_ The Crimson Moon. Pinnacle of Chaos and Destruction and the home of Chaotic Outsiders.
-    - _**[Ordinia:](./planes/ordinia.md)**_ The Floating Castle of Selflessness and Justice, circling the Sun and home to the Divine Lawbringers.
+    - _**[Ordinia:](./planes/ordinia.md)**_ The Floating Castle of Selflessness and Justice, circling the Sun and home to the Divine Law-bringers.
     - _**[Crevatorus:](./planes/crevatorus.md)**_ The Scattered Debris of The Void Seed, filled with deep holes and gateways to the Abyss.
 
 ## Outer Circle:

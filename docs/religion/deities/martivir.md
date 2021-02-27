@@ -8,20 +8,16 @@ authors:
 ## The god of Justice {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Lawful Neutral
-
-    **Domains:** Protection, Order, Unity
-
-    **Symbol:** Silver (Aegis) disc with golden scales
-
-    **Followers:** Judges, Paladins, and all who believe that your deeds are measured in the end.
+    - **Type:** Major Deity
+    - **Alignment:** Lawful Neutral
+    - **Domains:** Protection, Order, Unity
+    - **Symbol:** Silver (Aegis) disc with golden scales
+    - **Followers:** Judges, Paladins, and all who believe that your deeds are measured in the end.
 
 Martivir manifest as he was before ascending to divinity, as an ancient, great Dragon. With scales of golden fire, The Dragon is wise beyond knowing, and carries the scales of justice around his neck.
 
 ## Associated Religious Organizations
-
+* [The Circle of Justice](../../organizations/circle_of_justice) (Pantheon of Law and Justice)
 ## Common Worship
 
 ## Myths & Dogma

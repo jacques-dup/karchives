@@ -8,15 +8,11 @@ authors:
 ## The god of Dirt and Tombstones {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Neutral
-
-    **Domains:** Grave, Nature
-
-    **Symbol:** A Skeletal Hand holding an Apple
-
-    **Followers:** Undertakers, Naturalists, Earth-Elementalists, those who tend to the dead.
+    - **Type:** Major Deity
+    - **Alignment:** Neutral
+    - **Domains:** Grave, Nature
+    - **Symbol:** A Skeletal Hand holding an Apple
+    - **Followers:** Undertakers, Naturalists, Earth-Elementalists, those who tend to the dead.
 
 Ornim primarily manifests through possession of the recently deceaced, those who's graves have not yet been erected and can be identified through the corpse carrying his sacred apple. What he truly looks like in physical form is unknown, even in the divine realms as Ornim keeps himself hidden behind cloaks and barriers.
 

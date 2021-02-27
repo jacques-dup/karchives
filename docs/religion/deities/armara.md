@@ -8,15 +8,11 @@ authors:
 ## The goddess of the Sky {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Neutral Good
-
-    **Domains:** Life, Nature
-
-    **Symbol:** A cord bound feather from a bird of prey.
-
-    **Followers:** Travellers, Healers, People living on open plains, druids and Spiritualists.
+    - **Type:** Major Deity
+    - **Alignment:** Neutral Good
+    - **Domains:** Life, Nature
+    - **Symbol:** A cord bound feather from a bird of prey.
+    - **Followers:** Travellers, Healers, People living on open plains, druids and Spiritualists.
 
 Armara and her agents manifest as a bird of prey, often observing humanoids from a close perch.  When choosing to manifest in humanoid form she is said to take on the form of a white robed nymph, with wings formed from air, as if the clouds itself condense to bring her into motion.  Though never seen wielding arms, she is most often associated with an elegant longbow, decorated with feathers.
 

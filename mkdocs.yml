@@ -4,10 +4,8 @@ copyright: No Commercial Licence - All rights reserved Jacques du Plessis
 site_url: https://jacques-dup.github.io/karchives/
 repo_name: 'jacques-dup/karchives'
 repo_url: 'https://github.com/jacques-dup/karchives'
-
 theme:
   name: material
-
 extra_css:
   - ./assets/css/custom.css
 extra:
@@ -16,9 +14,6 @@ extra:
           link: https://github.com/jacques-dup/karchives
         - type: envelope
           link: mailto:jdples@gmail.com
-
-
-
 theme:
     name: material
     logo:
@@ -33,7 +28,6 @@ theme:
         code: Ubuntu Mono
     feature:
         # tabs: true
-
 markdown_extensions:
     - toc:
           permalink: false
@@ -70,7 +64,6 @@ markdown_extensions:
     # Use this for timeline and event maps
     - markdown_include.include
     - admonition
-
 nav:
   - index.md
   - Dev Diary:

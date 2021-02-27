@@ -8,15 +8,11 @@ authors:
 ## The Lord of Dragons, Dragon kind and Draconic Lore {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Lawful Neutral
-
-    **Domains:** Arcana, Knowledge, Order
-
-    **Symbol:** A Silhouetted Sigil of a Dragon in shale, its wings spread outward and its head turned upward, adorned with tiny gems and metals of all the coloured dragons.
-
-    **Followers:** Dragons, Dragonborn, Kobolds, Dragon-blood sorcerers, and all who identify as dragon kin.
+    - **Type:** Major Deity
+    - **Alignment:** Lawful Neutral
+    - **Domains:** Arcana, Knowledge, Order
+    - **Symbol:** A Silhouetted Sigil of a Dragon in shale, its wings spread outward and its head turned upward, adorned with tiny gems and metals of all the coloured dragons.
+    - **Followers:** Dragons, Dragonborn, Kobolds, Dragon-blood sorcerers, and all who identify as dragon kin.
 
 Throden resembles an ancient White dragon. Prismatic veins cover his scales as scars, shifting colours eerily. Surrounding him is an aura of awe, fear, and surprising benevolence at first, as his silver eyes laced with golden specs bore down into your soul.
 

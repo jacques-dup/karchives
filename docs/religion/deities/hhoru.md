@@ -8,15 +8,11 @@ authors:
 ## God of Blood, Sacrifice and Spirits of Nature {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Neutral Evil
-
-    **Domains:** Grave, Nature, Twilight
-
-    **Symbol:** The Moontongue Death rune, drawn in Blood
-
-    **Followers:** Shaman, Barbarians, Cannibals, Death worshippers, Evil Fey, Evil Elves.
+    - **Type:** Major Deity
+    - **Alignment:** Neutral Evil
+    - **Domains:** Grave, Nature, Twilight
+    - **Symbol:** The Moontongue Death rune, drawn in Blood
+    - **Followers:** Shaman, Barbarians, Cannibals, Death worshippers, Evil Fey, Evil Elves.
 
 Hhoru prefers taking the form of a Drider-like creature, or sometimes as a dark skinned Elf-like being clad in shadows. Those who manage to get close enough to his manifestation wither in agonizing fear at his presence.
 
