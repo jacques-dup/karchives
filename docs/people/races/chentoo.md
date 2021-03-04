@@ -11,7 +11,7 @@
 The Tiger tribes live secluded, nomadic lives in the wilderness of the [Ni'arnfell](../../geography/realms/niarnfell.md). They fend for themselves and rarely make themselves known to the outside world, but when they do they are amicable and interested, though never enough that they leave the fields they call home.
 
 ## Wild at heart
-Chentoo live in tribes and are native to the vast grasslands of the [Ni'arnfell](../../geography/realms/niarnfell.md). They are nomadic by nature and rarely deal with outsiders, often taking great steps to keeping intruders away from their camps.
+As one of the races born from the [Seed of the Sky](../../history/myths/seeds_of_life.md#the-seed-of-the-sky), Chentoo live in tribes and are native to the vast grasslands of the [Ni'arnfell](../../geography/realms/niarnfell.md). They are nomadic by nature and rarely deal with outsiders, often taking great steps to keeping intruders away from their camps.
 
 They are known by the local civilized folk as kin to the steppe tigers that hunt side-by-side with these humanoids and are often referred to as "Tiger-folk".
 
