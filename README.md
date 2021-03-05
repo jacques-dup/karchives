@@ -41,3 +41,14 @@ pip install markdown-include
 * [extentions](https://pypi.org/project/pymdown-extensions/)
 `pip install pymdown-extensions`
 
+
+
+## VENV Changes
+
+Startup:
+```
+python -m venv env
+. ./env/bin/activate
+pip install -r requirements.txt
+mkdocs serve
+```
