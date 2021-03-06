@@ -5,27 +5,37 @@ authors:
     - Jacques du Plessis
 ---
 # KArchives Development Readme
-Using mkdocs to make some wiki magic.  This project is a collection pages that describe Aklatoria, named the **Kobold Archives**.
 
 ## Installation
 
-- Download and install python3
-- Run pip installs:
+- Download and install [python3](https://www.python.org/)
+
+**Mac / Linux:**
 ```
-pip install mkdocs
-pip install mkdocs-material
-pip install pymdown-extensions
-pip install markdown-blockdiag
-pip install markdown-include
+python -m venv karchives_venv
+. ./karchives_venv/bin/activate
+pip install -r requirements.txt
 ```
 
-> See installation instructions for MkDocs at [https://www.mkdocs.org/#installation](https://www.mkdocs.org/#installation)<br>
-> See cool examples at [https://alinex.gitlab.io/env/mkdocs](https://alinex.gitlab.io/env/mkdocs)
+**Windows (Bash shell):**
+```
+python -m venv karchives_venv
+. ./karchives_venv/Scripts/activate
+pip install -r requirements.txt
+```
+
+**Manual installation:**
+- See installation instructions for MkDocs at [https://www.mkdocs.org/#installation](https://www.mkdocs.org/#installation)
 
 ## Startup
-* Open project directory in terminal
+* With the Virtual environment active
 * Run `mkdocs serve` to start the live-reloading docs server
 * Open browser at [http://127.0.0.1:8000](http://127.0.0.1:8000)
+
+## Publish to Github pages.
+- Pull latest changes from master
+- Push latest changes to master
+- Run `mkdocs gh-deploy`
 
 ## Making pages
 * Pages are stored in nested folders inside the `docs` folder
@@ -44,5 +54,6 @@ pip install markdown-include
 
 ## Plugins Documentation 
 * [includes](https://pypi.org/project/markdown-include/)
+`pip install markdown-include`
 * [extensions](https://pypi.org/project/pymdown-extensions/)
-
+`pip install pymdown-extensions`
