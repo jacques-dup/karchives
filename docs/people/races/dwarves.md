@@ -5,7 +5,6 @@
 > Dwarves take great pride in their appearance. Males tend to wear long, elaborate beards, whereas females tend to focus their attention of braiding their hair into countless styles. In all cases dying is common practice with jewels and baubles also making a frequent appearance. Their skin tends to be paler, after centuries of living underground, though it can range across any hue. Scars and tattoos are symbols of achievement, with the most experienced often being very intricately "decorated".</br>
 > _: excerpt from "The Intelligent Peoples", by Jarlaine Farwind - Adventurer, Anthropologist and Historian._{: .footnote .right }
 
-</br>
 Dwarves like to say that they were born from the Seed of the Mountain. They are naturally inclined toward the wonders of the natural world.  Born from the depths, shaped by war and tempered by ancient betrayal, the they are a race of warrior philosophers.  Strong of will and body, defiant in defeat, but easily pleased and honest to a fault.
 
 ## For King and Fatherland

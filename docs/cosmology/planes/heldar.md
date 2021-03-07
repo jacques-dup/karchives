@@ -1,5 +1,5 @@
 ---
-title: Plane - Heldar
+title:  Heldar
 summary: A description Heldar, the Dwarven heaven.
 authors:
     - Jacques du Plessis

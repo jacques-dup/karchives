@@ -68,19 +68,55 @@ nav:
   - index.md
   - Dev Diary:
     - about/readme_page.md
-    - about/release_notes.md
   - Geography:
     - geography/aklatoria.md
     - geography/realms/agaea.md
+    - geography/realms/caenar.md
+    - geography/realms/casavano.md
+    - geography/realms/halherant.md
+    - geography/realms/iantear.md
+    - geography/realms/ilior.md
+    - geography/realms/kalbaek.md
     - geography/realms/kalibora.md
+    - geography/realms/kethraelm.md
+    - geography/realms/ksher.md
+    - geography/realms/menassim.md
+    - geography/realms/meshatl.md
     - geography/realms/niarnfell.md
+    - geography/realms/saesamen.md
   - Cosmology:
     - cosmology/index.md
     - cosmology/magic.md
     - cosmology/planes.md
+    - Places of Power:
+      - cosmology/magic/places_of_power/world_trees.md
+    - List of Planes:
+      - cosmology/planes/aegis.md
+      - cosmology/planes/artificium_campestribus.md
+      - cosmology/planes/crevatorus.md
+      - cosmology/planes/eltis.md
+      - cosmology/planes/elysium.md
+      - cosmology/planes/eskall.md
+      - cosmology/planes/gaia.md
+      - cosmology/planes/heldar.md
+      - cosmology/planes/kelon.md
+      - cosmology/planes/kesra.md
+      - cosmology/planes/materia.md
+      - cosmology/planes/myst.md
+      - cosmology/planes/nox.md
+      - cosmology/planes/onus.md
+      - cosmology/planes/ordinia.md
+      - cosmology/planes/reilagg.md
+      - cosmology/planes/ruune.md
+      - cosmology/planes/shole.md
+      - cosmology/planes/tartarus.md
+      - cosmology/planes/tundrum_arctis.md
+      - cosmology/planes/umber.md
+      - cosmology/planes/void_of_creation.md
   - Races:
     - people/races/aarakocra.md
     - people/races/chentoo.md
+    - people/races/dragonborn.md
     - people/races/dwarves.md
     - people/races/elves.md
     - people/races/gnomes.md
@@ -121,11 +157,57 @@ nav:
       - religion/organizations/unyielding.md
       - religion/organizations/way_of_the_primordial_serpent.md
       - religion/organizations/winter_touched.md
+    - List of Deities:
+      - religion/deities/armara.md
+      - religion/deities/assador.md
+      - religion/deities/callad.md
+      - religion/deities/duswyn.md
+      - religion/deities/dwarf_old_ones.md
+      - religion/deities/elmara.md
+      - religion/deities/erigrim.md
+      - religion/deities/erthan.md
+      - religion/deities/firna.md
+      - religion/deities/garkash.md
+      - religion/deities/heron.md
+      - religion/deities/hhoru.md
+      - religion/deities/irthor_&_kidan.md
+      - religion/deities/kaerlun.md
+      - religion/deities/lafarn.md
+      - religion/deities/lenkinfail.md
+      - religion/deities/leonne.md
+      - religion/deities/lex_fireheart.md
+      - religion/deities/lilith.md
+      - religion/deities/lord_aster.md
+      - religion/deities/madis.md
+      - religion/deities/maia.md
+      - religion/deities/manos_claye.md
+      - religion/deities/martivir.md
+      - religion/deities/naash_feramil.md
+      - religion/deities/nahua.md
+      - religion/deities/nimwind.md
+      - religion/deities/nod.md
+      - religion/deities/odian.md
+      - religion/deities/opus.md
+      - religion/deities/ornim.md
+      - religion/deities/rumara_caelan.md
+      - religion/deities/seth.md
+      - religion/deities/shaeleon.md
+      - religion/deities/stryder.md
+      - religion/deities/throden.md
+      - religion/deities/tooloo.md
+      - religion/deities/tor.md
+      - religion/deities/ura.md
+      - religion/deities/vonryl_kethalon.md
+      - religion/deities/zarach.md
   - Mythical History:
     - Myths:
       - history/myths/seeds_of_life.md
       - history/myths/black_seeding.md
       - history/myths/creation_dwarves.md
+      - Artifacts:
+        - cosmology/magic/mythical_artifacts/rune_stone.md
+        - cosmology/magic/mythical_artifacts/scrolls_of_creation.md
+        - cosmology/magic/mythical_artifacts/thirteen_seals_of_being.md
     - Primary Sources:
       - history/artifacts/book_of_arath_aev.md
       - history/artifacts/six_tablets_of_verashuun.md

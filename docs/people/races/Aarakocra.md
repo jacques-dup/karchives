@@ -5,7 +5,6 @@
 > All Aarakocra have powerful wings and a bird-like face and beak, and tend to have a wide chest due to their large rib cages. Their "feet" are shaped as talons, like any lesser bird of prey, and feathers cover their bodies in a multitude of plumages. Fine, three fingered "hands", as deft and agile as any, often wield arms. </br>
 > _: excerpt from "The Intelligent Peoples", by Jarlaine Farwind - Adventurer, Anthropologist and Historian._{: .footnote .right }
 
-</br>
 The Bird-folk of [Aklatoria](../../geography/aklatoria.md) typically live a life of seclusion. Their settlements are small and far removed from the rest of the humanoid societies.  Their resemblance to birds are not limited to their physical appearance and as such their society is that of the flock, and their mannerisms are becoming of their form.
 
 ## The Awakened

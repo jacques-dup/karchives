@@ -1,5 +1,5 @@
 ---
-title: Plane - Reilagg
+title:  Reilagg
 summary: A description Reilagg, the Dwarven hell.
 authors:
     - Jacques du Plessis

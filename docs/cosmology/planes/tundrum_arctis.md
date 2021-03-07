@@ -1,5 +1,5 @@
 ---
-title: Plane - Tundrum Arctis
+title:  Tundrum Arctis
 summary: A description Tundrum Arctis, the elemental plane of Ice and Cold
 authors:
     - Jacques du Plessis

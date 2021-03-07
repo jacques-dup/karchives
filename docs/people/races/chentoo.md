@@ -7,7 +7,6 @@
 > Another striking feature would be their eyes. Narrow slits with a silvery iris is their common look, though a few color variants exist. They are adapted to hunting at night alongside the tigers of the steppe.</br>
 > _: excerpt from "The Intelligent Peoples", by Jarlaine Farwind - Adventurer, Anthropologist and Historian._{: .footnote .right }
 
-</br>
 The Tiger tribes live secluded, nomadic lives in the wilderness of the [Ni'arnfell](../../geography/realms/niarnfell.md). They fend for themselves and rarely make themselves known to the outside world, but when they do they are amicable and interested, though never enough that they leave the fields they call home.
 
 ## Wild at heart

@@ -1,5 +1,5 @@
 ---
-title: Plane - Ad Materia
+title:  Ad Materia
 summary: A description the material plane of existence.
 authors:
     - Jacques du Plessis
