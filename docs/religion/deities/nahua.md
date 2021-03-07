@@ -1,5 +1,5 @@
 ---
-title: Deity - Nahua
+title: Nahua
 summary: A description of Nahua, god of Famine, Pestilence and Natural Disaster.
 authors:
     - Jacques du Plessis
@@ -8,15 +8,11 @@ authors:
 ## The god of Famine, Pestilence and Natural Disaster {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Neutral Evil
-
-    **Domains:** Death, Destruction, Nature
-
-    **Symbol:** A sigil of a Rat turned upside down.
-
-    **Followers:** Shaman, Cultists, Vampires, Death worshippers, Exterminators.
+    - **Type:** Major Deity
+    - **Alignment:** Neutral Evil
+    - **Domains:** Death, Destruction, Nature
+    - **Symbol:** A sigil of a Rat turned upside down.
+    - **Followers:** Shaman, Cultists, Vampires, Death worshippers, Exterminators.
 
 Nahua's primary form is that of vermin.  A slight manifestation might be seen in the form of a swarm of rats or locusts. The more his presence manifests the more the swarm takes shape, until he becomes a shifting, giant, bipedal creature animated through and endless swarm of vermin. 
 

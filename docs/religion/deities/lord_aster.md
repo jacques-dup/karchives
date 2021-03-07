@@ -1,5 +1,5 @@
 ---
-title: Deity - Lord Aster
+title: Lord Aster
 summary: A description of Lord Aster, god of the Sun, Protection and Positive Energies.
 authors:
     - Jacques du Plessis

@@ -1,5 +1,5 @@
 ---
-title: Deity - Naásh Feramil
+title: Naásh Feramil
 summary: A description of Naásh Feramil, goddess of Family, Hearth and Culture.
 authors:
     - Jacques du Plessis

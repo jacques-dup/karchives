@@ -1,5 +1,5 @@
 ---
-title: Deity - Odian
+title: Odian
 summary: A description of Odian, god of Strength, War, Strategy and War-stories.
 authors:
     - Jacques du Plessis

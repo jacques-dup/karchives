@@ -1,5 +1,5 @@
 ---
-title: Deity - Rumara Caelan
+title: Rumara Caelan
 summary: A description of Rumara Caelan, goddess of Adventure, Good Fortune, Humour and Dancing.
 authors:
     - Jacques du Plessis

@@ -1,5 +1,5 @@
 ---
-title: Deity - Manos Claye
+title: Manos Claye
 summary: A description of Manos Claye, god of the Forge.
 authors:
     - Jacques du Plessis

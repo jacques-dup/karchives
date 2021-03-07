@@ -1,5 +1,5 @@
 ---
-title: Deity - Lafarn
+title: Lafarn
 summary: A description of Lafarn, god of Travel, New Horizons and New Beginnings.
 authors:
     - Jacques du Plessis

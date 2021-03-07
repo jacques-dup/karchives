@@ -1,5 +1,5 @@
 ---
-title: Deity - Assador
+title: Assador
 summary: A description of Assador, god of the Fallen, Suffering and Loss.
 authors:
     - Jacques du Plessis

@@ -1,5 +1,5 @@
 ---
-title: Deity - Erthan
+title: Erthan
 summary: A description of Erthan, god of Farming, Life-cycles, Crops and Weather.
 authors:
     - Jacques du Plessis

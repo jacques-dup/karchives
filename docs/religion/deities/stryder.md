@@ -1,5 +1,5 @@
 ---
-title: Deity - Stryder
+title: Stryder
 summary: A description of Stryder, god of Mischief, Illusion, Intelligence and Luck.
 authors:
     - Jacques du Plessis

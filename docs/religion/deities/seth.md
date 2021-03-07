@@ -1,5 +1,5 @@
 ---
-title: Deity - Seth
+title: Seth
 summary: A description of Seth, goddess of Chaos, Hatred and Jealousy.
 authors:
     - Jacques du Plessis

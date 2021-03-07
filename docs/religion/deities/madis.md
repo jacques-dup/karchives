@@ -1,5 +1,5 @@
 ---
-title: Deity - Madis
+title: Madis
 summary: A description of Madis, god of Wealth, Cities, Trade and Industry.
 authors:
     - Jacques du Plessis

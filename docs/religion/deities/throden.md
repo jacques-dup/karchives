@@ -1,5 +1,5 @@
 ---
-title: Deity - Throden
+title: Throden
 summary: A description of Throden, Lord of Dragons, Dragon kind and Draconic Lore.
 authors:
     - Jacques du Plessis

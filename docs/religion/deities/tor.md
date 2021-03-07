@@ -1,5 +1,5 @@
 ---
-title: Deity - Tor
+title: Tor
 summary: A description of Tor, god of Storms, Chaotic Weather and Natural Destruction.
 authors:
     - Jacques du Plessis
@@ -8,15 +8,11 @@ authors:
 ## The god of Storms, Chaotic Weather and Natural Destruction {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Chaotic Neutral
-
-    **Domains:** Destruction, Light, Strength, Tempest
-
-    **Symbol:** A Crude depiction of a Lightning Bolt, thick at the top, arching once into a pointed tip at the bottom.
-
-    **Followers:** Wayfarers, Stormcallers, Weather-worshippers, Those who dwell high in the mountains.
+    - **Type:** Major Deity
+    - **Alignment:** Chaotic Neutral
+    - **Domains:** Destruction, Light, Strength, Tempest
+    - **Symbol:** A Crude depiction of a Lightning Bolt, thick at the top, arching once into a pointed tip at the bottom.
+    - **Followers:** Wayfarers, Stormcallers, Weather-worshippers, Those who dwell high in the mountains.
 
 Mighty Tor stands posed for battle, clad in Mithril plate and an adorned helm as he rides on his cloud, hammer lifted high above his head.  With each strike of his hammer, thunder bursts forth and lightning pierces the skies in destructive blasts. His face is solemn and grim, long locks of gold and blue flowing from his head and his beard alight with dancing sparks.  His eyes shining with blue light as he looks down upon the destruction of his powers.
 

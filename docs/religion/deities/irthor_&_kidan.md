@@ -1,5 +1,5 @@
 ---
-title: Deity - Irthor & Kidan
+title: Irthor & Kidan
 summary: A description of Irthor & Kidan, twin gods of of Knowledge, History and Myth, Invention and Clockwork.
 authors:
     - Jacques du Plessis
@@ -8,15 +8,11 @@ authors:
 ## Twin gods of of Knowledge, History and Myth, Invention and Clockwork {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Neutral
-
-    **Domains:** Artifice, Knowledge, Magic
-
-    **Symbol:** An intricate clockwork orb with a scroll ribbon adorning its base.
-
-    **Followers:** Artificers, historians, inventors, and all those who pursue the endless gaining of knowledge may be followers of Irthor & Kidan. They are also the patrons of all Warforged.
+    - **Type:** Major Deity
+    - **Alignment:** Neutral
+    - **Domains:** Artifice, Knowledge, Magic
+    - **Symbol:** An intricate clockwork orb with a scroll ribbon adorning its base.
+    - **Followers:** Artificers, historians, inventors, and all those who pursue the endless gaining of knowledge may be followers of Irthor & Kidan. They are also the patrons of all Warforged.
 
 The twins often show themselves in the visage of two humanoids resembling Dwarves.  Irthor is said to be short and stout, though taller than most actual Dwarves, with a clean shaven head and a short sleeved, yellow robe.  Kidan is said to be taller than most humans, slender, wearing a long sleeved, red robe, and with long grey hair braided into a single coil.  Both have long grey beards, tucked into their belts.  Often they are seen carrying coffers or drawing carts filled with strange, clockwork objects.
 

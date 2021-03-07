@@ -1,5 +1,5 @@
 ---
-title: Deity - Opus
+title: Opus
 summary: A description of Opus, god of the Forests and Mountains.
 authors:
     - Jacques du Plessis

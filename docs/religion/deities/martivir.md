@@ -1,5 +1,5 @@
 ---
-title: Deity - Martivir
+title: Martivir
 summary: A description of Martivir, the god of justice.
 authors:
     - Jacques du Plessis

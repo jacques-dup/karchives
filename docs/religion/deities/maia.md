@@ -1,5 +1,5 @@
 ---
-title: Deity - Maia
+title: Maia
 summary: A description of Maia, goddess of magic.
 authors:
     - Jacques du Plessis

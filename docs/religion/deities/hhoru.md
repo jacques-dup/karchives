@@ -1,5 +1,5 @@
 ---
-title: Deity - Hhoru
+title: Hhoru
 summary: A description of Hhoru, god of Blood, Sacrifice and Spirits of Nature.
 authors:
     - Jacques du Plessis

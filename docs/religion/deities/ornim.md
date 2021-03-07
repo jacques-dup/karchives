@@ -1,5 +1,5 @@
 ---
-title: Deity - Ornim
+title: Ornim
 summary: A description of Ornim, god of Dirt and Tombstones.
 authors:
     - Jacques du Plessis

@@ -1,5 +1,5 @@
 ---
-title: Deity - Ura
+title: Ura
 summary: A description of Ura, god of Fire and Destructive Force.
 authors:
     - Jacques du Plessis
@@ -8,15 +8,11 @@ authors:
 ## The god of Fire and Destructive Force {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-    
-    **Alignment:** Chaotic Neutral
-
-    **Domains:** Arcana, Destruction
-
-    **Symbol:** A depiction of a whipping flame, encircled in gold
-
-    **Followers:** Elementalists, Fire mages, Smiths, Generals, Arsonists.
+    - **Type:** Major Deity
+    - **Alignment:** Chaotic Neutral
+    - **Domains:** Arcana, Destruction
+    - **Symbol:** A depiction of a whipping flame, encircled in gold
+    - **Followers:** Elementalists, Fire mages, Smiths, Generals, Arsonists.
 
 Ura often takes on the form of a Fire Giant, although this is not his true form. It is said that his body s perpetually engulfed in flame, so much so that it is impossible to decern any of his features.  The living flame form is small in stature, almost ape like, and tendrils of white fire flows from him as appendages. Some claim to have seen him in the deepest places of the earth, where he bathes in the lava pools of the deep underground.
 

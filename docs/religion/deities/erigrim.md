@@ -1,5 +1,5 @@
 ---
-title: Deity - The Erigrim
+title: The Erigrim
 summary: A description of the Dwarven pantheon.
 authors:
     - Jacques du Plessis
@@ -8,13 +8,10 @@ authors:
 ## Divine Dwarf Ancestors {: .subtitle }
 
 !!! info "Details"
-    **Type:** Minor Pantheon culminating to a Major Divine Source.
-    
-    **Domains:** Various (see individual listings)
-
-    **Symbol:** Each member is identified by a personal rune
-
-    **Followers:** Dwarves
+    - **Type:** Minor Pantheon culminating to a Major Divine Source.
+    - **Domains:** Various (see individual listings)
+    - **Symbol:** Each member is identified by a personal rune
+    - **Followers:** Dwarves
 
 **Erigrim** (Elders, Eternal Ones).  The first Dwarf to make himself a god was the Allfather Agamor.  Soon to follow was his Battle Master Gort and the Rune Keeper Toreval.  All the Ancestors were once mortals, who found power and divinity as they battled the [Old Ones](../dwarf_old_ones).
 

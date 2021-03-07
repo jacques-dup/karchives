@@ -1,5 +1,5 @@
 ---
-title: Deity - Callad
+title: Callad
 summary: A description of Callad, goddess of Thieves and Treachery.
 authors:
     - Jacques du Plessis
@@ -8,15 +8,11 @@ authors:
 ## The goddess of Thieves and Treachery {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Chaotic Neutral
-
-    **Domains:** Darkness, Knowledge, Trickery
-
-    **Symbol:** A White, Featureless Mask called "The Palled Oath"
-
-    **Followers:** Thieves, Assassins, Spies, Merchants and all who trade in subterfuge and secret information.
+    - **Type:** Major Deity
+    - **Alignment:** Chaotic Neutral
+    - **Domains:** Darkness, Knowledge, Trickery
+    - **Symbol:** A White, Featureless Mask called "The Palled Oath"
+    - **Followers:** Thieves, Assassins, Spies, Merchants and all who trade in subterfuge and secret information.
 
 Callad manifests as a slender Halfling, clad in black leather.  A dull, white mask, "The Palled Oath", forms part of her skin, with solid golden orbs for eyes and long flowing, blonde hair curling around her face as if a hood.
 

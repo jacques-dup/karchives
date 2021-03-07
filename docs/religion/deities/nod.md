@@ -1,5 +1,5 @@
 ---
-title: Deity - Nod
+title: Nod
 summary: A description of Nod, god of Phantasm, Madness and Nightmares.
 authors:
     - Jacques du Plessis
@@ -8,15 +8,11 @@ authors:
 ## The god of Phantasm, Madness and Nightmares {: .subtitle }
 
 !!! info "Details"
-    **Type:** Major Deity
-
-    **Alignment:** Neutral Evil
-
-    **Domains:** Arcana, Darkness
-
-    **Symbol:** A Black Cloud sigil with a deep, purple border
-
-    **Followers:** Evil Diviners, Shaman, Plane travellers, those who tend to the mad.
+    - **Type:** Major Deity
+    - **Alignment:** Neutral Evil
+    - **Domains:** Arcana, Darkness
+    - **Symbol:** A Black Cloud sigil with a deep, purple border
+    - **Followers:** Evil Diviners, Shaman, Plane travellers, those who tend to the mad.
 
 Nod is the back cloud of madness. He is rarely seen in the realms, but when he does manifest, his black cloud laced with dark, sometimes purple sparks of lightning can be seen drifting from afar.  Everywhere the cloud touches, minds are consumed and driven mad by the visions the cloud brings.
 
