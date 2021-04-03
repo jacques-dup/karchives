@@ -1,5 +1,5 @@
 ---
-title: Ärun's Forge
+title:  Ärun's Forge (Dwarf Creation)
 summary: A creation myth of the Dwarven race.
 authors:
     - Jacques du Plessis

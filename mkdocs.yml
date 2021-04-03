@@ -127,6 +127,7 @@ nav:
     - people/races/kobolds.md
     - people/races/tieflings.md
   - Language:
+    - language/elven.md
     - language/dwarven.md
     - language/vestii.md
   - Religion:
@@ -204,6 +205,7 @@ nav:
       - history/myths/seeds_of_life.md
       - history/myths/black_seeding.md
       - history/myths/creation_dwarves.md
+      - history/myths/creation_elves.md
       - Artifacts:
         - cosmology/magic/mythical_artifacts/rune_stone.md
         - cosmology/magic/mythical_artifacts/scrolls_of_creation.md
