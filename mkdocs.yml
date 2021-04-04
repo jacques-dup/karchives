@@ -200,7 +200,9 @@ nav:
       - religion/deities/ura.md
       - religion/deities/vonryl_kethalon.md
       - religion/deities/zarach.md
-  - Mythical History:
+  - History:
+    - history/index.md
+    - history/timeline.md
     - Myths:
       - history/myths/seeds_of_life.md
       - history/myths/black_seeding.md
@@ -213,10 +215,11 @@ nav:
     - Primary Sources:
       - history/artifacts/book_of_arath_aev.md
       - history/artifacts/six_tablets_of_verashuun.md
-    - history/ages/before_history.md
-    - history/ages/age_of_seeding.md
-    - history/ages/time_of_turmoil.md
-    - history/ages/age_of_stone.md
-    - history/ages/age_of_the_stars.md
-    - history/ages/long_winter.md
-    - history/ages/age_of_the_sun.md
+    - Historic Ages:
+      - history/ages/before_history.md
+      - history/ages/age_of_seeding.md
+      - history/ages/time_of_turmoil.md
+      - history/ages/age_of_stone.md
+      - history/ages/age_of_the_stars.md
+      - history/ages/long_winter.md
+      - history/ages/age_of_the_sun.md
