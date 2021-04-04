@@ -11,7 +11,7 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |Phrase| Translation (meaning)|
 |-|-|
 |Rï-urf migkde Färrden skargg|By my father's beard (exclamation of astonishment)|
-|Pônss dǒrrslá dǒrith, slovax'es hvístärith|As the andvil strikes, the steel is formed (time/life goes on no matter what happens)|
+|Pônss dǒrrslá dǒrith, slovax'es hvístärith|As the anvil strikes, the steel is formed (time/life goes on no matter what happens)|
 |Ori mäel ud fa|We have a problem|
 |Ä kásh ud aedur|We must attack|
 |Ärr djup|Go deep (call far a tactical retreat)|
@@ -35,9 +35,13 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |accusation | hakru | plural hakrä|
 |accuse | ahkur|
 |adamantium | sylskar|
+|again|äater|
 |age (period of time) | un (v)|
 |air | lu|
 |ale|aöl|
+|alive|vanvande|
+|all|alle|
+|also|ogsäven|
 |always | eiltaf|
 |an | ori|
 |ancestor | käzmukällén|
@@ -50,10 +54,16 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |as | pônss (adv)|
 |ash|as|
 |attack | á kásh|
+|awake|vanvaken|
 |axe | höggvaär|
+|be|var|
 |beard | skargg|
 |because | pvi-da|
+|become|bilef|
 |behind | dvargori|
+|below|unedan|
+|birth|föna|
+|betray|örrenda (v), förrendari (n)|
 |bless | välsig|
 |blessed | (adj) välsigna|
 |bronze | keiss | also "west"|
@@ -61,6 +71,7 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |brother (family) | kazah|
 |but | aekgigär|
 |by | rï-urf|
+|challenge| utman (n) utma (v)|
 |close | rï-galäs|
 |commendation | nurbêl | plural nurbêl|
 |copper |
@@ -78,6 +89,7 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |down | nidas|
 |Dragons | Drekdakar|
 |Dragons, elder | Höggorundur|
+|dreams|serenlurr|
 |drink | drekkja (n), drek (v)|
 |Dwarf | Kazundverder|
 |dwarven | dver (adj), kazundvertäl (v)|
@@ -85,6 +97,9 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |earth | maa|
 |east|aus|also steel|
 |Elves | Alfurminn|
+|enslave|förslava|
+|erupt| etten utbryt|
+|exhausted|tröttar|
 |fall| fel (v)|
 |father | färr|
 |female | onadar|
@@ -95,10 +110,13 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |for | fyrür|
 |forever | eiltaf|
 |forge | arrafǒr (n), dǒrrslá (v)|
+|forget|ekgiminn|
 |form | slovax (v) | also create, shape|
 |fort | hääl|
+|friend|kzahr|
 |from | kza (adv) | also of|
 |front, in -of | onadin|
+|gift|govar, plural gärvar|
 |Gnomes | Jorfur|
 |go | äar, äara (-forth)|
 |gods (ancestral) | kazmukzakällen|
@@ -107,10 +125,11 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |grave | peräa|
 |gravestone | perden|
 |great | före|
-|guard | vakir|
+|guard | vakir, also protect|
 |Halflings | Hanafinn|
 |hammer | myiljagür|
 |have | fa|
+|he|han (also him)|
 |heavy |dungür|
 |hit | slá|
 |Humans | Valmäan|
@@ -122,6 +141,7 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |kin | kazun|
 |language | täl|
 |left | vinur|
+|lightning| blit|
 |like | smën og (adv), kunska (v) | also as (adv)|
 |little | undamhär (adjective) | also small, young|
 |little, a | hammumul (adv)|
@@ -132,6 +152,8 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |many| -inor |also plentiful|
 |march | äara|
 |me | mögg|
+|memories|minna|
+|mischievous| rambusigg|
 |mithril | mäanaus
 |mother | mörr|
 |mountain| fjel|
@@ -142,6 +164,7 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |not | ekgi|
 |of | kza (adv) |also from|
 |old | undü|
+|only|endakun|
 |ooh! | árra|
 |Orcs | Dökkfur|
 |paragon | förebra|
@@ -151,6 +174,11 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |plentiful | -inor|also many|
 |polite | smënmukr|
 |problem | mäel|
+|promise|lover|
+|protect|vakir, also guard
+|rejoyce|glädja|
+|remember|minnasarog|
+|return|ná tillbakra|
 |request | spyrnöm (n), spyrnmün (v)|
 |right | haetur|
 |salt | saola|
@@ -168,28 +196,49 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |smith | myiljöran (n), dǒrrslá (v)|
 |soil | nerä | -for burials: peräden|
 |son | undamodur|
+|spark|gnis, plural gnister|
+|spirit|etin|
 |speak | tälentölen|
 |star| seren|
 |steel | hvístär (n)|
 |steel, the | aus (abstract) | also east|
 |stone | kivi|
+|strenght| starkra|
 |strike | sláfall|
+|strong| starken|
+|stubborn|starkenvis|
 |succeed(s) | nä öran|
+|take|ta|
 |talent | burêl|
+|teach|vasalärr|
+|that|den|
 |the | -itn (suffix)|
+|them|dem|
+|thunder|äaska|
+|thus|därförin|
+|to|tille|
 |under | üep|
 |up | onas|
 |us | üd (general), mük (reserved for close friends)|
+|vindictive|hevngjerrig|
 |walk | äron|
+|want|vil|
 |water | vé|
 |we | üd (general), mük (reserved for close friends)|
+|weakness|svakket|
 |well | gufel (adv)|
 |west|keiss|also bronze|
+|when|när|
+|when, that|det när|
 |while | pônss|
+|will|kom|
 |witchcraft | fjölkynnrar|
+|with|mett|
+|would|komdur|
 |woman | onadar | also female|
 |works | nä öran (v)|
 |worth | vergïlld|
 |writing | rit (n), ritunfërg (v)|
 |wrongdoing | runel | plural runlel|
+|years|eiltöfar|
 |you |ba
