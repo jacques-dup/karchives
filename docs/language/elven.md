@@ -24,6 +24,7 @@
 |creature|lana||
 |dance|quar||
 |dark|rea||
+|dragon|doveillion||
 |Elf|ques||
 |Elven|Tel,quesel||
 |Elves, the|Tel,ques||

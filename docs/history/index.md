@@ -20,15 +20,15 @@ Scholars or the Mythic Ancients account for time based on different ages of the 
 **Pre-Era Reckoning, (PER)**:
 A varied and obscure form of calendar was developed in the mythic ages, though not widely adopted and where used the accounts and rules for it differed extensively.  Each Pre-Era count (PER), measures between 1 and 2.5 actual years and came to replace the previous cyclical system as a varied standard in ancient times.
 
-**Neliavthic Conflict Accounting, (NCR)**:
+**Neliavthic Conflict Accounting, (DW)**:
 Historic accounts reveal cataclysmic wars taking place during the end of the mythic Eras, and as such accurate record keeping become less prominent. Though Pre-Era reckoning was still in use, it is hard to precisely calculate the passage of years during this age. Therefore, the Kobold scribes instead refer to the most well known and historically accepted conflicts to account for the passage of time.
 
 ## Ancient Era
 
-**Nomadic Reckoning, (NR)**:
+**Nomadic Reckoning, (NOR)**:
 Throughout the early histories of the now established races of Aklatoria, the Kobold Standard Calendar became more and more widely used across the realms. Because of the systematic adoption, the counting of years became an inverse count at the adoption of Imperial Time at 0 IR.
 
 ## Modern Era
 
-**Imperial Year Reckoning, (IR)**:
+**Imperial Year Reckoning, (IYR)**:
 Imperial Time begins the year when Agamoria was founded and counts each year to follow. Using the same standard count, before 0 IR is referenced as inverse counts using the Nomadic Reckoning association.
