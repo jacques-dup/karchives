@@ -30,5 +30,5 @@ Throughout the early histories of the now established races of Aklatoria, the Ko
 
 ## Modern Era
 
-**Imperial Year Reckoning, (IYR)**:
+**Imperial Year Reckoning, (IM)**:
 Imperial Time begins the year when Agamoria was founded and counts each year to follow. Using the same standard count, before 0 IR is referenced as inverse counts using the Nomadic Reckoning association.

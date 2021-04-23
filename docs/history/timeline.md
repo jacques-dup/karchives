@@ -1,5 +1,7 @@
 # The Complete Historic Account
 
+See the [Notes on Timekeeping](./index.md) for information on dates and era mapping.
+
 <div class="timeline">
     <table>
         <thead>
@@ -190,7 +192,7 @@
                 <td class="timeline_event">Continental shift breaks off Kalibora from the main continent</td>
                 <td class="timeline_summary">Part of the landmass between what is now Meshatl and Kalibora sink into the sea. The cause of the shift remains unknown.</td>
             </tr>
-            <tr>
+            <tr class="timeline_event elf">
                 <td class="timeline_date">~5600 NOR</td>
                 <td class="timeline_event">Elven tribes first migrate across the Sea of Crystal Rain into what is now called Helharent</td>
                 <td class="timeline_summary"></td>
@@ -200,7 +202,7 @@
                 <td class="timeline_event">Humans travel to Southern Isles, near Casavano</td>
                 <td class="timeline_summary"></td>
             </tr>
-            <tr>
+            <tr class="timeline_event elf">
                 <td class="timeline_date">~4300 NOR</td>
                 <td class="timeline_event">Elven tribes settle in Gorgamen and Agaea</td>
                 <td class="timeline_summary"></td>
@@ -240,6 +242,11 @@
                 <td class="timeline_event">Runestone Translated</td>
                 <td class="timeline_summary">648 years after it was discovered, the runestone was translated and the Dwarves began to experiment with its magics.</td>
             </tr>
+            <tr class="timeline_event elf">
+                <td class="timeline_date">100 NOR</td>
+                <td class="timeline_event">Elves found the first monastery of The Winter Touched</td>
+                <td class="timeline_summary">Initiating the belief and worship in Vonryl Kethalon. The faith would be slow to spread throughout Kethraelm where belief in the Ancients still holds strong.</td>
+            </tr>
              <tr>
                 <td class="timeline_date">69 N.R</td>
                 <td class="timeline_event">Dwarven convergence at Üepithfjel, Undermountain</td>
@@ -256,184 +263,229 @@
                 <td class="timeline_summary">Names as such as it served as the turning point in the war where most of the Bellan spirits were slain or banished. Only short skirmishes followed.</td>
             </tr>
             <tr class="timeline_highlight">
-                <td class="timeline_date"> 0 IYR</td>
+                <td class="timeline_date"> 0 IM</td>
                 <td class="timeline_event"><h2>The Age of Stone</h2></td>
                 <td class="timeline_summary">Agamoria founded and named officially 4 years after the last battle against the Bellan. A time of rebuilding for the Dwarven race.</td>
             </tr>
              <tr>
-                <td class="timeline_date">7 IYR</td>
+                <td class="timeline_date">7 IM</td>
                 <td class="timeline_event">Erigrim leaves Agamoria to search for the last of the Bellan</td>
                 <td class="timeline_summary">The most prominent "leaders" of the Bellan forces were still unaccounted for and the Erigrim feared they would regroup.</td>
             </tr>
+            <tr class="timeline_event elf">
+                <td class="timeline_date">9 IM</td>
+                <td class="timeline_event">Ylyndar Mirawarin becomes sovereign of Tel'Shinon</td>
+                <td class="timeline_summary">King Ylyndar becomes the first sovereign ruler of Tel'Shinon and the lands of Kethraelm.</td>
+            </tr>
              <tr>
-                <td class="timeline_date">15 IYR</td>
+                <td class="timeline_date">15 IM</td>
                 <td class="timeline_event">Mithril veins found under Agamoria</td>
                 <td class="timeline_summary"></td>
             </tr>
+            <tr class="timeline_event elf">
+                <td class="timeline_date">16 IM</td>
+                <td class="timeline_event">Construction starts on the Temple of the Final Winds</td>
+                <td class="timeline_summary">The first High Temple to Vonryl Kethalon begins construction in Ishe Aethel.</td>
+            </tr>
              <tr>
-                <td class="timeline_date">17 IYR</td>
+                <td class="timeline_date">17 IM</td>
                 <td class="timeline_event">Dwarves spread in search of more precious metals</td>
                 <td class="timeline_summary">Founding many of the major cities now present on Kalibora.</td>
             </tr>
              <tr>
-                <td class="timeline_date">58 IYR</td>
+                <td class="timeline_date">58 IM</td>
                 <td class="timeline_event">Dwarves dig too Deep</td>
                 <td class="timeline_summary">The mines of Agamoria was first to breach into the deep gates of Tartarus and through to the Void. Others followed not soon after. Suddenly the Dwarven nation had a new fight on their hands as the demons of the Abyss crawled out from their dark tunnels beneath the city.</td>
             </tr>
              <tr>
-                <td class="timeline_date">75 IYR</td>
+                <td class="timeline_date">75 IM</td>
                 <td class="timeline_event">Erigrim return to Agamoria</td>
                 <td class="timeline_summary">As news of the new enemy came to them, the Dwarven paragons rushed back to aid their people. New formalized war efforts were under way.</td>
             </tr>
              <tr>
-                <td class="timeline_date">100 IYR</td>
+                <td class="timeline_date">100 IM</td>
                 <td class="timeline_event">Oreiss steals the Runestone</td>
                 <td class="timeline_summary">It ultimately leads the Erigrim to the path of true divinity, but not before the whole nation is thrown into turmoil.</td>
             </tr>
             <tr>
-                <td class="timeline_date">101 IYR</td>
+                <td class="timeline_date">101 IM</td>
                 <td class="timeline_event">Erigrim become gods</td>
                 <td class="timeline_summary">They transcend into the divine realms becoming true patrons of their race.</td>
             </tr>
             <tr>
-                <td class="timeline_date">107 IYR</td>
+                <td class="timeline_date">107 IM</td>
                 <td class="timeline_event">Ralmus Durdosláfel elected the First King of the Dwarves</td>
                 <td class="timeline_summary">Chosen for his renowned prowess and wisdom in during the wars. He would turn the tide against the darkness of the Reilagg as a militant leader.</td>
             </tr>
             <tr>
-                <td class="timeline_date">143 IYR</td>
+                <td class="timeline_date">143 IM</td>
                 <td class="timeline_event">Proclamation of the Shieldguard Spears</td>
                 <td class="timeline_summary">Progress is being made to seal off the Reilagg, but ultimately the gateways are permanent. But in 143 king Ralmus officially declared the capital safe from invasion from the Reilagg, deu to the success of his Shieldguard special division army.</td>
             </tr>
             <tr>
-                <td class="timeline_date">145 IYR</td>
-                <td class="timeline_event">Elves found the first monastery of The Winter Touched</td>
-                <td class="timeline_summary">Initiating the belief and worship in Vonryl Kethalon. The faith would be slow to spread throughout Kethraelm where belief in the Ancients still holds strong.</td>
-            </tr>
-            <tr>
-                <td class="timeline_date">153 IYR</td>
+                <td class="timeline_date">153 IM</td>
                 <td class="timeline_event">Eral Kazuninor elected King</td>
                 <td class="timeline_summary">King Ralmus died age 376, King Eral was elected for his talents as an administrator. It was believed that all threats against the Empire had been defeated and that he would lead in anew age of prosperity.</td>
             </tr>
             <tr>
-                <td class="timeline_date">162 IYR</td>
+                <td class="timeline_date">162 IM</td>
                 <td class="timeline_event">The Golden Trade Treaty</td>
                 <td class="timeline_summary">After a number of years of economic expansion, King Eral signed in a treaty that all Dwarves may independently establish trade economies within their holds and encouraged the the exploration of the lands outside the Kalinforin basin.</td>
             </tr>
             <tr>
-                <td class="timeline_date">179 IYR</td>
+                <td class="timeline_date">179 IM</td>
                 <td class="timeline_event">Claiming the Dörith Isle</td>
                 <td class="timeline_summary">The Anvilsmith clan proclaims they found the original forge of Ärun on Dörithfjel and settle a hold there.</td>
             </tr>
             <tr>
-                <td class="timeline_date">185 IYR</td>
+                <td class="timeline_date">185 IM</td>
                 <td class="timeline_event">Crossing the Sömnslät plains</td>
                 <td class="timeline_summary">The first clans make it across the Plains of Slumber and back, settling holds on the mountains beyond.</td>
             </tr>
             <tr>
-                <td class="timeline_date">200 IYR</td>
-                <td class="timeline_event">Establishment of the Royal Navy</td>
+                <td class="timeline_date">200 IM</td>
+                <td class="timeline_event">Establishment of the Dwarven Royal Navy</td>
                 <td class="timeline_summary">King Eral creates the Wavebreaker division of the military, and send expeditions across the Sea of Demons.</td>
             </tr>
             <tr>
-                <td class="timeline_date">210 - 235 IYR</td>
+                <td class="timeline_date">210 - 235 IM</td>
                 <td class="timeline_event">Dwarven colonialism</td>
                 <td class="timeline_summary">Small settlements found on Méshatl and Ni'arnfell and expeditions sent into Saesamen</td>
             </tr>
             <tr>
-                <td class="timeline_date">235 - 245 IYR</td>
+                <td class="timeline_date">235 - 245 IM</td>
                 <td class="timeline_event">Naval War of the Shattered Seas</td>
                 <td class="timeline_summary">War breaks out with the tribes of Casavano as the Dwarves attempt to settle there. Trade from the Isles stop.</td>
             </tr>
             <tr>
-                <td class="timeline_date">241 - 257 IYR</td>
+                <td class="timeline_date">241 - 257 IM</td>
                 <td class="timeline_event">Colonial Resistance</td>
                 <td class="timeline_summary">Colonized realms begin to resist the Dwarven expansion. Skirmishes break out in Ni'arnfell but soon most of the Dwarven regiments are moved North toward Méshatl and Agaea.</td>
             </tr>
             <tr>
-                <td class="timeline_date">258 IYR</td>
+                <td class="timeline_date">258 IM</td>
                 <td class="timeline_event">Ni'arnfell Peace Treaty</td>
                 <td class="timeline_summary">Peace negotiated with the tribes of the Ni'arnfell as the armies look at the lands beyond.</td>
             </tr>
              <tr>
-                <td class="timeline_date">263 IYR</td>
+                <td class="timeline_date">263 IM</td>
                 <td class="timeline_event">Lòr Sylskarin elected King</td>
                 <td class="timeline_summary">King Eral died age 313, King Lòr was elected for his tactical experience as a naval captain. His clan also had access to the largest veins of adamantium in Kalibora that was to be used in the expansion efforts and trade.</td>
             </tr>
              <tr>
-                <td class="timeline_date">264 - 285 IYR</td>
+                <td class="timeline_date">264 - 285 IM</td>
                 <td class="timeline_event">Dwarves clash with the Elves in Northern Agaea</td>
                 <td class="timeline_summary">The Larges march is halted in their tracks by a few bands of Elven warriors. All eyes look to King Lòr for answers.</td>
             </tr>
              <tr>
-                <td class="timeline_date">285 IYR</td>
+                <td class="timeline_date">285 IM</td>
                 <td class="timeline_event">Battle at the Sea of Shadows</td>
                 <td class="timeline_summary">King Lòr is slain in battle against the Elven armies at the Seas of Shadow.</td>
             </tr>
             <tr>
-                <td class="timeline_date">285 IYR</td>
+                <td class="timeline_date">285 IM</td>
                 <td class="timeline_event">Athel Keisazah elected King</td>
                 <td class="timeline_summary">King Lòr died in battle age 289, King Athel is elected for his actionable plans against their Elven enemies and his skills as a rune scribe.</td>
             </tr>
             <tr>
-                <td class="timeline_date">294 IYR</td>
+                <td class="timeline_date">294 IM</td>
                 <td class="timeline_event">Dwarves driven out of Menassim</td>
                 <td class="timeline_summary">As the Elven threat remains in the North, the tribes of Menassim drive out all hostile Dwarf forces from the Forest Kingdom. The Dwarves move back to the Ni'arnfell as the Valley of the Witches is wet and unpleasant.</td>
             </tr>
             <tr>
-                <td class="timeline_date">304 IYR</td>
+                <td class="timeline_date">304 IM</td>
                 <td class="timeline_event">First Battle at Cesmeir: Taking the Lake</td>
                 <td class="timeline_summary">Led by King Athel, the Dwarves win a decisive battle against the Elven armies at lake Cesmeir in Agaea. They gain a foothold on the realm and drive the Elves back to the Northern coast and toward the Peaks of Martivir</td>
             </tr>
             <tr>
-                <td class="timeline_date">306 IYR</td>
+                <td class="timeline_date">306 IM</td>
                 <td class="timeline_event">Second Battle at Cesmeir: Dragon forces from the East</td>
                 <td class="timeline_summary">The Elves return to Cesmeir with Dragons to drive the Dwarves out of the area. The battle that followed destroyed the City by the lake, but the Dwarves were able to hold the zone.</td>
             </tr>
             <tr>
-                <td class="timeline_date">312 IYR</td>
+                <td class="timeline_date">312 IM</td>
                 <td class="timeline_event">Dwarves take Atenaa</td>
                 <td class="timeline_summary">Dwarves break through the fortifications of the City if Dragons only to find that it was held by a handful of Elven warriors along with other natives, including humans and Dragonborn.</td>
             </tr>
             <tr>
-                <td class="timeline_date">315 - 355 IYR</td>
+                <td class="timeline_date">315 - 355 IM</td>
                 <td class="timeline_event">Dwarven armies move into Gorgamen</td>
                 <td class="timeline_summary">Their aim was to gain another foothold for quick passage into Kethraelm. The initial move was successful, but the Elves kept them to the foot of the mountains.</td>
             </tr>
             <tr>
-                <td class="timeline_date">399 IYR</td>
+                <td class="timeline_date">399 IM</td>
                 <td class="timeline_event">The Battle at Bonaduic</td>
                 <td class="timeline_summary">Year 399 marks the destruction of the World Tree at Bonaduic, and flags the turning point to the collapse of the Dwarven Imperium.</td>
             </tr>
-            <tr>
-                <td class="timeline_date">399 - 400 IYR</td>
+            <tr class="timeline_event elf">
+                <td class="timeline_date">399 - 400 IM</td>
                 <td class="timeline_event">Elven Advance</td>
-                <td class="timeline_summary">Immediately after the battles at Bonaduic (circa 399 IYR), the Elves were able to capture many of the most prominent and strategic locations on the central continent. Their dominance in the major cities made them de facto rulers of these lands. Many found their rule strict and oppressive, but freedoms are secondary in times of war.</td>
+                <td class="timeline_summary">Immediately after the battles at Bonaduic (circa 399 IM), the Elves were able to capture many of the most prominent and strategic locations on the central continent. Their dominance in the major cities made them de facto rulers of these lands. Many found their rule strict and oppressive, but freedoms are secondary in times of war.</td>
             </tr>
             <tr class="timeline_section">
-                <td class="timeline_date">400 IYR</td>
+                <td class="timeline_date">400 IM</td>
                 <td class="timeline_event"><h2>Age of the Stars</h2></td>
                 <td class="timeline_summary">With the Dwarf Imperium defeated, the time of the Elves has come. United by a common foe, the tribal Children of Nethel become the most influential people on Aklatoria. The Dwarves systematically retreat as skirmishes against the Elves continue. Only a few strongholds remain in Méshatl and the Ni'arnfell.</td>
             </tr>
             <tr>
-                <td class="timeline_date">400 - 403 IYR</td>
+                <td class="timeline_date">400 - 403 IM</td>
                 <td class="timeline_event">The <i>Supaii'tel Von</></td>
                 <td class="timeline_summary">Named after the old Elven god of death, a short era after the Dwarves were vanquished had the Elves rule by the merits of their military dominance. It would take a few years before the local peoples of  where they were occupying became restless with their rule. It is a time of steadily rising tension.</td>
             </tr>
             <tr>
-                <td class="timeline_date">404 IYR</td>
+                <td class="timeline_date">402 IM</td>
+                <td class="timeline_event">Agaea begins to die</td>
+                <td class="timeline_summary">The land around where the Tree of Bonaduic stood lies in ruin, as plants begin to wither and animals die without cause. A vigil is raised at the sight to study the growing decay.</td>
+            </tr>
+            <tr>
+                <td class="timeline_date">404 IM</td>
                 <td class="timeline_event">Prophesy of <i>Shekaravae</i></td>
                 <td class="timeline_summary">The Shekaravae is proclaimed from the city of Atenaa, calling on the Elven people to relinquish their hold on the lands. The group is led by Shalana Naemaer, high priestess of Dovak Vaeath(Martivir).</td>
             </tr>
             <tr>
-                <td class="timeline_date">406 IYR</td>
-                <td class="timeline_event">Construction starts on the Temple of the Final Winds</td>
-                <td class="timeline_summary">The first High Temple to Vonryl Kethalon begins construction in Ishe Aethel.</td>
+                <td class="timeline_date">408 IM</td>
+                <td class="timeline_event">The Great Drought Named</td>
+                <td class="timeline_summary">Signs of drought show all across Agaea as the withering spreads from where the Tree of Bonaduic once stood. The once lush valleys turn to dirt and sand and the peoples who called it home once are being driven out by the changing landscape.</td>
             </tr>
             <tr>
-                <td class="timeline_date">410 IYR</td>
+                <td class="timeline_date">410 IM</td>
                 <td class="timeline_event">Alvaerelle Kythaela becomes sovereign of Tel'Shinon</td>
-                <td class="timeline_summary">Queen Alvaerelle becomes the firs sovereign ruler of Tel'Shinon and the lands of Kethraelm.</td>
+                <td class="timeline_summary">Queen Alvaerelle becomes the second sovereign ruler of Tel'Shinon and the lands of Kethraelm.</td>
+            </tr>
+            <tr>
+                <td class="timeline_date">411 IM</td>
+                <td class="timeline_event">Council of Ithelta Established</td>
+                <td class="timeline_summary">Elven priesthoods read different omens across the lands and it is decided that all should cooperate in an effort to deduce what the strange cosmic signs mean.</td>
+            </tr>
+            <tr>
+                <td class="timeline_date">415 IM</td>
+                <td class="timeline_event">Comet Dal M'sharn Amart first sighted</td>
+                <td class="timeline_summary">The Ithelta notice the movement of the comet amongst the heavenly bodies, though it is only to be named as such circa 499 IM.</td>
+            </tr>
+            <tr>
+                <td class="timeline_date">420 IM</td>
+                <td class="timeline_event">Dremar Tower begins construction</td>
+                <td class="timeline_summary">The eldest of the Great Towers of Ksher starts being built headed by architect and sage, Arthion Elgeiros</td>
+            </tr>
+            <tr>
+                <td class="timeline_date">422 IM</td>
+                <td class="timeline_event">Elven Independence in Menassim</td>
+                <td class="timeline_summary">Led by Flinar Aexina, a large group of Elven tribes distance themselves from the rule of Queen Alvaerelle. They side with the human druids to become protectors of the natural cosmic balances, settling in the Ironbark Forest.</td>
+            </tr>
+            <tr>
+                <td class="timeline_date">430 IM</td>
+                <td class="timeline_event">Agaea consumed</td>
+                <td class="timeline_summary">All the land of Agaea has now turned to dust and only a few settlements persevere. Digging into the rocks, the Al Kashzanna finds the source of the Dragon Springs at the heart of Atenaa, feeding the streams that were to become the Golden River and creating the oasis within the city as a refuge to the withering.</td>
+            </tr>
+            <tr>
+                <td class="timeline_date">439 IM</td>
+                <td class="timeline_event">Lair of the Golden Fires found</td>
+                <td class="timeline_summary">Deep within the inner sanctums of Atenaa, the Lair of the Dragon Myddrudirth is found. His waking shakes the modern world as he rampages across the land, only to vanish into the west.</td>
+            </tr>
+            <tr>
+                <td class="timeline_date">444 IM</td>
+                <td class="timeline_event">Summer vanishes in the North</td>
+                <td class="timeline_summary">Gorgamen sees no summer. Northern Ksher is shrouded in storms of thunder and hail. Méshatl sees snow for the first time since recorded history.</td>
             </tr>
             <tr>
                 <td class="timeline_date"></td>
@@ -448,6 +500,36 @@
             <tr>
                 <td class="timeline_date"></td>
                 <td class="timeline_event"></td>
+                <td class="timeline_summary"></td>
+            </tr>
+            <tr>
+                <td class="timeline_date"></td>
+                <td class="timeline_event"></td>
+                <td class="timeline_summary"></td>
+            </tr>
+            <tr>
+                <td class="timeline_date"></td>
+                <td class="timeline_event"></td>
+                <td class="timeline_summary"></td>
+            </tr>
+            <tr>
+                <td class="timeline_date"></td>
+                <td class="timeline_event"></td>
+                <td class="timeline_summary"></td>
+            </tr>
+            <tr>
+                <td class="timeline_date"></td>
+                <td class="timeline_event"></td>
+                <td class="timeline_summary"></td>
+            </tr>
+            <tr>
+                <td class="timeline_date"></td>
+                <td class="timeline_event"></td>
+                <td class="timeline_summary"></td>
+            </tr>
+            <tr class="timeline_section">
+                <td class="timeline_date"></td>
+                <td class="timeline_event"><h2>The Long Winter</h2></td>
                 <td class="timeline_summary"></td>
             </tr>
             <tr>
