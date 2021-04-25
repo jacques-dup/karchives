@@ -70,20 +70,21 @@ nav:
     - about/readme_page.md
   - Geography:
     - geography/aklatoria.md
-    - geography/realms/agaea.md
-    - geography/realms/caenar.md
-    - geography/realms/casavano.md
-    - geography/realms/halherant.md
-    - geography/realms/iantear.md
-    - geography/realms/ilior.md
-    - geography/realms/kalbaek.md
-    - geography/realms/kalibora.md
-    - geography/realms/kethraelm.md
-    - geography/realms/ksher.md
-    - geography/realms/menassim.md
-    - geography/realms/meshatl.md
-    - geography/realms/niarnfell.md
-    - geography/realms/saesamen.md
+    - Realms:
+      - geography/realms/agaea.md
+      - geography/realms/caenar.md
+      - geography/realms/casavano.md
+      - geography/realms/halherant.md
+      - geography/realms/iantear.md
+      - geography/realms/ilior.md
+      - geography/realms/kalbaek.md
+      - geography/realms/kalibora.md
+      - geography/realms/kethraelm.md
+      - geography/realms/ksher.md
+      - geography/realms/menassim.md
+      - geography/realms/meshatl.md
+      - geography/realms/niarnfell.md
+      - geography/realms/saesamen.md
   - Cosmology:
     - cosmology/index.md
     - cosmology/magic.md

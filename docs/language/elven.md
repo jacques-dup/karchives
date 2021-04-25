@@ -33,9 +33,12 @@
 |fire|dao||
 |free|hu||
 |gather(ed)|thehstar||
-|give|yew||
+|gemstone|tykir|
+|give|yew||-
+|grove|terantean||
 |grow|orisa||
 |I|'en|also me, refers to the indexical of a being and not limited to self expression"|
+|ice|vo'an||
 |is|nha|also are|
 |it|ra||
 |joy|rath||
@@ -49,16 +52,19 @@
 |me|'en|also I, refers to the indexical of a being and not limited to self expression"|
 |memory(ies)|ansrivarr||
 |moons|nethel||
+|mountain|sil||
 |of|ath||
 |on|arta||
 |open|hasa||
 |pieces|niff|also traces|
 |place, path to|ya||
+|rain|shtas||
 |realm|keth||
 |roam(ed)|ro|also walked, travelled|
 |rule|von||
 |run|sehan'kyshuf||
 |scattered|que|also spread, lost|
+|sea|lu||
 |see|teil||
 |seed|niffel||
 |sky|ther||

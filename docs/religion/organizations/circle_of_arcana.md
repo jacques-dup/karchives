@@ -9,7 +9,7 @@ authors:
 
 !!! info "Details"
     - **Type:** Scientific Ethos: Polytheistic, Truth Seekers
-    - **Patrons:** [Maia](../deities/maia), [Irthor & Kidan](../deities/irthor_&_kidan), [Nimwind](../deities/nimwind), [Kearlun Kreepmaster](../deities/kaerlun), [Ura](../deities/ura)
+    - **Patrons:** [Maia](../deities/maia.md), [Irthor & Kidan](../deities/irthor_&_kidan.md), [Nimwind](../deities/nimwind.md), [Kearlun Kreepmaster](../deities/kaerlun.md), [Ura](../deities/ura.md)
 
 ## Worshippers:
 The Circle of Arcana is a Pantheon grouping of all deities associated with magic in some way.  Its followers are typically scholars of the Arcane or at least practitioners of magic.

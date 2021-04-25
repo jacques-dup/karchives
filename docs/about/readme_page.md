@@ -12,15 +12,15 @@ authors:
 
 **Mac / Linux:**
 ```
-python -m venv karchives_venv
-. ./karchives_venv/bin/activate
+python -m venv env
+. ./env/bin/activate
 pip install -r requirements.txt
 ```
 
 **Windows (Bash shell):**
 ```
-python -m venv karchives_venv
-. ./karchives_venv/Scripts/activate
+python -m env karchives_venv
+. ./env/Scripts/activate
 pip install -r requirements.txt
 ```
 
