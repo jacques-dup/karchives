@@ -79,6 +79,7 @@ The Dwarven language has it roots in Scandinavian and Norwegian, as opposed to t
 |daughter | undeona|
 |day | sultím|
 |dead | -dö (adj)|
+|death | döle (n) |"Angel of Death": dölemadorin (n)|
 |deep | djup|
 |deeper | zadjupitn|
 |demon|durdor|

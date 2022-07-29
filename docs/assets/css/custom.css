@@ -80,6 +80,47 @@
     box-shadow: none;
 }
 
+.sidebar-block {
+    display: block;
+    position: relative;
+    float: right; 
+    max-width: 30%;
+    min-width: 300px;;
+    border: 1px solid var(--md-primary-fg-color);
+    background: var(--md-code-bg-color);
+    padding:0.5em;
+    margin:0.5em;
+    clear:both;
+}
+
+.sidebar-block h1, .sidebar-block h2, .sidebar-block h3 {
+    margin: 0;
+    text-align: center;
+}
+
+.sidebar-block hr {
+    margin: 0;
+}
+
+.stat-block {
+    display: block;
+    min-width: 400px;;
+    border: 1px solid var(--md-primary-fg-color);
+    background: var(--md-code-bg-color);
+    padding:0.5em;
+    margin:0.5em;
+}
+
+.stat-block h3 {
+    font-size: 1rem;
+    margin: 0;
+}
+
+.stat-block p {
+    font-size: 0.64rem;
+    margin: 0.3rem;
+}
+
 /* Overrides */
 
 .md-typeset h1 {
@@ -95,4 +136,31 @@
     text-transform: uppercase;
     letter-spacing: -.01em;
     color: rgba(0,0,0,.54);
+}
+
+.sidebar-block .md-typeset__table table, .stat-block .md-typeset__table {
+    width: 100%;
+}
+
+.sidebar-block .md-typeset__table table, .stat-block .md-typeset__table table {
+    background: none;
+    border: none;
+}
+
+.sidebar-block .md-typeset__table table tbody tr:hover, .stat-block .md-typeset__table table tbody tr:hover {
+    background: none;
+}
+
+.stat-block .md-typeset__table table tbody tr td {
+    padding:0;
+    padding-right: 0.5rem;
+    border: none;
+}
+
+.stat-block .md-typeset__table table {
+    border-bottom: 1px solid var(--md-typeset-table-color);
+}
+
+.stat-block .md-typeset__scrollwrap {
+    margin-bottom: 0;
 }

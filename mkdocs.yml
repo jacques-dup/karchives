@@ -115,18 +115,22 @@ nav:
       - cosmology/planes/umber.md
       - cosmology/planes/void_of_creation.md
   - Races:
-    - people/races/aarakocra.md
-    - people/races/chentoo.md
-    - people/races/dragonborn.md
-    - people/races/dwarves.md
-    - people/races/elves.md
-    - people/races/gnomes.md
-    - people/races/half_elves.md
-    - people/races/half_orcs.md
-    - people/races/halflings.md
-    - people/races/humans.md
-    - people/races/kobolds.md
-    - people/races/tieflings.md
+    - people/races/index.md
+    - Native Races:
+      - people/races/native/chentoo.md
+      - people/races/native/dwarves.md
+      - people/races/native/elves.md
+      - people/races/native/gnomes.md
+      - people/races/native/half_elves.md
+      - people/races/native/half_orcs.md
+      - people/races/native/halflings.md
+      - people/races/native/humans.md
+      - people/races/native/kobolds.md
+    - Arcane Races:
+      - people/races/arcane/aarakocra.md
+      - people/races/arcane/dragonborn.md
+      - people/races/arcane/orkin.md
+      - people/races/arcane/tieflings.md
   - Language:
     - language/elven.md
     - language/dwarven.md
